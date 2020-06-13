@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Rubik One';
+    src: local('Rubik One Regular'), local('RubikOne-Regular'), url('rubikoneregular.woff2') format('woff2'), url('rubikoneregular.woff') format('woff'), url('rubikoneregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
