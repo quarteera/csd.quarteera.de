@@ -1,0 +1,123 @@
+/* MAIN STYLES */
+html, body {
+	min-height: 100%;
+   	height: 100%;
+   	font-family: Rubik One;
+   	background-color: #E5E5E5;
+}
+
+header {
+	display: inline-block;
+	width: calc(100% - 20px);
+	background-color: #E5E5E5;
+	border-top: 10px solid #000000;
+	border-left: 10px solid #000000;
+	border-right: 10px solid #000000;
+}
+
+.logo {
+	display: inline-block;
+	width: calc(14% - 65px);
+	padding: 21px 0px 0px 55px;
+}
+
+.language {
+	display: inline-block;
+    vertical-align: top;
+    position: absolute;
+    right: 55px;
+    top: 49px;
+	
+}
+
+.language a {
+	text-decoration: none;
+	color: #000000;
+	font-size: 14px;
+	line-height: 18px;
+}
+main {
+	display: inline-block;
+	width: calc(100% - 20px);
+	height: 100%;
+	overflow: hidden;
+	padding-top: 30px;
+
+	border-bottom: 10px solid #000000;
+	border-left: 10px solid #000000;
+	border-right: 10px solid #000000;
+}
+.title {
+	display: inline-block;
+	vertical-align: top;
+	padding-top: 10px;
+}
+.title h1 {
+	font-size: 96px;
+	line-height: 99px;
+	text-transform: uppercase;
+	padding-left: 55px;
+
+}
+
+.date {
+	display: inline-block;
+	margin-left: 137px;
+	vertical-align: top;
+	margin-bottom: 41px;
+}
+
+.date img {
+	position: absolute;
+    width: 244.22px;
+    height: 155.06px;
+    left: 991px;
+    top: 91px;
+}
+.date h2 {
+	font-size: 24px;
+	line-height: 27px;
+	margin-bottom: 15px;
+}
+.date .last {
+	margin-bottom: 0px;
+}
+.red {
+	margin: 0px;
+	width: 100%;
+	border: 1px solid #FF0000;
+}
+
+.yellow {
+	border: 1px solid #CCFF15;
+	transform: rotate(89.87deg);
+	margin-left: 290px;
+	width: 100%;
+}
+
+.manifest {
+	display: inline-block;
+	vertical-align: top;
+	width: 72%;
+	border-bottom: 2px solid #0047FF;
+	
+}
+.manifest p {
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: 0.015em;
+	text-align: justify;
+	padding: 72px 100px 72px 55px;
+}
+.manifest img {
+	position: absolute;
+	width: 272px;
+	height: 57.71px;
+	left: 619px;
+	top: 620px;
+}
+.picture {
+	display: inline-block;
+	width: 451px;
+	height: 607px;
+}
