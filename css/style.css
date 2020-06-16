@@ -121,3 +121,122 @@ main {
 	width: 451px;
 	height: 607px;
 }
+
+/* SECOND BLOCK STYLES */
+
+.route {
+	position: relative;
+	width: calc(100% - 20px);
+	border-top: 10px solid #000000;
+	border-left: 10px solid #000000;
+	border-right: 10px solid #000000;
+}
+.route .logo {
+	display: inline-block;
+	padding: 21px 0px 0px 55px;
+}
+.route .language {
+	display: inline-block;
+	float: right;
+	margin-right: 45px;
+	margin-top: 40px;
+	vertical-align: top;
+}
+.route .language a {
+	text-decoration: none;
+	color: #000000;
+	font-size: 14px;
+	line-height: 18px;
+}
+.route h1 {
+	font-size: 96px;
+	line-height: 119px;
+	margin-top: 32px;
+	margin-left: 45px;
+	margin-bottom: 32px;
+}
+.long-blue-line {
+	position: absolute;
+	left: 478px;
+	top: 39px;
+}
+.block-with-red-line {
+	display: inline-block;
+	position: relative;
+	height: 611px;
+	border-top: 1px solid #000000;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+.plan {
+	display: inline-block;
+	width: 82%;
+	vertical-align: top;
+	
+}
+.agenda-and-map {
+	width: 100%;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+.agenda {
+	display: inline-block;
+	width: 40%;
+	padding-top: 48px;
+	padding-left: 19px;
+	vertical-align: top;
+}
+.agenda h2 {
+	font-size: 24px;
+	line-height: 30px;
+	padding-bottom: 32px;
+}
+.agenda .time {
+	display: inline-block;
+	width: calc(20% - 19px); 
+	font-size: 14px;
+	line-height: 22px;
+	color: #726E6E;
+	margin-top: 1px;
+}
+.agenda ul {
+	vertical-align: top;
+	text-align: top;
+}
+.agenda .event li {
+	margin-bottom: 40px;
+}
+.agenda .time li {
+	margin-bottom: 23px;
+}
+#square {
+	width: 12px;
+    height: 12px;
+    background: #000000;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+.agenda .event {
+	display: inline-block;
+	width: calc(80% - 19px);
+	font-size: 18px;
+	line-height: 22px;
+}
+.map {
+	display: inline-block;
+}
+.countdown {
+	display: inline-block;
+	width: 82%;
+	vertical-align: top;
+}
+.countdown p {
+	display: inline-block;
+	padding-right: 68px;
+    padding-top: 89px;
+    font-size: 72px
+}
+.countdown p:first-of-type {
+	padding-left: 207px;
+}
