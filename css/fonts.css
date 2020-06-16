@@ -2,3 +2,19 @@
 	font-family: 'Rubik One'; 
 	src: url(../fonts/rubikoneregular.ttf) format("opentype");
 }
+@font-face {
+	font-family: 'FREE FAT FONT'; 
+	src: url(../fonts/FREEFATFONT-Slanted2.otf) format("opentype");
+}
+@font-face {
+	font-family: 'FREE FAT FONT'; 
+	src: url(../fonts/FREEFATFONT-Regular.otf) format("opentype");
+}
+@font-face {
+	font-family: 'FREE FAT FONT'; 
+	src: url(../fonts/._FREEFATFONT-Regular.otf) format("opentype");
+}
+@font-face {
+	font-family: 'FREE FAT FONT'; 
+	src: url(../fonts/._FREEFATFONT-Slanted.otf) format("opentype");
+}
