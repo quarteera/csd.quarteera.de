@@ -161,7 +161,7 @@ main {
 	left: 478px;
 	top: 39px;
 }
-.block-with-red-line {
+/* .block-with-red-line {
 	display: inline-block;
 	position: relative;
 	height: 611px;
@@ -169,7 +169,7 @@ main {
 	border-right: 1px solid #000000;
 	border-bottom: 1px solid #000000;
 }
-
+ */
 .plan {
 	display: inline-block;
 	width: 82%;
@@ -177,16 +177,18 @@ main {
 	
 }
 .agenda-and-map {
-	width: 100%;
-	border-top: 1px solid #000000;
-	border-bottom: 1px solid #000000;
+	width: calc(100% - 227px);
+    margin-left: 227px;
+    
+	/*border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000; */
 }
 .agenda {
 	display: inline-block;
-	width: 40%;
+	width: 50%;
 	padding-top: 48px;
-	padding-left: 19px;
 	vertical-align: top;
+	float: left;
 }
 .agenda h2 {
 	font-size: 24px;
@@ -209,7 +211,7 @@ main {
 	margin-bottom: 40px;
 }
 .agenda .time li {
-	margin-bottom: 23px;
+	margin-bottom: 39px;
 }
 #square {
 	width: 12px;
@@ -226,18 +228,35 @@ main {
 }
 .map {
 	display: inline-block;
+	width: 50%;
 }
 .countdown {
 	display: inline-block;
 	width: 82%;
 	vertical-align: top;
 }
-.countdown p {
+
+.countdown #days {
+	display: inline-block;
+	padding-right: 68px;
+    padding-top: 89px;
+    padding-left: 207px;
+    font-size: 72px
+}
+.countdown #hours {
 	display: inline-block;
 	padding-right: 68px;
     padding-top: 89px;
     font-size: 72px
 }
-.countdown p:first-of-type {
-	padding-left: 207px;
+.countdown #minutes {
+	display: inline-block;
+	padding-right: 68px;
+    padding-top: 89px;
+    font-size: 72px
+}
+.countdown #seconds {
+	display: inline-block;
+    padding-top: 89px;
+    font-size: 72px
 }
