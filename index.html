@@ -4,3 +4,233 @@
 		<meta charset="utf-8">
 		<title> Marzahn Pride </title>
 	</head>
+	<body>
+		<header>
+			<div class="logo">
+				<img src="images/logo.png">
+			</div>
+			<div class="language">
+				<a href="">
+					RU
+				</a>
+			</div>
+		</header>
+		<main>
+			<div class="title">
+				<h1>
+					Marzahn Pride
+				</h1>
+			</div>
+			<div class="date">
+				<img src="images/orange-vector.png">
+				<h2>
+					18 Juli Samstag
+				</h2>
+				<h2>
+					10:00
+				</h2>
+				<h2 class="last">
+					Marzahnstr.
+				</h2>
+			</div>
+			<hr class="red">
+			<hr class="yellow">
+			<div class="manifest">
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+				</p>
+				<img src="images/vector1.png">
+			</div>
+			<div class="picture">
+				
+			</div>
+			<div class="social-networks">
+				<hr class="cross-line">
+				<img src="" class="circle">
+				<img src="" class="line">
+				<a href="">Facebook</a>
+				<a href="">Instagram</a>
+				<p>info@quarteera.de</p>
+			</div>
+			<div class="donate">
+				<a href="">Donate</a>
+			</div>
+			<div class="more">
+				Mehr
+			</div>
+		</main>
+
+		<!-- SECOND BLOCK -->
+
+		<section class="route">
+				<div class="logo">
+					<img src="images/logo.png">
+				</div>
+				<div class="language">
+					<a href="">
+						RU
+					</a>
+				</div>
+				<h1>
+					Route
+				</h1>
+				<div class="long-blue-line">
+					<img src="images/long-blue-line.png">
+				</div>
+				<!-- <div class="block-with-red-line">
+					<img src="images/red-diagonal.png">
+				</div> -->
+				<div class="plan">
+					<div class="agenda-and-map">
+						<div class="agenda">
+							<h2>Agenda</h2>
+							<ul class="time">
+								<li>
+									10:00
+								</li>
+								<div id="square"></div>
+								<li>
+									12:00
+								</li>
+								<div id="square"></div>
+								<li>
+									16:00
+								</li>
+								<div id="square"></div>
+								<li>
+									17:00
+								</li>
+								<div id="square"></div>
+							</ul>
+							<ul class="event">
+								<li>
+									Lorem Ipsum dolor
+								</li>
+								<li>
+									Lorem Ipsum dolor
+								</li>
+								<li>
+									Lorem Ipsum dolor
+								</li>
+								<li>
+									Lorem Ipsum dolor
+								</li>
+							</ul>
+						</div>
+						<div class="map">
+							<img src="images/map.png">
+						</div>
+					</div>
+					<div class="countdown">
+						<p id="days"> </p>
+						<script>
+							// Set the date we're counting down to
+							var countDownDate = new Date("Juli 18, 2020 12:00:00").getTime();
+
+							// Update the count down every 1 second
+							var x = setInterval(function() {
+
+							  // Get today's date and time
+							  var now = new Date().getTime();
+
+							  // Find the distance between now and the count down date
+							  var distance = countDownDate - now;
+
+							  // Time calculations for days, hours, minutes and seconds
+							  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+
+							  // Display the result in the element with id="demo"
+							  document.getElementById("days").innerHTML = days ;
+
+							  // If the count down is finished, write some text
+							  if (distance < 0) {
+							    clearInterval(x);
+							    document.getElementById("days").innerHTML = "EXPIRED";
+							  }
+							}, 1000);
+						</script>
+						<p id="hours"> </p>
+						<script>
+							// Set the date we're counting down to
+							var countDownDate = new Date("Juli 18, 2020 12:00:00").getTime();
+
+							// Update the count down every 1 second
+							var x = setInterval(function() {
+
+							  // Get today's date and time
+							  var now = new Date().getTime();
+
+							  // Find the distance between now and the count down date
+							  var distance = countDownDate - now;
+
+							  // Time calculations for days, hours, minutes and seconds
+							  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+							  // Display the result in the element with id="demo"
+							  document.getElementById("hours").innerHTML = hours ;
+
+							  // If the count down is finished, write some text
+							  if (distance < 0) {
+							    clearInterval(x);
+							    document.getElementById("hours").innerHTML = "EXPIRED";
+							  }
+							}, 1000);
+						</script>
+						<p id="minutes"> </p>
+						<script>
+							// Set the date we're counting down to
+							var countDownDate = new Date("Juli 18, 2020 12:00:00").getTime();
+
+							// Update the count down every 1 second
+							var x = setInterval(function() {
+
+							  // Get today's date and time
+							  var now = new Date().getTime();
+
+							  // Find the distance between now and the count down date
+							  var distance = countDownDate - now;
+
+							  // Time calculations for days, hours, minutes and seconds
+							  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+
+							  // Display the result in the element with id="demo"
+							  document.getElementById("minutes").innerHTML = minutes;
+
+							  // If the count down is finished, write some text
+							  if (distance < 0) {
+							    clearInterval(x);
+							    document.getElementById("minutes").innerHTML = "EXPIRED";
+							  }
+							}, 1000);
+						</script>
+						<p id="seconds"> </p>
+						<script>
+							// Set the date we're counting down to
+							var countDownDate = new Date("Juli 18, 2020 12:00:00").getTime();
+
+							// Update the count down every 1 second
+							var x = setInterval(function() {
+
+							  // Get today's date and time
+							  var now = new Date().getTime();
+
+							  // Find the distance between now and the count down date
+							  var distance = countDownDate - now;
+
+							  // Time calculations for days, hours, minutes and seconds
+							  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+							  // Display the result in the element with id="demo"
+							  document.getElementById("seconds").innerHTML = seconds;
+
+							  // If the count down is finished, write some text
+							  if (distance < 0) {
+							    clearInterval(x);
+							    document.getElementById("seconds").innerHTML = "EXPIRED";
+							  }
+							}, 1000);
+						</script>					
+					</div>
+				</div>
+		</section>
+	</body>
