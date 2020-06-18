@@ -5,7 +5,6 @@ html, body {
    	font-family: Rubik One;
    	background-color: #E5E5E5;
 }
-
 header {
 	display: inline-block;
 	width: calc(100% - 20px);
@@ -15,19 +14,19 @@ header {
 	border-right: 10px solid #000000;
 }
 
-.logo {
+header .logo {
 	display: inline-block;
-	width: calc(14% - 65px);
-	padding: 21px 0px 0px 55px;
+	padding: 21px 0px 0px 45px;
+	width: calc(67% - 45px);
+	border-right: 1px solid #AD00FF;
 }
 
-.language {
+header .language {
 	display: inline-block;
-    vertical-align: top;
-    position: absolute;
-    right: 55px;
-    top: 49px;
-	
+	float: right;
+	margin-right: 45px;
+	margin-top: 40px;
+	vertical-align: top;
 }
 
 .language a {
@@ -39,32 +38,38 @@ header {
 main {
 	display: inline-block;
 	width: calc(100% - 20px);
-	height: 100%;
-	overflow: hidden;
-	padding-top: 30px;
-
 	border-bottom: 10px solid #000000;
 	border-left: 10px solid #000000;
 	border-right: 10px solid #000000;
 }
+.top {
+	display: inline-block;
+	width: 100%;
+	border-bottom: 1px solid #FF0000;
+}
 .title {
 	display: inline-block;
+	width: 67%;
 	vertical-align: top;
-	padding-top: 10px;
+	padding-top: 45px;
+	border-right: 1px solid #AD00FF;
 }
 .title h1 {
 	font-size: 96px;
-	line-height: 99px;
+	line-height: 119px;
 	text-transform: uppercase;
-	padding-left: 55px;
-
+	padding-left: 45px;
+	padding-bottom: 45px;
 }
 
 .date {
 	display: inline-block;
-	margin-left: 137px;
-	vertical-align: top;
-	margin-bottom: 41px;
+	position: relative;
+	padding-right: 121px;
+	float: right;
+	vertical-align: middle;
+	margin-top: 40px;
+
 }
 
 .date img {
@@ -79,10 +84,10 @@ main {
 	line-height: 27px;
 	margin-bottom: 15px;
 }
-.date .last {
+.date h2:last-of-type {
 	margin-bottom: 0px;
 }
-.red {
+/* .red {
 	margin: 0px;
 	width: 100%;
 	border: 1px solid #FF0000;
@@ -93,39 +98,115 @@ main {
 	transform: rotate(89.87deg);
 	margin-left: 290px;
 	width: 100%;
+} */
+.left-block {
+	width: 67%;
+	float: left;
 }
-
+.manifest-and-circle {
+	display: inline-block;
+	width: 100%;
+	border-bottom: 2px solid #0047FF;
+}
 .manifest {
 	display: inline-block;
-	vertical-align: top;
-	width: 72%;
-	border-bottom: 2px solid #0047FF;
-	
+    vertical-align: bottom;
+    width: 63%;
+    border-right: 1px solid #AD00FF;
 }
 .manifest p {
+	height: 216px;
+	padding: 45px;
 	font-size: 18px;
 	line-height: 25px;
 	letter-spacing: 0.015em;
 	text-align: justify;
-	padding: 72px 100px 72px 55px;
 }
-.manifest img {
+.circle {
+	display: inline-block;
+	float: right;
+}
+.circle img {
+	width: calc(100% - 132px);
+	padding: 55px;
+}
+/*.manifest img {
 	position: absolute;
 	width: 272px;
 	height: 57.71px;
 	left: 619px;
 	top: 620px;
-}
+} */
 .picture {
 	display: inline-block;
-	width: 451px;
-	height: 607px;
+	width: 32%;
+	border-left: 1px solid #AD00FF;
+} 
+.picture img {
+	width: 100%;
+	padding-left: 12px;
 }
 
+.sn-and-scroll {
+	display: inline-block;
+	width: 100%;
+}
+.sn-and-donate {
+	display: inline-block;
+	position: relative;
+    width: 63%;
+    border-right: 1px solid #AD00FF;
+}
+.social-networks {
+	margin-top: 159px;
+	padding-bottom: 44px;
+	padding-left: 46px;
+	font-size: 24px;
+	line-height: 34px;
+	text-align: justify;
+	letter-spacing: 0.015em;
+	text-decoration: none;
+	color: #000000;
+}
+.social-networks a {
+	text-decoration: none;
+	color: #000000;
+}
+.donate {
+	float: right;
+	margin-top: 74px;
+	margin-right: 45px;
+}
+.donate a {
+	background-color: #CCFF15;
+	padding: 29px 80px;
+	font-size: 24px;
+	line-height: 30px;
+	color: #000000;
+}
+.cross-line {
+	position: absolute;
+    margin: 0px;
+    width: 671.46px;
+    height: 0px;
+    left: -36px;
+    top: 153px;
+    border: 1px solid #AD00FF;
+    transform: rotate(27deg);
+}
+.scroll {
+	display: inline-block;
+    vertical-align: bottom;
+    float: right;
+    padding-right: 165px;
+    padding-left: 165px;
+    padding-top: 124px;
+}
 /* SECOND BLOCK STYLES */
 
 .route {
 	position: relative;
+	vertical-align: top;
 	width: calc(100% - 20px);
 	border-top: 10px solid #000000;
 	border-left: 10px solid #000000;
