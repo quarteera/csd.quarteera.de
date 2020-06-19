@@ -62,14 +62,16 @@ main {
 	width: calc(33% - 122px);
 	float: right;
 	vertical-align: middle;
-	margin-top: 40px;
+	/* margin-top: 40px; */
+	margin-top: 67px;
 
 }
 
 .date img {
 	position: absolute;
     left: -84px;
-    top: -14px;
+    /* top: -14px; */
+    top: -47px;
 }
 .date h2 {
 	font-size: 24px;
@@ -192,6 +194,19 @@ main {
 	color: #000000;
 	text-decoration: none;
 }
+.donate-ru {
+	float: right;
+	margin-top: 74px;
+	margin-right: 45px;
+}
+.donate-ru a {
+	background-color: #CCFF15;
+	padding: 29px 29px;
+	font-size: 24px;
+	line-height: 30px;
+	color: #000000;
+	text-decoration: none;
+}
 .cross-line {
 	position: absolute;
     margin: 0px;
@@ -209,7 +224,7 @@ main {
     float: right;
     /* padding-right: 50%; */
     /* padding-left: 165px; */
-    padding-top: 145px;
+    padding-top: 145px
 }
 .scroll-box {
 	width: 52%;
@@ -392,23 +407,22 @@ main {
 	padding-right: 68px;
     padding-top: 89px;
     padding-left: 207px;
-    font-size: 72px;
+    font-size: 72px
 }
 .countdown #hours {
 	display: inline-block;
 	padding-right: 68px;
     padding-top: 89px;
-    font-size: 72px;
+    font-size: 72px
 }
 .countdown #minutes {
 	display: inline-block;
 	padding-right: 68px;
     padding-top: 89px;
-    font-size: 72px;
+    font-size: 72px
 }
 .countdown #seconds {
 	display: inline-block;
     padding-top: 89px;
-    font-size: 72px;
+    font-size: 72px
 }
-
