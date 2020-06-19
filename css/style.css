@@ -7,18 +7,15 @@ html, body {
 }
 header {
 	display: inline-block;
-	width: calc(100% - 20px);
+	width: 100%;
 	background-color: #E5E5E5;
-	border-top: 10px solid #000000;
-	border-left: 10px solid #000000;
-	border-right: 10px solid #000000;
 }
 
 header .logo {
 	display: inline-block;
 	padding: 21px 0px 0px 45px;
 	width: calc(67% - 45px);
-	border-right: 1px solid #AD00FF;
+	border-right: 1px solid #000000;
 }
 
 header .language {
@@ -37,22 +34,19 @@ header .language {
 }
 main {
 	display: inline-block;
-	width: calc(100% - 20px);
-	border-bottom: 10px solid #000000;
-	border-left: 10px solid #000000;
-	border-right: 10px solid #000000;
+	width: 100%;
 }
 .top {
 	display: inline-block;
 	width: 100%;
-	border-bottom: 1px solid #FF0000;
+	border-bottom: 1px solid #000000;
 }
 .title {
 	display: inline-block;
 	width: 67%;
 	vertical-align: top;
 	padding-top: 45px;
-	border-right: 1px solid #AD00FF;
+	border-right: 1px solid #000000;
 }
 .title h1 {
 	font-size: 96px;
@@ -65,7 +59,7 @@ main {
 .date {
 	display: inline-block;
 	position: relative;
-	padding-right: 121px;
+	width: calc(33% - 122px);
 	float: right;
 	vertical-align: middle;
 	margin-top: 40px;
@@ -74,10 +68,8 @@ main {
 
 .date img {
 	position: absolute;
-    width: 244.22px;
-    height: 155.06px;
-    left: 991px;
-    top: 91px;
+    left: -84px;
+    top: -14px;
 }
 .date h2 {
 	font-size: 24px;
@@ -106,29 +98,38 @@ main {
 .manifest-and-circle {
 	display: inline-block;
 	width: 100%;
-	border-bottom: 2px solid #0047FF;
+	border-bottom: 1px solid #000000;
 }
 .manifest {
 	display: inline-block;
+	position: relative;
     vertical-align: bottom;
     width: 63%;
-    border-right: 1px solid #AD00FF;
+    border-right: 1px solid #000000;
+}
+.manifest img {
+	position: absolute;
+	width: 373px;
+	height: 148px;
 }
 .manifest p {
+	position: relative;
 	height: 216px;
-	padding: 45px;
-	font-size: 18px;
-	line-height: 25px;
+	padding: 52px 45px;
+	font-size: 24px;
+	line-height: 30px;
 	letter-spacing: 0.015em;
 	text-align: justify;
 }
 .circle {
 	display: inline-block;
+	width: calc(37% - 1px);
 	float: right;
 }
 .circle img {
 	width: calc(100% - 132px);
-	padding: 55px;
+	padding-top: 45px;
+	padding-left: 66px;
 }
 /*.manifest img {
 	position: absolute;
@@ -139,12 +140,13 @@ main {
 } */
 .picture {
 	display: inline-block;
-	width: 32%;
-	border-left: 1px solid #AD00FF;
+	width: calc(33% - 1px);
+	border-left: 1px solid #000000;
+	border-bottom: 1px solid #000000;
 } 
 .picture img {
-	width: 100%;
-	padding-left: 12px;
+	float: right;
+    width: 99%;
 }
 
 .sn-and-scroll {
@@ -155,11 +157,13 @@ main {
 	display: inline-block;
 	position: relative;
     width: 63%;
-    border-right: 1px solid #AD00FF;
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
 }
 .social-networks {
+	position: relative;
 	margin-top: 159px;
-	padding-bottom: 44px;
+	padding-bottom: 49px;
 	padding-left: 46px;
 	font-size: 24px;
 	line-height: 34px;
@@ -183,52 +187,115 @@ main {
 	font-size: 24px;
 	line-height: 30px;
 	color: #000000;
+	text-decoration: none;
 }
 .cross-line {
 	position: absolute;
     margin: 0px;
-    width: 671.46px;
+    width: 680.46px;
     height: 0px;
     left: -36px;
-    top: 153px;
-    border: 1px solid #AD00FF;
+    top: 154px;
+    border: 1px solid #000000;
     transform: rotate(27deg);
 }
 .scroll {
 	display: inline-block;
     vertical-align: bottom;
+    width: calc(37% - 1px);
     float: right;
-    padding-right: 165px;
-    padding-left: 165px;
-    padding-top: 124px;
+    /* padding-right: 50%; */
+    /* padding-left: 165px; */
+    padding-top: 184px
 }
+.scroll-box {
+	width: 52%;
+}
+.scroll-box img {
+	float: right;
+    margin-bottom: 19px;
+}
+.scroll-line {
+	display: inline-block;
+    float: right;
+    vertical-align: top;
+    width: 50%;
+    padding-top: 112px;
+    border-left: 1px solid #000000;
+}
+
 /* SECOND BLOCK STYLES */
 
+.text {
+	display: inline-block;
+	width: 100%;
+}
+.box-left-bottom-border {
+	display: inline-block;
+    float: right;
+    width: calc(46% - 8px)
+}
+.left-bottom-border {
+	display: inline-block;
+    vertical-align: top;
+    /* margin-right: 30.34%; */
+    width: calc(34% - 2px);
+    padding-top: 125px;
+    border-bottom: 1px solid #000000;
+    border-left: 1px solid #000000;
+}
+
+.left-border {
+	display: inline-block;
+    float: right;
+    margin-right: 66%;
+    margin-top: 126px;
+    padding-top: 42px;
+    border-left: 1px solid #000000;
+}
+.box-title-text-picture {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 58px;
+}
+.text h1 {
+	
+	margin-left: 54%;
+	font-size: 96px;
+	line-height: 119px;
+}
+.rainbow {
+	display: inline-block;
+	width: 35.83%;
+	margin-left: 3.75%;
+	margin-top: 45px;
+}
+.rainbow img {
+	width: 100%;
+}
+.long-text {
+	display: inline-block;
+	vertical-align: top;
+	width: 51.94%;
+	margin-top: 41px;
+	float: right;
+	margin-right: 3.75%;
+}
+.long-text p {
+	font-size: 18px;
+	line-height: 23px;
+	text-align: justify;
+}
+
+/* THIRD BLOCK STYLES */
+
+/*
 .route {
 	position: relative;
 	vertical-align: top;
-	width: calc(100% - 20px);
-	border-top: 10px solid #000000;
-	border-left: 10px solid #000000;
-	border-right: 10px solid #000000;
+	width: 100%;
 }
-.route .logo {
-	display: inline-block;
-	padding: 21px 0px 0px 55px;
-}
-.route .language {
-	display: inline-block;
-	float: right;
-	margin-right: 45px;
-	margin-top: 40px;
-	vertical-align: top;
-}
-.route .language a {
-	text-decoration: none;
-	color: #000000;
-	font-size: 14px;
-	line-height: 18px;
-}
+
 .route h1 {
 	font-family: Rubik One;
 	font-size: 96px;
@@ -341,3 +408,4 @@ main {
     padding-top: 89px;
     font-size: 72px
 }
+
