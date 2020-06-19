@@ -23,7 +23,6 @@
 	    display: inline-block;
 	    vertical-align: bottom;
 	    float: right;
-	    padding-right: -5px;
 	    padding-left: 0px;
 	    padding-top: 145px;
 	}
@@ -77,12 +76,14 @@
 	    width: calc(33% - 1px);
 	    float: right;
 	    vertical-align: middle;
-	    margin-top: 2.5%;
+	   /* margin-top: 2.5%; */
+	   margin-top: 3.9%;
 	}
 	.date img {
 	    position: absolute;
 	    left: 9px;
-	    top: -47px;
+	   /* top: -47px; */
+	   top: -66px;
 	}
 	.date h2 {
 	    display: inline-block;
