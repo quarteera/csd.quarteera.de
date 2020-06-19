@@ -314,12 +314,12 @@ main {
 }
 .impressum p {
 	display: inline-block;
-	width: 25%;
+	padding-right: 10px;
 }
 .impressum a {
 	display: inline-block;
-	width: 24%;
 	color: #000000;
+	padding-right: 10px;
 }
 
 /* THIRD BLOCK STYLES */
