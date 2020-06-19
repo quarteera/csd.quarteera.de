@@ -308,8 +308,8 @@ main {
 	text-decoration: none;
 	float: right;
 	color: #000000;
-	padding-bottom: 45px;
-	padding-right: 45px;
+	margin-bottom: 45px;
+	margin-right: 45px;
 	margin-top: 30px;
 	font-size: 18px;
 	line-height: 23px;
