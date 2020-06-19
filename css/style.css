@@ -176,6 +176,9 @@ main {
 	text-decoration: none;
 	color: #000000;
 }
+.social-networks a:hover {
+	color: #CCFF15;
+}
 .donate {
 	float: right;
 	margin-top: 74px;
