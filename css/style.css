@@ -236,7 +236,7 @@ main {
 .box-left-bottom-border {
 	display: inline-block;
     float: right;
-    width: calc(46% - 8px)
+    width: calc(45.5% - 1px);
 }
 .left-bottom-border {
 	display: inline-block;
