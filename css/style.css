@@ -389,23 +389,23 @@ main {
 	padding-right: 68px;
     padding-top: 89px;
     padding-left: 207px;
-    font-size: 72px
+    font-size: 72px;
 }
 .countdown #hours {
 	display: inline-block;
 	padding-right: 68px;
     padding-top: 89px;
-    font-size: 72px
+    font-size: 72px;
 }
 .countdown #minutes {
 	display: inline-block;
 	padding-right: 68px;
     padding-top: 89px;
-    font-size: 72px
+    font-size: 72px;
 }
 .countdown #seconds {
 	display: inline-block;
     padding-top: 89px;
-    font-size: 72px
+    font-size: 72px;
 }
 
