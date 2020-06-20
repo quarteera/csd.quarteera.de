@@ -17,10 +17,6 @@ header .logo {
 	width: calc(67% - 45px);
 	border-right: 1px solid #000000;
 }
-header .logo img:hover {
-	background-color: #CCFF15;
-	border-radius: 10px; 
-}
 header .language {
 	display: inline-block;
 	float: right;
