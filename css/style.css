@@ -2,7 +2,8 @@
 html, body {
 	min-height: 100%;
    	height: 100%;
-   	font-family: Rubik One;
+   	font-family: Rubik-Regular;
+	font-weight: normal;
    	background-color: #E5E5E5;
 }
 header {
@@ -48,6 +49,7 @@ main {
 	border-right: 1px solid #000000;
 }
 .title h1 {
+	font-family: Rubik-Black;
 	font-size: 96px;
 	line-height: 119px;
 	text-transform: uppercase;
@@ -276,7 +278,7 @@ main {
 	margin-bottom: 58px;
 }
 .text h1 {
-	
+	font-family: Rubik-Black;
 	margin-left: 44%;
 	font-size: 96px;
 	line-height: 119px;
