@@ -13,7 +13,7 @@ header {
 
 header .logo {
 	display: inline-block;
-	padding: 21px 0px 0px 45px;
+	margin: 21px 0px 0px 45px;
 	width: calc(67% - 45px);
 	border-right: 1px solid #000000;
 }
