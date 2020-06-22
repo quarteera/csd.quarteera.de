@@ -28,14 +28,14 @@
 	    padding-top: 145px;
 	}
 	.cross-line {
-	    position: absolute;
-	    margin: 0px;
-	    width: 651.46px;
-	    height: 0px;
-	    left: -43px;
-	    top: 156px;
-	    border: 1px solid #000000;
-	    transform: rotate(28.9deg);
+		position: absolute;
+		margin: 0px;
+		width: 651.46px;
+		height: 0px;
+		left: -43px;
+		top: 156px;
+		border: 1px solid #000000;
+		transform: rotate(28.9deg);
 	}
 	.social-networks {
 	    position: relative;
@@ -174,5 +174,47 @@
 	.picture img {
 	    float: right;
 	    width: calc(100% - 2px);
+	}
+}
+@media (max-device-width : 375px) {
+	.title h1 {
+		font-size: 70px;
+		line-height: 97px;
+	}
+	.manifest p {
+		height: 178px;
+		padding: 30px;
+		font-size: 17px;
+		line-height: 21px;
+	}
+	.circle img {
+		width: 61.5%;
+		padding-top: 18.5%;
+		padding-left: 18.9%;
+	}
+	.cross-line {
+		position: absolute;
+		padding: 0px;
+		margin: 0px;
+		width: 452px;
+		height: 0px;
+		left: -20px;
+		top: 95px;
+		border: 1px solid #000000;
+		transform: rotate(25deg);
+	}
+	.social-networks {
+		margin-top: 111px;
+		padding-bottom: 19px;
+		padding-left: 30px;
+		font-size: 17px;
+		line-height: 21px;
+	}
+	.scroll {
+		padding-left: 0px;
+		padding-top: 78px;
+	}
+	.scroll-line {
+		padding-top: 36px;
 	}
 }
