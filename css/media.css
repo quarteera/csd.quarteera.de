@@ -1,4 +1,4 @@
-@media only screen and (max-width : 1366px) {
+@media screen and (max-width : 1366px) {
 	.title h1 {
 		font-size: 89px;
 		line-height: 116px;
@@ -55,7 +55,7 @@
 	    margin-right: 35px;
 	}
 }
-@media only screen and (max-width : 1024px) {
+@media screen and (max-width : 1024px) {
 	.title {
 	    display: inline-block;
 	    width: 67%;
@@ -176,7 +176,7 @@
 	    width: calc(100% - 2px);
 	}
 }
-@media (max-device-width : 375px) {
+@media screen and (max-device-width : 828px) {
 	.title h1 {
 		font-size: 70px;
 		line-height: 97px;
@@ -193,14 +193,10 @@
 		padding-left: 18.9%;
 	}
 	.cross-line {
-		position: absolute;
-		padding: 0px;
-		margin: 0px;
-		width: 452px;
+		width: 456px;
 		height: 0px;
-		left: -20px;
+		left: -23px;
 		top: 95px;
-		border: 1px solid #000000;
 		transform: rotate(25deg);
 	}
 	.social-networks {
@@ -215,6 +211,6 @@
 		padding-top: 78px;
 	}
 	.scroll-line {
-		padding-top: 36px;
+		padding-top: 38px;
 	}
 }
