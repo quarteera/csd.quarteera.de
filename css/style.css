@@ -1,11 +1,11 @@
 /* MAIN STYLES */
 html, body {
-    min-width: 1440px;
+	min-width: 100%;
 	min-height: 100%;
-   	height: 100%;
-   	font-family: Rubik-Regular;
-	font-weight: normal;
-   	background-color: #E5E5E5;
+	height: 100%;
+	font-family: Rubik-Black;
+	background-color: #E5E5E5;
+	min-width: 100%;
 }
 header {
 	display: inline-block;
@@ -15,10 +15,12 @@ header {
 
 header .logo {
 	display: inline-block;
-	margin: 21px 0px 0px 45px;
+	margin: 0px 0px 0px 45px;
+	padding-top: 21px;
 	width: calc(67% - 45px);
 	border-right: 1px solid #000000;
 }
+
 header .language {
 	display: inline-block;
 	float: right;
@@ -32,6 +34,10 @@ header .language {
 	color: #000000;
 	font-size: 14px;
 	line-height: 18px;
+	margin-left: 25px;
+}
+.language a:hover {
+	color: #CCFF15;
 }
 main {
 	display: inline-block;
@@ -50,7 +56,6 @@ main {
 	border-right: 1px solid #000000;
 }
 .title h1 {
-	font-family: Rubik-Black;
 	font-size: 96px;
 	line-height: 119px;
 	text-transform: uppercase;
@@ -71,9 +76,9 @@ main {
 
 .date img {
 	position: absolute;
-    left: -84px;
-    /* top: -14px; */
-    top: -47px;
+	left: -84px;
+	/* top: -14px; */
+	top: -47px;
 }
 .date h2 {
 	font-size: 24px;
@@ -107,9 +112,9 @@ main {
 .manifest {
 	display: inline-block;
 	position: relative;
-    vertical-align: bottom;
-    width: 63%;
-    border-right: 1px solid #000000;
+	vertical-align: bottom;
+	width: 63%;
+	border-right: 1px solid #000000;
 }
 .manifest img {
 	position: absolute;
@@ -117,8 +122,10 @@ main {
 	height: 148px;
 }
 .manifest p {
+	font: Rubik-Regular;
 	position: relative;
-	height: 216px;
+	height: calc(22.3% - 104px);
+	/* height: 216px; */
 	padding: 52px 45px;
 	font-size: 24px;
 	line-height: 30px;
@@ -147,10 +154,10 @@ main {
 	width: calc(33% - 1px);
 	border-left: 1px solid #000000;
 	border-bottom: 1px solid #000000;
-} 
+}
 .picture img {
 	float: right;
-    width: 99%;
+	width: 99%;
 }
 
 .sn-and-scroll {
@@ -160,9 +167,9 @@ main {
 .sn-and-donate {
 	display: inline-block;
 	position: relative;
-    width: 63%;
-    border-right: 1px solid #000000;
-    border-bottom: 1px solid #000000;
+	width: 63%;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
 }
 .social-networks {
 	position: relative;
@@ -211,37 +218,37 @@ main {
 }
 .cross-line {
 	position: absolute;
-    margin: 0px;
-    width: 680.46px;
-    height: 0px;
-    left: -36px;
-    top: 154px;
-    border: 1px solid #000000;
-    transform: rotate(27deg);
+	margin: 0px;
+	width: 680.46px;
+	height: 0px;
+	left: -36px;
+	top: 154px;
+	border: 1px solid #000000;
+	transform: rotate(27deg);
 }
 .scroll {
 	display: inline-block;
-    vertical-align: bottom;
-    width: calc(37% - 1px);
-    float: right;
-    /* padding-right: 50%; */
-    /* padding-left: 165px; */
-    padding-top: 145px;
+	vertical-align: bottom;
+	width: calc(37% - 1px);
+	float: right;
+	/* padding-right: 50%; */
+	/* padding-left: 165px; */
+	padding-top: 145px
 }
 .scroll-box {
 	width: 52%;
 }
 .scroll-box img {
 	float: right;
-    margin-bottom: 19px;
+	margin-bottom: 19px;
 }
 .scroll-line {
 	display: inline-block;
-    float: right;
-    vertical-align: top;
-    width: 50%;
-    padding-top: 112px;
-    border-left: 1px solid #000000;
+	float: right;
+	vertical-align: top;
+	width: 50%;
+	padding-top: 112px;
+	border-left: 1px solid #000000;
 }
 
 /* SECOND BLOCK STYLES */
@@ -252,26 +259,26 @@ main {
 }
 .box-left-bottom-border {
 	display: inline-block;
-    float: right;
-    width: calc(45.5% - 1px);
+	float: right;
+	width: calc(45.5% - 1px);
 }
 .left-bottom-border {
 	display: inline-block;
-    vertical-align: top;
-    /* margin-right: 30.34%; */
-    width: calc(34% - 2px);
-    padding-top: 125px;
-    border-bottom: 1px solid #000000;
-    border-left: 1px solid #000000;
+	vertical-align: top;
+	/* margin-right: 30.34%; */
+	width: calc(34% - 2px);
+	padding-top: 125px;
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #000000;
 }
 
 .left-border {
 	display: inline-block;
-    float: right;
-    margin-right: 66%;
-    margin-top: 126px;
-    padding-top: 42px;
-    border-left: 1px solid #000000;
+	float: right;
+	margin-right: 66%;
+	margin-top: 126px;
+	padding-top: 42px;
+	border-left: 1px solid #000000;
 }
 .box-title-text-picture {
 	display: inline-block;
@@ -279,7 +286,7 @@ main {
 	margin-bottom: 58px;
 }
 .text h1 {
-	font-family: Rubik-Black;
+
 	margin-left: 44%;
 	font-size: 96px;
 	line-height: 119px;
@@ -294,6 +301,7 @@ main {
 	width: 100%;
 }
 .long-text {
+	font-family: Rubik-Regular;
 	display: inline-block;
 	vertical-align: top;
 	width: 51.94%;
@@ -307,6 +315,7 @@ main {
 	text-align: justify;
 }
 .impressum {
+	font-family: Rubik-Regular;
 	font-size: 14px;
 	width: 100%;
 	float: right;
@@ -323,7 +332,6 @@ main {
 	color: #000000;
 	padding-right: 10px;
 }
-
 /* THIRD BLOCK STYLES */
 
 /*
@@ -355,19 +363,20 @@ main {
 	border-bottom: 1px solid #000000;
 }
  */
-.plan {
+/* .plan {
 	display: inline-block;
 	width: 82%;
 	vertical-align: top;
-	
+
 }
 .agenda-and-map {
 	width: calc(100% - 227px);
     margin-left: 227px;
-    
+
 	/*border-top: 1px solid #000000;
 	border-bottom: 1px solid #000000; */
 }
+/*
 .agenda {
 	display: inline-block;
 	width: 50%;

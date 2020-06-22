@@ -7,10 +7,11 @@
 		padding-bottom: 45px;
 	}
 	.manifest p {
+		font-family: Rubik-Regular;
 		height: 185px;
 		padding: 45px;
-		font-size: 24px;
-    	line-height: 26px;
+		font-size: 20px;
+		line-height: 26px;
 		letter-spacing: 0.015em;
 		text-align: justify;
 	}
