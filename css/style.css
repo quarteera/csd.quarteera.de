@@ -122,7 +122,7 @@ main {
 	height: 148px;
 }
 .manifest p {
-	font: Rubik-Regular;
+	font-family: Rubik-Regular;
 	position: relative;
 	height: calc(22.3% - 104px);
 	/* height: 216px; */
@@ -157,7 +157,7 @@ main {
 }
 .picture img {
 	float: right;
-	width: 99%;
+	width: calc(100% - 1px);
 }
 
 .sn-and-scroll {
@@ -173,7 +173,7 @@ main {
 }
 .social-networks {
 	position: relative;
-	margin-top: 163px;
+	margin-top: 146px;
 	padding-bottom: 45px;
 	padding-left: 45px;
 	font-size: 24px;
@@ -183,6 +183,18 @@ main {
 	text-decoration: none;
 	color: #000000;
 }
+/* .social-networks {
+	position: relative;
+	margin-top: 163px;
+	padding-bottom: 45px;
+	padding-left: 45px;
+	font-size: 24px;
+	line-height: 34px;
+	text-align: justify;
+	letter-spacing: 0.015em;
+	text-decoration: none;
+	color: #000000;
+} */
 .social-networks a {
 	text-decoration: none;
 	color: #000000;
@@ -219,13 +231,23 @@ main {
 .cross-line {
 	position: absolute;
 	margin: 0px;
+	width: 674px;
+	height: 0px;
+	left: -35px;
+	top: 145px;
+	border: 1px solid #000000;
+	transform: rotate(25.7deg);
+}
+/* .cross-line {
+	position: absolute;
+	margin: 0px;
 	width: 680.46px;
 	height: 0px;
 	left: -36px;
 	top: 154px;
 	border: 1px solid #000000;
 	transform: rotate(27deg);
-}
+} */
 .scroll {
 	display: inline-block;
 	vertical-align: bottom;
@@ -233,7 +255,7 @@ main {
 	float: right;
 	/* padding-right: 50%; */
 	/* padding-left: 165px; */
-	padding-top: 145px
+	padding-top: 98px
 }
 .scroll-box {
 	width: 52%;
@@ -247,7 +269,7 @@ main {
 	float: right;
 	vertical-align: top;
 	width: 50%;
-	padding-top: 112px;
+	padding-top: 117px;
 	border-left: 1px solid #000000;
 }
 

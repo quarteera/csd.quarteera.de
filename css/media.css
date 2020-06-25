@@ -95,13 +95,19 @@
 	    padding-left: 23.75%;
 	}
 	.manifest p {
+		height: 178px;
+		padding: 30px;
+		font-size: 17px;
+		line-height: 21px;
+	}
+	/* .manifest p {
 	    height: 200px;
 	    padding: 30px;
 	    font-size: 21px;
 	    line-height: 28px;
 	    letter-spacing: 0.015em;
 	    text-align: justify;
-	}
+	} */
 	.circle {
 	    display: inline-block;
 	    width: calc(37% - 1px);
@@ -113,14 +119,14 @@
 	    padding-left: 18.9%;
 	}
 	.cross-line {
-	    position: absolute;
-	    margin: 0px;
-	    width: 473px;
-	    height: 0px;
-	    left: -22px;
-	    top: 95px;
-	    border: 1px solid #000000;
-	    transform: rotate(24deg);
+		position: absolute;
+		margin: 0px;
+		width: 479px;
+		height: 0px;
+		left: -24px;
+		top: 105px;
+		border: 1px solid #000000;
+		transform: rotate(26.1deg);
 	}
 	.donate {
 		    float: right;
@@ -136,34 +142,46 @@
 	    text-decoration: none;
 	}
 	.social-networks {
-	    position: relative;
-	    margin-top: 83px;
-	    padding-bottom: 19px;
-	    padding-left: 30px;
-	    font-size: 21px;
-	    line-height: 30px;
-	    text-align: justify;
-	    letter-spacing: 0.015em;
-	    text-decoration: none;
-	    color: #000000;
+		position: relative;
+		margin-top: 105px;
+		padding-bottom: 19px;
+		padding-left: 30px;
+		font-size: 19px;
+		line-height: 29px;
+		text-align: justify;
+		letter-spacing: 0.015em;
+		text-decoration: none;
+		color: #000000;
 	}
+	/* .social-networks {
+		position: relative;
+		margin-top: 168px;
+		padding-bottom: 45px;
+		padding-left: 45px;
+		font-size: 24px;
+		line-height: 34px;
+		text-align: justify;
+		letter-spacing: 0.015em;
+		text-decoration: none;
+		color: #000000;
+	} */
 	.scroll {
-	    display: inline-block;
-	    vertical-align: bottom;
-	    float: right;
-	    padding-left: 0px;
-	    padding-top: 46px;
+		display: inline-block;
+		vertical-align: bottom;
+		float: right;
+		padding-left: 0px;
+		padding-top: 85px;
 	}
 	.scroll-box {
 	    width: 52%;
 	}
 	.scroll-line {
-	    display: inline-block;
-	    float: right;
-	    vertical-align: top;
-	    width: 50%;
-	    padding-top: 66px;
-	    border-left: 1px solid #000000;
+		display: inline-block;
+		float: right;
+		vertical-align: top;
+		width: 50%;
+		padding-top: 50px;
+		border-left: 1px solid #000000;
 	}
 	.picture {
 	    display: inline-block;
