@@ -8,9 +8,9 @@
             hreflang="de"
             href="https://www.marzahn-pride.de/"/>
 		<xhtml:link 
-		    rel="alternate"
-			hreflang="ru"
-			href="https://www.marzahn-pride.de/pages/landingru"/>
+            rel="alternate"
+            hreflang="ru"
+            href="https://www.marzahn-pride.de/pages/landingru"/>
     </url>
     <url>
         <loc>https://www.marzahn-pride.de/pages/landingru</loc>
@@ -19,9 +19,9 @@
             hreflang="de"
             href="https://www.marzahn-pride.de/"/>
 		<xhtml:link 
-		    rel="alternate"
-			hreflang="ru"
-			href="https://www.marzahn-pride.de/pages/landingru"/>
+            rel="alternate"
+            hreflang="ru"
+            href="https://www.marzahn-pride.de/pages/landingru"/>
         <priority>0.8</priority>
     </url>
 </urlset>
