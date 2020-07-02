@@ -3,22 +3,22 @@
     <url>
         <loc>https://www.marzahn-pride.de/</loc>
         <priority>1.00</priority>
-		<xhtml:link 
+        <xhtml:link 
             rel="alternate"
             hreflang="de"
             href="https://www.marzahn-pride.de/"/>
-		<xhtml:link 
+        <xhtml:link 
             rel="alternate"
             hreflang="ru"
             href="https://www.marzahn-pride.de/pages/landingru"/>
     </url>
     <url>
         <loc>https://www.marzahn-pride.de/pages/landingru</loc>
-		<xhtml:link 
+        <xhtml:link 
             rel="alternate"
             hreflang="de"
             href="https://www.marzahn-pride.de/"/>
-		<xhtml:link 
+        <xhtml:link 
             rel="alternate"
             hreflang="ru"
             href="https://www.marzahn-pride.de/pages/landingru"/>
