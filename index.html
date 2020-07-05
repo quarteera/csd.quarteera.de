@@ -15,7 +15,7 @@
 	<link rel="alternate" hreflang="x-default" href="https://www.marzahn-pride.de/" />
 	<link rel="alternate" hreflang="de" href="https://www.marzahn-pride.de" />
 	<link rel="alternate" hreflang="ru" href="https://www.marzahn-pride.de/pages/landingru" />
-	<meta name="description" content="Die erste Pride-Parade in Berlin-Marzahn am 18 Juli 2020"/>
+	<meta name="description" content="Die erste Pride-Parade in Marzahn am 18 Juli 2020"/>
 	<meta name="keywords" content="CSD Marzahn Berlin LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo"/>
 	<meta property="og:type" content="website"/>
 	<meta property="og:site_name" content="Marzahn Pride"/>
@@ -32,40 +32,42 @@
 	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 	<title> Marzahn Pride </title>
 	
-	<script type="application/ld+json">
-	{
+	<script type="application/ld+json">{
 		"@context": "https://schema.org",
-		"@type": "Event",
-		"name": "Marzahn Pride 2020",
-		"startDate": "2020-07-18T12:00-02:00",
-		"endDate": "2020-07-18T16:00-02:00",
-		"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-		"eventStatus": "https://schema.org/EventScheduled",
-		"location": {
-			"@type": "Place",
-			"address": {
-				"@type": "PostalAddress",
-				"streetAddress": "Raoul-Wallenberg-Straße Ecke Märkische Allee",
-				"addressLocality": "Berlin",
-				"postalCode": "12679",
-				"addressRegion": "Berlin",
-				"addressCountry": "DE"
+		"@graph": [
+		{
+			"@type": "Event",
+			"name": "Marzahn Pride 2020",
+			"description": "Die erste Pride-Parade in Marzahn findet am 18 Juli 2020 um 12 Uhr statt",
+			"startDate": "2020-07-18T12:00",
+			"endDate": "2020-07-18T16:00",
+			"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+			"eventStatus": "https://schema.org/EventScheduled",
+			"location": {
+				"@type": "Place",
+				"name": "S-Bahnhof Raoul-Wallenberg-Straße",
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "Raoul-Wallenberg-Straße",
+					"addressLocality": "Berlin",
+					"postalCode": "12681",
+					"addressCountry": "DE"
+				}
+			},
+			"image": [
+				"https://www.marzahn-pride.de/favicon32.png",
+				"https://www.marzahn-pride.de/favicon64.png",
+				"https://www.marzahn-pride.de/favicon128.png"
+			],
+			"organizer": {
+				"@type": "Organization",
+				"name": "Quarteera e.V.",
+				"url": "https://www.marzahn-pride.de"
 			}
-		},
-		"image": [
-			"https://www.marzahn-pride.de/favicon32.png",
-			"https://www.marzahn-pride.de/favicon64.png",
-			"https://www.marzahn-pride.de/favicon128.png"
-		],
-		"description": "Die erste Pride Parade in Marzahn",
-		"organizer": {
-			"@type": "Organization",
-			"name": "Quarteera e.V.",
-			"url": "https://www.marzahn-pride.de"
 		}
-	}
-	</script>
-
+		]
+	}</script>
+	
 </head>
 <body>
 <header>
