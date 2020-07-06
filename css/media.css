@@ -6,6 +6,24 @@
 		padding-left: 45px;
 		padding-bottom: 45px;
 	}
+	.date img {
+		position: absolute;
+		left: 11px;
+		top: -14px;
+		/* top: -47px; */
+	}
+	.date h2 {
+		position: relative;
+		font-size: 24px;
+		line-height: 27px;
+		padding-left: 6.8%;
+		margin-bottom: 20px;
+	}
+	.date h2:last-of-type {
+		width: 100%;
+		text-align: center;
+		padding: 0px;
+	}
 	.main-text p {
 		font-family: Rubik-Regular;
 		/* height: 185px; */
@@ -99,22 +117,33 @@
 	    width: calc(33% - 1px);
 	    float: right;
 	    vertical-align: middle;
-		margin-top: 0.5%;
+		margin-top: 2%;
 	   /* margin-top: 3.9%; */
 	}
 	.date img {
 	    position: absolute;
 	    left: 9px;
-		top: -28px;
+		top: -48px;
 	}
 	.date h2 {
+		font-size: 17px;
+		line-height: 21px;
+		padding-left: 9.5%;
+	}
+	.date h2:last-of-type {
+		width: 100%;
+		text-align: center;
+		padding: 0px;
+		margin-bottom: 0px;
+	}
+	/* .date h2 {
 	    display: inline-block;
 	    position: relative;
 	    font-size: 21px;
 	    line-height: 24px;
 	    margin-bottom: 10px;
 	    padding-left: 20.75%;
-	}
+	} */
 	.main-text p {
 		padding: 30px;
 		font-size: 17px;
@@ -123,7 +152,7 @@
 	.main-text-ru p {
 		padding: 30px;
 		font-size: 21px;
-		line-height: 24px;
+		line-height: 28px;
 	}
 	/* .manifest p {
 	    height: 200px;
@@ -267,6 +296,16 @@
 		font-size: 70px;
 		line-height: 97px;
 	}
+	.date h2 {
+		font-size: 17px;
+		line-height: 21px;
+		padding-left: 7.8%;
+	}
+	.date h2:last-of-type {
+		width: 100%;
+		text-align: center;
+		padding: 0px;
+	}
 	.main-text p {
 		padding: 30px;
 		font-size: 17px;
@@ -274,8 +313,8 @@
 	}
 	.main-text-ru p {
 		padding: 30px;
-		font-size: 21px;
-		line-height: 24px;
+		font-size: 17px;
+		line-height: 28px;
 	}
 	.circle-picture {
 		padding-top: 40px;
