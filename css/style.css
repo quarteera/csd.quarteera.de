@@ -149,8 +149,8 @@ main {
 	font-family: Rubik-Regular;
 	position: relative;
 	padding: 52px 45px;
-	font-size: 28px;
-	line-height: 32px;
+	font-size: 24px;
+	line-height: 45px;
 	letter-spacing: 0.015em;
 	text-align: justify;
 	vertical-align: top;
@@ -347,10 +347,13 @@ main {
 	background-color: white;
 }
 .wir-sind {
-	height: 195px;
-	background-color: white;
+	display: inline-block;
+	height: 165px;
+	background-color: #ffffff;
+	overflow: hidden;
+	white-space: nowrap;
+	align-items: center;
 }
-
 .about-us h1 {
 	padding-top: 95px;
 	text-align: center;
@@ -376,6 +379,100 @@ main {
 	color: #000000;
 }
 
+/* FOURTH BLOCK STYLES */
+
+.agenda {
+	background-color: white;
+}
+.agenda-title {
+	display: inline-block;
+	position: relative;
+	background-color: white;
+	position: relative;
+	width: 100%;
+	margin-top: 311px;
+}
+.agenda-title h1 {
+	position: relative;
+	font-family: Rubik-Black;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 96px;
+	line-height: 114px;
+	text-transform: uppercase;
+	color: #000000;
+	text-align: center;
+}
+.agenda-title img {
+	display: inline-block;
+	position: absolute;
+	top: -103px;
+	left: 27.5%;
+	transform: matrix(-1, 0.06, -0.06, -1, 0, 0);
+}
+.time-and-event {
+	width: 92.4%;
+	background-color: white;
+	padding-top: 172px;
+	padding-bottom: 213px;
+	float: right;
+	padding-right: 3.8%;
+	padding-left: 3.8%;
+}
+.time-and-event li {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	vertical-align: top;
+	padding-bottom: 45px;
+	padding-top: 45px;
+	border-bottom: 1px solid #000000;
+}
+.time-and-event li:first-of-type {
+	padding-top: 0px;
+}
+.time-picture {
+	display: inline-block;
+	float: left;
+	width: 20.6%;
+}
+.time-picture img {
+	width: 100%;
+}
+.pride-circle {
+	display: inline-block;
+	position: absolute;
+	width: 17%;
+	top: calc(-50% - 37px);
+	right: -3.8%;
+}
+.pride-circle img {
+	width: 100%;
+}
+.time-and-event .event {
+	display: inline-block;
+	float: right;
+	width: calc(79.4% - 120px);
+	padding-left: 120px;
+}
+.event h2 {
+	width: 100%;
+	font-family: Rubik-Black;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 36px;
+	line-height: 36px;
+	text-transform: capitalize;
+}
+.event p {
+	width: 100%;
+	padding-top: 10px;
+	font-family: Rubik-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 24px;
+}
 /* FOOTER STYLES */
 
 footer {

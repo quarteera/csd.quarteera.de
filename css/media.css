@@ -241,6 +241,23 @@
 		font-size: 18px;
 		line-height: 25px;
 	}
+	.agenda-title h1 {
+		font-size: 64px;
+		line-height: 82px;
+	}
+	.agenda-title img {
+		width: 45%;
+		top: -77px;
+		left: 27.5%;
+	}
+	/* FOURTH BLOCK STYLES */
+	.pride-circle {
+		display: inline-block;
+		position: absolute;
+		width: 17%;
+		top: calc(-50% - 5px);
+		right: -3.8%;
+	}
 }
 @media screen and (max-device-width : 828px) {
 	header .logo {
@@ -257,7 +274,7 @@
 	}
 	.main-text-ru p {
 		padding: 30px;
-		font-size: 20px;
+		font-size: 21px;
 		line-height: 24px;
 	}
 	.circle-picture {
@@ -296,6 +313,14 @@
 	}
 	.scroll-line {
 		padding-top: 38px;
+	}
+	/* FOURTH BLOCK STYLES */
+	.pride-circle {
+		display: inline-block;
+		position: absolute;
+		width: 17%;
+		top: calc(-50% - 1px);
+		right: -3.8%;
 	}
 }
 @media screen and (max-device-width : 375px) {
