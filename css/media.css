@@ -6,54 +6,76 @@
 		padding-left: 45px;
 		padding-bottom: 45px;
 	}
-	.manifest p {
+	.main-text p {
 		font-family: Rubik-Regular;
-		height: 185px;
+		/* height: 185px; */
 		padding: 45px;
 		font-size: 20px;
 		line-height: 26px;
 		letter-spacing: 0.015em;
 		text-align: justify;
 	}
-	.circle img {
-		width: calc(100% - 132px);
-		padding-top: 37px;
-		padding-left: 66px;
+	.main-text-ru p {
+		font-family: Rubik-Regular;
+		padding: 45px;
+		padding-top: 47px;
+		font-size: 25px;
+		line-height: 30px;
+		letter-spacing: 0.015em;
+		text-align: justify;
+	}
+	.circle-picture {
+		padding-top: 35px;
 	}
 	.scroll {
 	    display: inline-block;
 	    vertical-align: bottom;
 	    float: right;
 	    padding-left: 0px;
-	    padding-top: 145px;
+	    padding-top: 149px;
+	}
+	.scroll-line {
+		padding-top: 95px;
 	}
 	.cross-line {
 		position: absolute;
 		margin: 0px;
-		width: 651.46px;
+		width: 653px;
 		height: 0px;
 		left: -43px;
-		top: 156px;
+		top: 161px;
 		border: 1px solid #000000;
-		transform: rotate(28.9deg);
+		transform: rotate(29.7deg);
 	}
 	.social-networks {
-	    position: relative;
-	    margin-top: 168px;
-	    padding-bottom: 45px;
-	    padding-left: 45px;
-	    font-size: 24px;
-	    line-height: 34px;
-	    text-align: justify;
-	    letter-spacing: 0.015em;
-	    text-decoration: none;
-	    color: #000000;
+		position: relative;
+		margin-top: 179px;
+		padding-bottom: 43px;
+		padding-left: 45px;
+		font-size: 24px;
+		line-height: 34px;
+		text-align: justify;
+		letter-spacing: 0.015em;
+		text-decoration: none;
+		color: #000000;
 	}
 	.donate {
 	    float: right;
 	    margin-top: 64px;
 	    margin-right: 35px;
 	}
+	/* .picture {
+		display: inline-block;
+		width: calc(33% - 2px);
+		border-left: 1px solid #000000;
+		border-bottom: 1px solid #000000;
+	}
+	.picture img {
+		vertical-align: bottom;
+		width: 100%;
+		float: none;
+	}
+	 */
 }
 @media screen and (max-width : 1024px) {
 	.title {
@@ -77,14 +99,13 @@
 	    width: calc(33% - 1px);
 	    float: right;
 	    vertical-align: middle;
-	   /* margin-top: 2.5%; */
-	   margin-top: 3.9%;
+		margin-top: 0.5%;
+	   /* margin-top: 3.9%; */
 	}
 	.date img {
 	    position: absolute;
 	    left: 9px;
-	   /* top: -47px; */
-	   top: -66px;
+		top: -28px;
 	}
 	.date h2 {
 	    display: inline-block;
@@ -92,13 +113,17 @@
 	    font-size: 21px;
 	    line-height: 24px;
 	    margin-bottom: 10px;
-	    padding-left: 23.75%;
+	    padding-left: 20.75%;
 	}
-	.manifest p {
-		height: 178px;
+	.main-text p {
 		padding: 30px;
 		font-size: 17px;
 		line-height: 21px;
+	}
+	.main-text-ru p {
+		padding: 30px;
+		font-size: 21px;
+		line-height: 24px;
 	}
 	/* .manifest p {
 	    height: 200px;
@@ -108,25 +133,23 @@
 	    letter-spacing: 0.015em;
 	    text-align: justify;
 	} */
-	.circle {
+	/*.circle {
 	    display: inline-block;
 	    width: calc(37% - 1px);
 	    float: right;
-	}
-	.circle img {
-	    width: 61.5%;
-	    padding-top: 21%;
-	    padding-left: 18.9%;
+	}*/
+	.circle-picture {
+		padding-top: 37px;
 	}
 	.cross-line {
 		position: absolute;
 		margin: 0px;
-		width: 479px;
+		width: 485px;
 		height: 0px;
-		left: -24px;
-		top: 105px;
+		left: -27px;
+		top: 111px;
 		border: 1px solid #000000;
-		transform: rotate(26.1deg);
+		transform: rotate(27.5deg);
 	}
 	.donate {
 		    float: right;
@@ -156,7 +179,7 @@
 	}
 	.social-networks {
 		position: relative;
-		margin-top: 105px;
+		margin-top: 119px;
 		padding-bottom: 19px;
 		padding-left: 30px;
 		font-size: 19px;
@@ -183,7 +206,7 @@
 		vertical-align: bottom;
 		float: right;
 		padding-left: 0px;
-		padding-top: 85px;
+		padding-top: 94px;
 	}
 	.scroll-box {
 	    width: 52%;
@@ -196,15 +219,27 @@
 		padding-top: 50px;
 		border-left: 1px solid #000000;
 	}
-	.picture {
-	    display: inline-block;
-	    width: calc(33% - 1px);
-	    border-left: 1px solid #000000;
-	    border-bottom: 1px solid #000000;
+	/* SECOND BLOCK STYLES */
+	.manifest-title {
+		margin-top: 200px;
 	}
-	.picture img {
-	    float: right;
-	    width: calc(100% - 2px);
+	.manifest-title h1 {
+
+		font-size: 64px;
+		line-height: 82px;
+	}
+	.manifest-title img {
+		width: 45%;
+		top: -77px;
+		left: 27.5%;
+	}
+	.block-manifest p {
+		margin-top: 130px;
+		padding-left: 130px;
+		padding-right: 130px;
+		padding-bottom: 135px;
+		font-size: 18px;
+		line-height: 25px;
 	}
 }
 @media screen and (max-device-width : 828px) {
@@ -212,16 +247,18 @@
 		font-size: 70px;
 		line-height: 97px;
 	}
-	.manifest p {
-		height: 178px;
+	.main-text p {
 		padding: 30px;
 		font-size: 17px;
 		line-height: 21px;
 	}
-	.circle img {
-		width: 61.5%;
-		padding-top: 18.5%;
-		padding-left: 18.9%;
+	.main-text-ru p {
+		padding: 30px;
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.circle-picture {
+		padding-top: 40px;
 	}
 	.donate-ru {
 		float: right;
@@ -237,14 +274,14 @@
 		text-decoration: none;
 	}
 	.cross-line {
-		width: 456px;
+		width: 459px;
 		height: 0px;
 		left: -23px;
-		top: 95px;
-		transform: rotate(25deg);
+		top: 101px;
+		transform: rotate(26.3deg);
 	}
 	.social-networks {
-		margin-top: 111px;
+		margin-top: 122px;
 		padding-bottom: 19px;
 		padding-left: 30px;
 		font-size: 17px;
@@ -252,9 +289,20 @@
 	}
 	.scroll {
 		padding-left: 0px;
-		padding-top: 78px;
+		padding-top: 86px;
 	}
 	.scroll-line {
 		padding-top: 38px;
+	}
+}
+@media screen and (max-device-width : 375px) {
+	.block-manifest p {
+		margin-top: 130px;
+		padding-left: 130px;
+		padding-right: 130px;
+		padding-bottom: 135px;
+		font-size: 11px;
+		line-height: 26px;
+		text-align: justify;
 	}
 }

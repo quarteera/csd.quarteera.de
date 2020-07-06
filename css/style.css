@@ -2,10 +2,9 @@
 html, body {
 	min-width: 100%;
 	min-height: 100%;
-	height: 100%;
+	/* height: 100%; */
 	font-family: Rubik-Black;
 	background-color: #E5E5E5;
-	min-width: 100%;
 }
 header {
 	display: inline-block;
@@ -42,6 +41,7 @@ header .language {
 main {
 	display: inline-block;
 	width: 100%;
+	background-color: #E5E5E5;
 }
 .top {
 	display: inline-block;
@@ -69,18 +69,19 @@ main {
 	width: calc(33% - 122px);
 	float: right;
 	vertical-align: middle;
-	/* margin-top: 40px; */
-	margin-top: 67px;
+	margin-top: 40px;
+	/*margin-top: 67px; */
 
 }
 
 .date img {
 	position: absolute;
 	left: -84px;
-	/* top: -14px; */
-	top: -47px;
+	top: -14px;
+	/* top: -47px; */
 }
 .date h2 {
+	position: relative;
 	font-size: 24px;
 	line-height: 27px;
 	margin-bottom: 15px;
@@ -104,43 +105,70 @@ main {
 	width: 67%;
 	float: left;
 }
-.manifest-and-circle {
+.main-text-and-circle {
 	display: inline-block;
 	width: 100%;
 	border-bottom: 1px solid #000000;
 }
-.manifest {
+.main-text {
 	display: inline-block;
 	position: relative;
 	vertical-align: bottom;
 	width: 63%;
 	border-right: 1px solid #000000;
 }
-.manifest img {
+.main-text-ru {
+	display: inline-block;
+	position: relative;
+	vertical-align: bottom;
+	width: 63%;
+	border-right: 1px solid #000000;
+}
+.main-text img {
 	position: absolute;
 	width: 373px;
 	height: 148px;
 }
-.manifest p {
+.main-text-ru img {
+	position: absolute;
+	width: 373px;
+	height: 148px;
+}
+.main-text p {
 	font-family: Rubik-Regular;
 	position: relative;
-	height: calc(22.3% - 104px);
 	/* height: 216px; */
 	padding: 52px 45px;
 	font-size: 24px;
-	line-height: 30px;
+	line-height: 28px;
 	letter-spacing: 0.015em;
 	text-align: justify;
+	vertical-align: top;
+}
+.main-text-ru p {
+	font-family: Rubik-Regular;
+	position: relative;
+	padding: 52px 45px;
+	font-size: 28px;
+	line-height: 32px;
+	letter-spacing: 0.015em;
+	text-align: justify;
+	vertical-align: top;
 }
 .circle {
 	display: inline-block;
 	width: calc(37% - 1px);
 	float: right;
 }
-.circle img {
-	width: calc(100% - 132px);
-	padding-top: 45px;
-	padding-left: 66px;
+.circle-picture {
+	display: inline-block;
+	width: 62%;/*calc(80.6% - 114px); */
+	padding-left: 19%;
+	padding-right: 19%;
+	padding-top: 56px;
+}
+.circle-picture img {
+	width: 100%;
 }
 /*.manifest img {
 	position: absolute;
@@ -156,8 +184,8 @@ main {
 	border-bottom: 1px solid #000000;
 }
 .picture img {
-	float: right;
-	width: calc(100% - 1px);
+	vertical-align: bottom;
+	width: 100%;
 }
 
 .sn-and-scroll {
@@ -173,7 +201,7 @@ main {
 }
 .social-networks {
 	position: relative;
-	margin-top: 146px;
+	margin-top: 162px;
 	padding-bottom: 45px;
 	padding-left: 45px;
 	font-size: 24px;
@@ -231,12 +259,12 @@ main {
 .cross-line {
 	position: absolute;
 	margin: 0px;
-	width: 674px;
+	width: 682.2px;
 	height: 0px;
-	left: -35px;
-	top: 145px;
+	left: -38px;
+	top: 153px;
 	border: 1px solid #000000;
-	transform: rotate(25.7deg);
+	transform: rotate(27deg);
 }
 /* .cross-line {
 	position: absolute;
@@ -255,7 +283,7 @@ main {
 	float: right;
 	/* padding-right: 50%; */
 	/* padding-left: 165px; */
-	padding-top: 98px
+	padding-top: 112px;
 }
 .scroll-box {
 	width: 52%;
@@ -273,8 +301,108 @@ main {
 	border-left: 1px solid #000000;
 }
 
-/* SECOND BLOCK STYLES */
+/* NEW SECOND BLOCK STYLES */
+.block-manifest {
+	background-color: white;
+}
+.manifest-title {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	margin-top: 317px;
+}
+.manifest-title h1 {
+	position: relative;
+	font-family: Rubik-Black;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 96px;
+	line-height: 114px;
+	text-transform: uppercase;
+	color: #000000;
+	text-align: center;
+}
+.manifest-title img {
+	display: inline-block;
+	position: absolute;
+	top: -103px;
+	left: 27.5%;
+}
+.block-manifest p {
+	margin-top: 186px;
+	padding-left: 228px;
+	padding-right: 228px;
+	padding-bottom: 208px;
+	font-family: Rubik-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 31px;
+	text-align: center;
+	color: #000000;
+}
 
+/* THIRD BLOCK STYLES */
+.about-us {
+	background-color: white;
+}
+.wir-sind {
+	height: 195px;
+	background-color: white;
+}
+
+.about-us h1 {
+	padding-top: 95px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: Rubik-Black;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 96px;
+	line-height: 114px;
+	color: #000000;
+}
+.about-us p {
+	margin-top: 29px;
+	margin-bottom: 51px;
+	padding-right: 13.5%;
+	padding-left: 13.5%;
+	font-family: Rubik-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 31px;
+	text-align: justify;
+	color: #000000;
+}
+
+/* FOOTER STYLES */
+
+footer {
+	background-color: #ffffff;
+}
+.impressum {
+
+	font-family: Rubik-Regular;
+	font-size: 14px;
+	width: 100%;
+	float: right;
+	text-align: center;
+	margin-bottom: 45px;
+	margin-top: 45px;
+}
+.impressum p {
+	display: inline-block;
+	padding-right: 10px;
+}
+.impressum a {
+	display: inline-block;
+	color: #000000;
+	padding-right: 10px;
+}
+
+	/* SECOND BLOCK STYLES */
+/*
 .text {
 	display: inline-block;
 	width: 100%;
@@ -288,7 +416,7 @@ main {
 	display: inline-block;
 	vertical-align: top;
 	/* margin-right: 30.34%; */
-	width: calc(34% - 2px);
+/*	width: calc(34% - 2px);
 	padding-top: 125px;
 	border-bottom: 1px solid #000000;
 	border-left: 1px solid #000000;
@@ -336,24 +464,7 @@ main {
 	line-height: 23px;
 	text-align: justify;
 }
-.impressum {
-	font-family: Rubik-Regular;
-	font-size: 14px;
-	width: 100%;
-	float: right;
-	text-align: center;
-	margin-bottom: 45px;
-	margin-top: 45px;
-}
-.impressum p {
-	display: inline-block;
-	padding-right: 10px;
-}
-.impressum a {
-	display: inline-block;
-	color: #000000;
-	padding-right: 10px;
-}
+
 /* THIRD BLOCK STYLES */
 
 /*
