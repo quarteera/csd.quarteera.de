@@ -82,18 +82,6 @@
 	    margin-top: 64px;
 	    margin-right: 35px;
 	}
-	/* .picture {
-		display: inline-block;
-		width: calc(33% - 2px);
-		border-left: 1px solid #000000;
-		border-bottom: 1px solid #000000;
-	}
-	.picture img {
-		vertical-align: bottom;
-		width: 100%;
-		float: none;
-	}
-	 */
 }
 @media screen and (max-width : 1024px) {
 	.title {
@@ -264,11 +252,9 @@
 	}
 	.block-manifest p {
 		margin-top: 130px;
-		padding-left: 130px;
-		padding-right: 130px;
 		padding-bottom: 135px;
-		font-size: 18px;
-		line-height: 25px;
+		font-size: 17px;
+		line-height: 21px;
 	}
 	.agenda-title h1 {
 		font-size: 64px;
@@ -279,13 +265,94 @@
 		top: -77px;
 		left: 27.5%;
 	}
-	/* FOURTH BLOCK STYLES */
+	/* ABOUT US BLOCK STYLES */
+	.about-us h1 {
+		font-size: 64px;
+		line-height: 82px;
+	}
+	.about-us p {
+		font-size: 17px;
+		line-height: 21px;
+	}
 	.pride-circle {
 		display: inline-block;
 		position: absolute;
 		width: 17%;
 		top: calc(-50% - 5px);
 		right: -3.8%;
+	}
+	/* SECURITY STYLES */
+	.route-and-security h2 {
+		font-size: 64px;
+		line-height: 82px;
+	}
+	.title-security hr {
+		bottom: 23px;
+	}
+	.security p {
+		margin-top: 83px;
+		font-size: 17px;
+		line-height: 21px;
+	}
+	.route p {
+		margin-left: -10px;
+		margin-top: 82px;
+		font-size: 64px;
+		line-height: 67px;
+	}
+	.route h2 {
+		font-size: 64px;
+		line-height: 82px;
+	}
+	.route hr {
+		bottom: 23px;
+	}
+	/* SPEAKERS STYLES */
+	.speaker-boxes h3, .speaker-boxes h4 {
+		padding-left: 0px;
+	}
+	.first-row {
+		flex-direction: column;
+		flex-wrap: wrap;
+	}
+	.first-row div {
+		text-align: center;
+		width: 100%;
+	}
+	.second-row {
+		flex-direction: column;
+		flex-wrap: wrap;
+	}
+	.second-row div {
+		text-align: center;
+		width: 100%;
+	}
+	.third-row {
+		flex-direction: column;
+		flex-wrap: wrap;
+	}
+	.third-row div {
+		text-align: center;
+		width: 100%;
+	}
+	.forth-row {
+		flex-direction: column;
+		flex-wrap: wrap;
+	}
+	.forth-row div {
+		text-align: center;
+		width: 100%;
+	}
+	.fifth-row {
+		flex-direction: column;
+		flex-wrap: wrap;
+	}
+	.fifth-row div {
+		text-align: center;
+		width: 100%;
+	}
+	.fifth-row div:last-of-type {
+		display: none;
 	}
 }
 @media screen and (max-device-width : 828px) {
@@ -365,11 +432,77 @@
 @media screen and (max-device-width : 375px) {
 	.block-manifest p {
 		margin-top: 130px;
-		padding-left: 130px;
-		padding-right: 130px;
 		padding-bottom: 135px;
 		font-size: 11px;
-		line-height: 26px;
+		line-height: 17px;
 		text-align: justify;
+		padding-right: 10.5%;
+		padding-left: 10.5%;
+	}
+	.about-us p {
+		font-size: 11px;
+		line-height: 17px;
+		padding-right: 10.5%;
+		padding-left: 10.5%;
+	}
+	.agenda-title {
+		margin-top: 215px;
+	}
+	.time-and-event {
+		padding-top: 150px;
+		padding-bottom: 150px;
+	}
+	.route-and-security {
+		padding-bottom: 115px;
+	}
+	.security p {
+		font-size: 11px;
+		line-height: 17px;
+	}
+	.box {
+		display: inline-flex;
+		padding-left: 10.5%;
+		width: 79%;
+		flex-direction: column-reverse;
+		flex-wrap: wrap;
+	}
+	.security {
+		margin-top: 150px;
+		width: 100%;
+	}
+	.title-security {
+		display: inline-flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+	}
+	.security p {
+		margin-top: 75px;
+	}
+	.route {
+		display: inline-flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+	}
+	.route p {
+		display: none;
+	}
+	.title-route {
+		display: inline-flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+	}
+	.route h2 {
+		margin-left: 0px;
+		margin-bottom: 75px;
+	}
+	.route-picture {
+		width: 100%;
 	}
 }
