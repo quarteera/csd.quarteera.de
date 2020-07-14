@@ -240,12 +240,23 @@
 	.manifest-title {
 		margin-top: 200px;
 	}
+	.manifest-title-ru {
+		margin-top: 200px;
+	}
 	.manifest-title h1 {
-
 		font-size: 64px;
 		line-height: 82px;
 	}
+	.manifest-title-ru h1 {
+		font-size: 53px;
+		line-height: 82px;
+	}
 	.manifest-title img {
+		width: 45%;
+		top: -77px;
+		left: 27.5%;
+	}
+	.manifest-title-ru img {
 		width: 45%;
 		top: -77px;
 		left: 27.5%;
@@ -255,6 +266,9 @@
 		padding-bottom: 135px;
 		font-size: 17px;
 		line-height: 21px;
+	}
+	.title-about-us hr {
+		bottom: 23px;
 	}
 	.agenda-title h1 {
 		font-size: 64px;
@@ -270,9 +284,19 @@
 		font-size: 64px;
 		line-height: 82px;
 	}
+	.about-us .ru {
+		font-size: 53px;
+		line-height: 63px;
+	}
+	.about-us .ru hr {
+		bottom: 16px;
+	}
 	.about-us p {
 		font-size: 17px;
 		line-height: 21px;
+	}
+	.agenda-title .ru {
+		font-size: 53px;
 	}
 	.pride-circle {
 		display: inline-block;
@@ -286,8 +310,15 @@
 		font-size: 64px;
 		line-height: 82px;
 	}
+	.route-and-security .ru {
+		font-size: 53px;
+		line-height: 63px;
+	}
 	.title-security hr {
 		bottom: 23px;
+	}
+	.title-security .ru hr {
+		bottom: 16px;
 	}
 	.security p {
 		margin-top: 83px;
@@ -300,12 +331,24 @@
 		font-size: 64px;
 		line-height: 67px;
 	}
+	.route-ru .ru-and {
+		line-height: 63px;
+		margin-top: 74px;
+		font-size: 53px;
+	}
 	.route h2 {
 		font-size: 64px;
 		line-height: 82px;
 	}
+	.route-and-security .ru {
+		font-size: 53px;
+		line-height: 63px;
+	}
 	.route hr {
 		bottom: 23px;
+	}
+	.route-ru .ru hr {
+		bottom: 16px;
 	}
 	/* SPEAKERS STYLES */
 	.speaker-boxes h3, .speaker-boxes h4 {
@@ -488,7 +531,19 @@
 		justify-content: center;
 		width: 100%;
 	}
+	.route-ru {
+		margin: 0px;
+		display: inline-flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+	}
 	.route p {
+		display: none;
+	}
+	.route-ru .ru-and {
 		display: none;
 	}
 	.title-route {
@@ -499,6 +554,10 @@
 		justify-content: center;
 	}
 	.route h2 {
+		margin-left: 0px;
+		margin-bottom: 75px;
+	}
+	.route-ru h2 {
 		margin-left: 0px;
 		margin-bottom: 75px;
 	}

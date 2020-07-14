@@ -313,7 +313,7 @@ main {
 	display: inline-block;
 	position: relative;
 	width: 100%;
-	margin-top: 317px;
+	margin-top: 306px;
 }
 .manifest-title h1 {
 	position: relative;
@@ -326,17 +326,40 @@ main {
 	color: #000000;
 	text-align: center;
 }
+.manifest-title-ru {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	margin-top: 306px;
+}
+.manifest-title-ru h1 {
+	position: relative;
+	font-family: Rubik-Black;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	line-height: 114px;
+	text-transform: uppercase;
+	color: #000000;
+	text-align: center;
+}
 .manifest-title img {
 	display: inline-block;
 	position: absolute;
 	top: -103px;
 	left: 27.5%;
 }
+.manifest-title-ru img {
+	display: inline-block;
+	position: absolute;
+	top: -103px;
+	left: 27.5%;
+}
 .block-manifest p {
-	margin-top: 186px;
+	margin-top: 190px;
 	padding-left: 13.5%;
 	padding-right: 13.5%;
-	padding-bottom: 208px;
+	padding-bottom: 276px;
 	font-family: Rubik-Regular;
 	font-style: normal;
 	font-weight: normal;
@@ -346,20 +369,40 @@ main {
 	color: #000000;
 }
 
-/* THIRD BLOCK STYLES */
+/* ABOUT US BLOCK STYLES */
 .about-us {
 	background-color: white;
 }
 .wir-sind {
 	display: inline-block;
-	height: 165px;
+	height: fit-content;
 	background-color: #ffffff;
 	overflow: hidden;
-	white-space: nowrap;
+}
+.title-about-us {
+	display: inline-flex;
+	flex-direction: column;
+	flex-wrap: wrap;
 	align-items: center;
+	width: 100%;
+	padding-top: 100px;
+}
+.title-about-us h1 {
+	position: relative;
+	width: fit-content;
+}
+.title-about-us hr {
+	position: absolute;
+	bottom: 32px;
+	width: 100%;
+	border: 2px solid #CCFF15;
+	margin: 0px;
+	padding: 0px;
+}
+.title-about-us .ru hr {
+	bottom: 37px;
 }
 .about-us h1 {
-	padding-top: 51px;
 	text-align: center;
 	text-transform: uppercase;
 	font-family: Rubik-Black;
@@ -369,9 +412,12 @@ main {
 	line-height: 114px;
 	color: #000000;
 }
+.about-us .ru {
+	font-size: 72px;
+}
 .about-us p {
-	margin-top: 29px;
-	margin-bottom: 51px;
+	margin-top: 96px;
+	margin-bottom: 100px;
 	padding-right: 13.5%;
 	padding-left: 13.5%;
 	font-family: Rubik-Regular;
@@ -394,7 +440,7 @@ main {
 	background-color: white;
 	position: relative;
 	width: 100%;
-	margin-top: 311px;
+	margin-top: 371px;
 }
 .agenda-title h1 {
 	position: relative;
@@ -407,6 +453,9 @@ main {
 	color: #000000;
 	text-align: center;
 }
+.agenda-title .ru {
+	font-size: 72px;
+}
 .agenda-title img {
 	display: inline-block;
 	position: absolute;
@@ -417,8 +466,8 @@ main {
 .time-and-event {
 	width: 92.4%;
 	background-color: white;
-	padding-top: 172px;
-	padding-bottom: 213px;
+	padding-top: 247px;
+	padding-bottom: 313px;
 	float: right;
 	padding-right: 3.8%;
 	padding-left: 3.8%;
@@ -495,6 +544,9 @@ main {
 	text-transform: uppercase;
 	color: #000000;
 }
+.route-and-security .ru {
+	font-size: 72px;
+}
 .box {
 	display: inline-flex;
 	flex-direction: row;
@@ -520,6 +572,9 @@ main {
 	border: 2px solid #CCFF15;
 	margin: 0px;
 	padding: 0px;
+}
+.title-security .ru hr {
+	bottom: 37px;
 }
 .security p {
 	margin-top: 96px;
@@ -548,6 +603,12 @@ main {
 	width: 45.4%;
 	float: right;
 }
+.route-ru {
+	margin-left: 3%;
+	display: inline-block;
+	width: 42.4%;
+	float: right;
+}
 .route p {
 	margin-left: 10px;
 	line-height: 96px;
@@ -559,11 +620,30 @@ main {
 	text-transform: uppercase;
 	color: #000000;
 }
+.route-ru .ru-and {
+	margin-left: -6%;
+	line-height: 90px;
+	margin-top: 99px;
+	font-family: Rubik-Black;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	text-transform: uppercase;
+	color: #000000;
+}
 .title-route {
+	display: inline-flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
 	width: 100%;
 }
 .route h2 {
-	margin-left: 24.1%;
+	width: fit-content;
+	position: relative;
+	line-height: 114px;
+}
+.route-ru h2 {
 	width: fit-content;
 	position: relative;
 	line-height: 114px;
@@ -576,9 +656,17 @@ main {
 	margin: 0px;
 	padding: 0px;
 }
+.route-ru .ru hr {
+	position: absolute;
+	bottom: 37px;
+	width: 100%;
+	border: 2px solid #CCFF15;
+	margin: 0px;
+	padding: 0px;
+}
 .route-picture {
 	display: inline-block;
-	width: 91.9%;
+	width: 100%;
 	float: right;
 }
 .route-picture img {
@@ -653,7 +741,7 @@ main {
 	line-height: 28px;
 	color: #000000;
 }
-.speaker-boxes .eight h3 {
+.speaker-boxes .nine h3 {
 	padding-bottom: 66px;
 }
 .speaker-boxes h4 {
@@ -728,11 +816,14 @@ main {
 .eight h3 {
 	padding-left: 31.5%;
 }
+.eight h4 {
+	padding-left: 31.5%;
+}
 .nine {
 	width: calc(83% - 2px);
 	border: 1px solid #CCFF15;
 }
-.nine h3, .nine h4 {
+.nine h3 {
 	padding-left: 14.8%;
 }
 .ten {
@@ -768,7 +859,7 @@ main {
 	background-color: #CCFF15;
 }
 .flex-box-bottom .blocks {
-	width: 27.8%;
+	width: 17.8%;
 }
 .blocks ul {
 	float: right;
