@@ -41,12 +41,13 @@ header .language {
 main {
 	display: inline-block;
 	width: 100%;
-	background-color: #E5E5E5;
+	background-color: white;
 }
 .top {
 	display: inline-block;
 	width: 100%;
 	border-bottom: 1px solid #000000;
+	background-color: #E5E5E5;
 }
 .title {
 	display: inline-block;
@@ -54,6 +55,7 @@ main {
 	vertical-align: top;
 	padding-top: 45px;
 	border-right: 1px solid #000000;
+	background-color: #E5E5E5;
 }
 .title h1 {
 	font-size: 96px;
@@ -71,7 +73,7 @@ main {
 	vertical-align: middle;
 	margin-top: 40px;
 	/*margin-top: 67px; */
-
+	background-color: #E5E5E5;
 }
 
 .date img {
@@ -108,6 +110,7 @@ main {
 .left-block {
 	width: 67%;
 	float: left;
+	background-color: #E5E5E5;
 }
 .main-text-and-circle {
 	display: inline-block;
