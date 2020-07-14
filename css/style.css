@@ -968,14 +968,14 @@ footer {
 	background-color: #E5E5E5;
 }
 .impressum {
-
+	background-color: #E5E5E5;
 	font-family: Rubik-Regular;
 	font-size: 14px;
 	width: 100%;
 	float: right;
 	text-align: center;
-	margin-bottom: 45px;
-	margin-top: 45px;
+	padding-bottom: 45px;
+	padding-top: 45px;
 }
 .impressum p {
 	display: inline-block;
