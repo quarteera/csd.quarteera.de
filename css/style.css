@@ -4,7 +4,7 @@ html, body {
 	/*min-height: 100%;*/
 	/* height: 100%; */
 	font-family: Rubik-Black;
-	background-color: #E5E5E5;
+
 }
 header {
 	display: inline-block;
@@ -841,6 +841,7 @@ main {
 	display: inline-block;
 	width: 100%;
 	padding-top: 115px;
+	background-color: #E5E5E5;
 }
 .flex-box-bottom {
 	display: inline-flex;
@@ -964,7 +965,7 @@ main {
 /* FOOTER STYLES */
 
 footer {
-	background-color: #ffffff;
+	background-color: #E5E5E5;
 }
 .impressum {
 
