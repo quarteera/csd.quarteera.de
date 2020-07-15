@@ -464,6 +464,9 @@
 		padding-top: 38px;
 	}
 	/* FOURTH BLOCK STYLES */
+	.agenda-title h1 {
+		font-size: 70px;
+	}
 	.pride-circle {
 		display: inline-block;
 		position: absolute;
