@@ -438,7 +438,10 @@ main {
 	background-color: white;
 }
 .agenda-title {
-	display: inline-block;
+	display: inline-flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
 	position: relative;
 	background-color: white;
 	position: relative;
