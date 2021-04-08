@@ -122,6 +122,7 @@ main {
 }
 
 .left-block {
+	display: none;
 	width: 67%;
 	float: left;
 	background-color: #E5E5E5;
@@ -199,7 +200,7 @@ main {
 	top: 620px;
 } */
 .picture {
-	display: inline-block;
+	display: none;
 	width: calc(33% - 1px);
 	border-left: 1px solid #000000;
 	border-bottom: 1px solid #000000;
@@ -330,6 +331,7 @@ main {
 
 /* NEW SECOND BLOCK STYLES */
 .block-manifest {
+	display: none;
 	background-color: white;
 }
 .manifest-title {
@@ -473,6 +475,7 @@ main {
 /* AGENDA BLOCK STYLES */
 
 .agenda {
+	display: none;
 	background-color: white;
 }
 .agenda-title {
@@ -574,7 +577,7 @@ main {
 /* ROUTE BLOCK STYLES */
 
 .route-and-security {
-	display: inline-block;
+	display: none;
 	width: 100%;
 	background-color: white;
 	padding-bottom: 160px;
@@ -720,7 +723,7 @@ main {
 /* SPEAKERS STYLES */
 
 .speakers {
-	display: inline-block;
+	display: none;
 	width: 100%;
 	background-color: white;
 }
