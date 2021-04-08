@@ -107,6 +107,12 @@ main {
 	margin-left: 290px;
 	width: 100%;
 } */
+
+.left-and-picture {
+	display: inline-block;
+	width: 100%;
+}
+
 .left-block {
 	width: 67%;
 	float: left;
