@@ -398,12 +398,15 @@ main {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
+	margin-top: 100px;
+	margin-bottom: 100px;
 }
 .coming-soon-text {
-	font-size: 96px;
-	line-height: 119px;
+	font-size: 60px;
+	text-align: center;
 	padding-left: 45px;
-	padding-bottom: 45px;
+	padding-bottom: 100px;
+	padding-top: 100px;
 }
 
 /* ABOUT US BLOCK STYLES */
