@@ -886,6 +886,7 @@ main {
 	background-color: #CCFF15;
 }
 .flex-box-bottom .blocks {
+	display: none;
 	width: 17.8%;
 }
 .blocks ul {
