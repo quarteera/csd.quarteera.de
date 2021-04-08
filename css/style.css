@@ -84,17 +84,25 @@ main {
 }
 
 .date h2 {
+	font-size: 39px;
+	line-height: 119px;
+	text-transform: uppercase;
+	padding-left: 45px;
+	padding-bottom: 45px;
+	text-align: center;
+	/*
 	position: relative;
 	font-size: 24px;
 	line-height: 27px;
 	padding-left: 9.5%;
 	margin-bottom: 20px;
+	*/
 }
-.date h2:last-of-type {
+/* .date h2:last-of-type {
 	width: 100%;
 	text-align: center;
 	padding: 0px;
-}
+} */
 /* .red {
 	margin: 0px;
 	width: 100%;
@@ -109,7 +117,7 @@ main {
 } */
 
 .left-and-picture {
-	display: inline-block;
+	display: none;
 	width: 100%;
 }
 
