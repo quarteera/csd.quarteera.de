@@ -196,6 +196,12 @@ main {
 	border-left: 1px solid #000000;
 	border-bottom: 1px solid #000000;
 }
+
+.picture-box {
+	display: inline-block;
+	width: 100%;
+}
+
 .picture img {
 	vertical-align: bottom;
 	width: 100%;
