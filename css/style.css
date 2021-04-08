@@ -392,6 +392,20 @@ main {
 	color: #000000;
 }
 
+/* COMING SOON STYLES */
+
+.coming-soon {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+.coming-soon-text {
+	font-size: 96px;
+	line-height: 119px;
+	padding-left: 45px;
+	padding-bottom: 45px;
+}
+
 /* ABOUT US BLOCK STYLES */
 .about-us {
 	background-color: white;
