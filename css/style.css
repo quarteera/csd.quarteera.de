@@ -440,7 +440,22 @@
 	margin-top: 59px;
 	margin-bottom: 59px;
 }
-  
 
+.programm-container {
+	padding: 80px;
+	align-items: center;
+  }
+
+.programm-time {
+	font-family: 'Misto', sans-serif;
+	font-size: 48px;
+	width: 20%;
+	float: left;
+}
+
+.programm-dsc {
+	width: 80%;
+	float: right;
+}
 
 
