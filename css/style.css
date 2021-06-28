@@ -457,5 +457,58 @@
 	width: 80%;
 	float: right;
 }
+.circle-container {
+	padding: 10px;
+	align-items: center;
+  }
 
+.facebook-circle {
+	width: 200px;
+	height: 200px;
+	line-height: 150px;
+	border-radius: 50%;
+	color: rgb(129, 118, 118);
+	text-align: center;
+	background: hsl(0, 0%, 100%);
+	border:2px solid #24408e;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 22%;
+	margin-top: 10%;
+  }
+
+.instagram-circle {
+	width: 200px;
+	height: 200px;
+	line-height: 165px;
+	border-radius: 50%;
+	color: rgb(129, 118, 118);
+	text-align: center;
+	background: hsl(0, 0%, 100%);
+	border:2px solid #fe97ca;
+	margin-top: 15%;
+	margin-left: 60%;
+  }
+
+  .telegram-circle {
+	width: 200px;
+	height: 200px;
+	line-height: 165px;
+	border-radius: 50%;
+	color: rgb(129, 118, 118);
+	text-align: center;
+	background: hsl(0, 0%, 100%);
+	border:2px solid #f68a1e;
+	transform: rotate(-45deg);
+	margin-top: 3%;
+	margin-left: 35%;
+  }
+
+.circle-content {
+	font-family: 'Misto', sans-serif;
+	font-size: 25px;
+	display: table-cell;
+	padding: 15px;
+	vertical-align: middle;
+  }
 
