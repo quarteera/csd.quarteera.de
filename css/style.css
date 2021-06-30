@@ -13,6 +13,17 @@
 	padding: 0;
 	margin: 0;
 	list-style: none;
+	margin-bottom: 30px;
+  }
+  
+  ul.manifest-list {
+	margin-left: 1.5rem;
+	list-style: disc;
+  }
+
+  ul.manifest-list li {
+	margin-top: 10px;
+	margin-bottom: 0px;
   }
 
   body {
