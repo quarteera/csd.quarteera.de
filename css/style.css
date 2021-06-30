@@ -1,7 +1,26 @@
 /* MAIN STYLES */
 
+html {
+	font-size: 16px;
+  }
+
+@media screen and (min-width: 300px) {
+	html {
+	  font-size: calc(8px + 8 * ((100vw - 300px) / (1600 - 300)));
+	}
+  }
+  @media screen and (min-width: 1600px) {
+	html {
+	  font-size: 16px;
+	}
+  }
+
   * {
 	box-sizing: border-box;
+  }
+
+  body {
+	font-family: 'Play-Regular', sans-serif;
   }
 
   a {
@@ -13,27 +32,22 @@
 	padding: 0;
 	margin: 0;
 	list-style: none;
-	margin-bottom: 30px;
   }
   
   ul.manifest-list {
-	margin-left: 1.5rem;
+	margin-left: 1.5em;
 	list-style: disc;
   }
 
   ul.manifest-list li {
-	margin-top: 10px;
+	margin-top: 0.6rem;
 	margin-bottom: 0px;
-  }
-
-  body {
-	font-family: 'Play-Regular', sans-serif;
   }
 
   .container {
 	max-width: 100%; 
-	border: 2px solid black;
-	margin: 12px 10px 13px 10px;
+	border: 0.125rem solid black;
+	margin: 1.3rem 0.6rem 13px 0.6rem;
 	padding: 0px;
 	display: flex;
 	flex-flow: row nowrap;
@@ -45,7 +59,7 @@
 
   .right-container {
 	min-width: 58%;
-	border-left: 2px solid black;
+	border-left: 0.125rem solid black;
 }
 
 .header-container {
@@ -54,7 +68,7 @@
 	height: 80px;
 }
 .logo {
-	padding: 12px 0px 12px 40px;
+	padding: 1.3rem 0px 1.3rem 2.5rem;
 }
 
 /* Language buttons */
@@ -127,12 +141,12 @@
 /* Navigation */
 
 .nav-container {
-	border-top: 2px solid black;
+	border-top: 0.125rem solid black;
 }
 
 .nav-list {
 	width: 100%;
-	height: 590px;
+	height: 570px;
 	padding: 0;
 	display: flex;
 	flex-flow: row wrap;
@@ -146,7 +160,7 @@
 
 .item-1{
 	height: 19.8%;
-	/* height: 120px; */
+	/* height: 11.25rem; */
 	width: 21%;
 }
 
@@ -162,23 +176,23 @@
 .item-2{
 	width: 79%;
 	height: 19.8%;
-	/* height: 120px; */
+	/* height: 11.25rem; */
 	background-color: #F68A1E;
-	padding: 35px 43px 27px 35px;
+	padding: 2.1rem 2.6rem 1.6rem 2.1rem;
 }
 
 .item-2-de{
 	width: 79%;
 	height: 19.8%;
-	/* height: 120px; */
+	/* height: 11.25rem; */
 	background-color: #F68A1E;
-	padding: 35px 0px 27px 0px;
+	padding: 2.1rem 0 1.6rem 0px;
 	text-align: center;
 }
 
 .programm {
 	font-family: 'Misto', sans-serif;
-	font-size: 48px;
+	font-size: 3em;
 	/* word-wrap: break-word; */
 	color: #034B29;
 }
@@ -188,7 +202,7 @@
 	height: 60%;
 	/* height: 364px; */
 	background-color: #007940;
-	padding: 61px 25px 42px 34px;
+	padding: 3.8rem 1.5rem 2.6rem 2.1rem;
 }
 
 .item-3-de {
@@ -196,28 +210,28 @@
 	height: 60%;
 	/* height: 364px; */
 	background-color: #007940;
-	padding: 10px 44px 29px 10px;
+	padding: 0.6rem 2.75rem 1.8rem 0.6rem;
 }
 
 .security-measures {
 	display: block;
 	font-family: 'Misto', sans-serif;
-	font-size: 64px;
+	font-size: 4em;
 	/* word-wrap: break-word; */
-	margin-bottom: 32px;
+	margin-bottom: 2rem;
 }
 
 .security-measures-de {
 	display: block;
 	font-family: 'Misto', sans-serif;
-	font-size: 48px;
+	font-size: 3em;
 	/* word-wrap: break-word; */
 }
 
 .nav-item-text {
 	display: block;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 24px;
+	font-size: 1.5em;
 	/* word-wrap: break-word; */
 }
 .item-4{
@@ -240,7 +254,7 @@
 	height: 35.7%;
 	/* height: 216px; */
 	background-color: #EBD226;
-	padding: 23px 30px 21px 26px;
+	padding: 1.4rem 1.8rem 1.3rem 1.6rem;
 }
 
 .item-5-de {
@@ -250,14 +264,14 @@
 
 .route {
 	font-family: 'Misto', sans-serif;
-	font-size: 46px;
+	font-size: 2.8em;
 	/* word-wrap: break-word; */
 }
 
 .route-de {
 	display: inline-block;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 64px;
+	font-size: 4em;
     transform: translateY(165px) rotate(-90deg);
     transform-origin: 0 0;
 }
@@ -267,12 +281,12 @@
 	height: 20.3%;
 	/* height: 113px; */
 	background-color: #24408E;
-	padding: 46px 30px 45px 30px;
+	padding: 2.8rem 1.8rem 2.8rem 1.8rem;
 }
 
 .contacts {
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 18px;
+	font-size: 1.1em;
 	color: #F68A1E;
 
 }
@@ -281,7 +295,7 @@
     overflow: hidden;
 	width: 35.5%;
 	/* height: 308px; */
-	height: 52.5%;
+	height: 53.6%;
 	background-color: #FE97CA;
 	transform: translateY(-190px);
 }
@@ -293,7 +307,7 @@
 
 .manifest {
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 36px;
+	font-size: 2.25em;
 	color: #D12229;
 	display: inline-block;
     white-space: nowrap;
@@ -303,10 +317,10 @@
 .item-8{
 	width: 32.5%;
 	/* height: 269px; */
-	height: 45.1%;
+	height: 46%;
 	background-color: black;
 	transform: translateY(-146px);
-	padding: 19px 10px 7px 25px;
+	padding: 1.25rem 0.6rem 0.4rem 1.5rem;
 }
 
 .item-8:hover{
@@ -315,26 +329,25 @@
 
 .gallery {
 	font-family: 'Misto', sans-serif;
-	font-size: 64px;
+	font-size: 4em;
 	/* word-wrap: break-word; */
 	color: #D12229;
 	
 }
 .bottom-container {
-	
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: flex-start;
-	border-top: 2px solid black;
+	border-top: 0.125rem solid black;
 }
 
 .bottom-item{
 	width: 100%;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 36px;
+	font-size: 2.25em;
 	background-color: white;
 	text-align: center;
-	padding: 44px 37px 44px 38px;
+	padding: 2.75rem 37px 2.75rem 38px;
 
 }
 
@@ -355,7 +368,7 @@
 	position: absolute;
 	height: 18vh;
 	width: 41vw;
-	transform:  translateX(-52px) translateY(-45px);
+	transform:  translateX(-50.125rem) translateY(-2.8rem);
     transform-origin: 0 0;
 }
 
@@ -371,43 +384,43 @@
 .section-heading-main {
 	font-family: 'Misto', sans-serif;
 	font-weight: 400;
-	font-size: 116px;
+	font-size: 7.25em;
 	line-height: 140.36px;
 	margin: 0;
-	padding: 4px 22px 0px 20px;
+	padding: 0.25rem 20.125rem 0px 1.25rem;
 	/* word-wrap: break-word; */
-	border-bottom: 2px solid black;
+	border-bottom: 0.125rem solid black;
 }
 
 .section-heading {
 	font-family: 'Misto', sans-serif;
-	font-size: 48px;
+	font-size: 3em;
 	margin: 0;
-	padding-top: 17px;
-	padding-left: 68px;
-	padding-bottom: 5px;
-	border-bottom: 2px solid black;
+	padding-top: 1rem;
+	padding-left: 4.25rem;
+	padding-bottom: 0.3rem;
+	border-bottom: 0.125rem solid black;
 }
 
 .content-container {
-	padding: 50px 26px 81px 68px;
+	padding: 3.125rem 1.6rem 5rem 4.25rem;
 }
 
 .content-date {
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 48px;
+	font-size: 3em;
 	margin: 0;
-	padding: 20px 20px 15px 22px;
-	border-bottom: 2px solid black;
+	padding: 1.25rem 1.25rem 1rem 20.125rem;
+	border-bottom: 0.125rem solid black;
 }
 
 .content-timer {
 	display: block;
 	font-family: 'Misto', sans-serif;
-	font-size: 100px;
+	font-size: 6.25em;
 	margin: 0;
-	padding: 30px 20px 10px 22px;
-	border-bottom: 2px solid black;
+	padding: 1.8rem 1.25rem 0.6rem 20.125rem;
+	border-bottom: 0.125rem solid black;
 }
 
 .time li{
@@ -421,9 +434,9 @@
 	display: inline-block;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
 	padding: 0;
-	margin-right: -50px;
-	font-size: 64px;
-	transform:  translateX(-40px) translateY(-90px);
+	margin-right: -3.125rem;
+	font-size: 4em;
+	transform:  translateX(-2.5rem) translateY(-90px);
     transform-origin: 0 0;
   }
 
@@ -449,23 +462,23 @@
 	flex-direction: column;
 	justify-content: space-between;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 18px;
-	padding-left: 20px;
+	font-size: 1.1em;
+	padding-left: 1.25rem;
 }
 
 .partners {
-	margin-top: 59px;
-	margin-bottom: 59px;
+	margin-top: 3.6rem;
+	margin-bottom: 3.6rem;
 }
 
 .programm-container {
-	padding: 68px;
+	padding: 4.25rem;
 	align-items: center;
   }
 
 .programm-time {
 	font-family: 'Misto', sans-serif;
-	font-size: 48px;
+	font-size: 3em;
 	width: 20%;
 	float: left;
 }
@@ -475,7 +488,7 @@
 	float: right;
 }
 .circle-container {
-	padding: 10px;
+	padding: 0.6rem;
 	align-items: center;
   }
 
@@ -487,7 +500,7 @@
 	color: rgb(129, 118, 118);
 	text-align: center;
 	background: hsl(0, 0%, 100%);
-	border:2px solid #24408e;
+	border:0.125rem solid #24408e;
 	transform: rotate(45deg);
 	float: left;
 	margin-left: 22%;
@@ -502,7 +515,7 @@
 	color: rgb(129, 118, 118);
 	text-align: center;
 	background: hsl(0, 0%, 100%);
-	border:2px solid #fe97ca;
+	border:0.125rem solid #fe97ca;
 	margin-top: 15%;
 	margin-left: 60%;
   }
@@ -515,7 +528,7 @@
 	color: rgb(129, 118, 118);
 	text-align: center;
 	background: hsl(0, 0%, 100%);
-	border:2px solid #f68a1e;
+	border:0.125rem solid #f68a1e;
 	transform: rotate(-45deg);
 	margin-top: 3%;
 	margin-left: 35%;
@@ -529,7 +542,7 @@
 	color: rgb(129, 118, 118);
 	text-align: center;
 	background: #24408e;
-	border:2px solid #24408e;
+	border:0.125rem solid #24408e;
 	transform: rotate(45deg);
 	float: left;
 	margin-left: 22%;
@@ -544,7 +557,7 @@
 	color: rgb(129, 118, 118);
 	text-align: center;
 	background: #fe97ca;
-	border:2px solid #fe97ca;
+	border:0.125rem solid #fe97ca;
 	margin-top: 15%;
 	margin-left: 60%;
   }
@@ -557,7 +570,7 @@
 	color: rgb(129, 118, 118);
 	text-align: center;
 	background: #f68a1e;
-	border:2px solid #f68a1e;
+	border:0.125rem solid #f68a1e;
 	transform: rotate(-45deg);
 	margin-top: 3%;
 	margin-left: 35%;
@@ -565,9 +578,9 @@
 
 .circle-content {
 	font-family: 'Misto', sans-serif;
-	font-size: 25px;
+	font-size: 1.5em;
 	display: table-cell;
-	padding: 15px;
+	padding: 1rem;
 	vertical-align: middle;
   }
 
@@ -576,20 +589,20 @@ a.de {
 }
 
 .contact-links-container {
-	padding: 20px;
+	padding: 1.25rem;
 	display: inline;
   }
 
 .contact-links-container a {
 	display: inline-block;
-	padding: 40px;
+	padding: 2.5rem;
   }
   .route-container {
-	padding: 124px 26px 50px 68px;
+	padding: 7.75rem 1.6rem 3.125rem 4.25rem;
 }
 
 .measures-container {
-	padding: 126px 68px 50px 68px;
+	padding: 11.6rem 4.25rem 3.125rem 4.25rem;
 }
 
 .measures-list {
@@ -600,45 +613,45 @@ a.de {
 .measures-item {
 	display: flex;
 	flex-direction: row nowrap;
-	margin-bottom: 55px;
-	line-height: 20px;
+	margin-bottom: 3.4rem;
+	line-height: 1.25rem;
 }
 
 .measures-item:last-child{
-	margin-bottom: 90px;
+	margin-bottom: 3.75rem;
 }
 
 .measures-img {
-	margin-right: 23px;
+	margin-right: 1.4rem;
 }
 
 .measures-img-first {
 	width: 75px;
 	height: 75px;
-	margin-right: 23px;
+	margin-right: 1.4rem;
 }
 
 .measures-img-second {
 	width: 76px;
 	height: 47px;
-	transform: translateY(10px);
+	transform: translateY(0.6rem);
 }
 
 .measures-img-third {
 	width: 75px;
-	height: 72px;
+	height: 70.125rem;
 	transform: translateY(15px);
 }
 
 .measures-item-content {
 	padding: 0;
 	margin: 0;
-	line-height: 20px;
+	line-height: 1.25rem;
 }
 
 .measures-item-content-styled {
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 24px;
-	margin-bottom: 6px;
+	font-size: 1.5em;
+	margin-bottom: 0.3rem;
 }
 
