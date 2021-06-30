@@ -490,7 +490,7 @@
 	margin-left: 60%;
   }
 
-  .telegram-circle {
+.telegram-circle {
 	width: 200px;
 	height: 200px;
 	line-height: 165px;
@@ -498,6 +498,48 @@
 	color: rgb(129, 118, 118);
 	text-align: center;
 	background: hsl(0, 0%, 100%);
+	border:2px solid #f68a1e;
+	transform: rotate(-45deg);
+	margin-top: 3%;
+	margin-left: 35%;
+  }
+
+  .facebook-circle-de {
+	width: 200px;
+	height: 200px;
+	line-height: 150px;
+	border-radius: 50%;
+	color: rgb(129, 118, 118);
+	text-align: center;
+	background: #24408e;
+	border:2px solid #24408e;
+	transform: rotate(45deg);
+	float: left;
+	margin-left: 22%;
+	margin-top: 10%;
+  }
+
+.instagram-circle-de {
+	width: 200px;
+	height: 200px;
+	line-height: 165px;
+	border-radius: 50%;
+	color: rgb(129, 118, 118);
+	text-align: center;
+	background: #fe97ca;
+	border:2px solid #fe97ca;
+	margin-top: 15%;
+	margin-left: 60%;
+  }
+
+.telegram-circle-de {
+	width: 200px;
+	height: 200px;
+	line-height: 165px;
+	border-radius: 50%;
+	color: rgb(129, 118, 118);
+	text-align: center;
+	background: #f68a1e;
 	border:2px solid #f68a1e;
 	transform: rotate(-45deg);
 	margin-top: 3%;
@@ -512,3 +554,16 @@
 	vertical-align: middle;
   }
 
+a.de {
+	color:hsl(0, 0%, 100%);
+}
+
+.contact-links-container {
+	padding: 20px;
+	display: inline;
+  }
+
+.contact-links-container a {
+	display: inline-block;
+	padding: 40px;
+  }
