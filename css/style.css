@@ -156,6 +156,7 @@ html {
 .nav-item:hover{
 	z-index: 1;
 	transform: scale(1.05);
+	opacity: 1;
 }
 
 .item-1{
@@ -653,5 +654,9 @@ a.de {
 	font-family: 'RubikMonoOne-Regular', sans-serif;
 	font-size: 1.5em;
 	margin-bottom: 0.3rem;
+}
+
+.opaque {
+	opacity: 0.5;
 }
 
