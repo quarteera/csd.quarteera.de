@@ -366,10 +366,11 @@ html {
 .donate::before {
 	content: '';
 	position: absolute;
-	height: 18vh;
-	width: 41vw;
-	transform:  translateX(-50.125rem) translateY(-2.8rem);
-    transform-origin: 0 0;
+	height: 23vh;
+	width: 43vw;
+	transform-origin: 0 0;
+	transform:  translateX(-135px) translateY(-40px);
+   
 }
 
 .donate:active {
@@ -437,7 +438,7 @@ html {
 	padding: 0;
 	margin-right: -3.125rem;
 	font-size: 64px;
-	transform:  translateX(-2.5rem) translateY(-90px);
+	transform:  translateX(-40px) translateY(-90px);
     transform-origin: 0 0;
   }
 
