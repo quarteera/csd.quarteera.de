@@ -10,10 +10,10 @@
         <xhtml:link 
             rel="alternate"
             hreflang="ru"
-            href="https://www.marzahn-pride.de/pages/landingru"/>
+            href="https://www.marzahn-pride.de/pages/RU/main_ru.html"/>
     </url>
     <url>
-        <loc>https://www.marzahn-pride.de/pages/landingru</loc>
+        <loc>https://www.marzahn-pride.de/pages/RU/main_ru.html</loc>
         <xhtml:link 
             rel="alternate"
             hreflang="de"
@@ -21,7 +21,7 @@
         <xhtml:link 
             rel="alternate"
             hreflang="ru"
-            href="https://www.marzahn-pride.de/pages/landingru"/>
+            href="https://www.marzahn-pride.de/pages/RU/main_ru.html"/>
         <priority>0.8</priority>
     </url>
 </urlset>
