@@ -4,12 +4,12 @@
 	<meta charset="utf-8">
 
 	<!-- styles -->
-	<link rel="stylesheet" href="css/normilize.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/fonts.css">
-	<link rel="shortcut icon" href="favicon32.png" type="image/png">
-	<link rel="shortcut icon" href="favicon64.png" type="image/png">
-	<link rel="shortcut icon" href="favicon128.png" type="image/png">
+	<link rel="stylesheet" href="/css/normilize.css">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/fonts.css">
+	<link rel="shortcut icon" href="../../favicon32.png" type="image/png">
+	<link rel="shortcut icon" href="../../favicon64.png" type="image/png">
+	<link rel="shortcut icon" href="../../favicon128.png" type="image/png">
 	<link rel="canonical" href="https://www.marzahn-pride.de/">
 	<link rel="alternate" hreflang="x-default" href="https://www.marzahn-pride.de/" />
 	<link rel="alternate" hreflang="de" href="https://www.marzahn-pride.de" />
@@ -33,6 +33,7 @@
 	<title> Marzahn Pride - beta</title>
 
 	<script src="js/timer.js"></script>
+	<script src="https://apps.elfsight.com/p/platform.js" defer></script>
 	<script type="application/ld+json">{
 		"@context": "https://schema.org",
 		"@graph": [
@@ -75,16 +76,16 @@
 		<header class="left-container">
 			<div class="header-container">
 				<div class="logo">
-					<a href="index.html"><img src="images/logo 2.png"></a>
+					<a href="main_de.html"><img src="/images/logo 2.png"></a>
 				</div>
 				<div class="language">
-					<a href="pages/RU/main_ru.html" class="lang-link">
-						<input id="ru-switch" type="radio" name="switch" value="ru-switch" checked/>
-						<label class="switch ru-switch" for="ru-switch"></label>
+					<a href="/pages/RU/gallery.html" class="lang-link">
+						<input id="ru-switch" type="radio" name="switch" value="ru-switch"/>
+			<label class="switch ru-switch" for="ru-switch"></label> 
 					</a>
-					<a href="pages/DE/main_de.html" class="lang-link">
-						<input id="de-switch" type="radio" name="switch" value="de-switch" />
-						<label class="switch de-switch" for="de-switch"></label>
+					<a href="gallery.html" class="lang-link">
+						<input id="de-switch" type="radio" name="switch" value="de-switch" checked/>
+			<label class="switch de-switch" for="de-switch"></label>
 					</a>
 				</div>
 			</div>
@@ -94,62 +95,46 @@
 						<li class="item-1">
 							<div class="nav-img-first"></div>
 						</li>
-						<li class="nav-item item-2">
-							<a href="pages/RU/programm.html" class="nav-link programm">Программа</a>
+						<li class="nav-item item-2 item-2-de opaque">
+							<a href="programm.html" class="nav-link programm">Agenda</a>
 						</li>
-						<li class="nav-item item-3">
-							<a href="/pages/RU/security-measures.html" class="nav-link"> <span class="security-measures">Ме<br>ры</span> <span class="nav-item-text">безоп<br>аснос<br>ти</span></a>
+						<li class="nav-item item-3 item-3-de opaque">
+							<a href="security-measures.html" class="nav-link"> <span class="security-measures-de">Ver<br>halt<br>ung<br>sre<br>gel<br>n</span></a>
 						</li>
 						<li class="item-4">
 							<div class="nav-img-second"></div>
 						</li>			
-						<li class="nav-item item-5">
-							<a href="pages/RU/route.html" class="nav-link route">Мар <br>шру<br>т</a>
+						<li class="nav-item item-5 item-5-de opaque">
+							<a href="route.html" class="nav-link route-de">Rou<br>te<br></a>
 						</li>
-						<li class="nav-item item-6">
-							<a href="pages/RU/contacts.html" class="nav-link contacts">Контакты</a>
+						<li class="nav-item item-6 opaque">
+							<a href="contacts.html" class="nav-link contacts">Kontakte</a>
 						</li>
-						<li class="nav-item item-7">
-							<a href="pages/RU/manifest.html" class="nav-link manifest">Манифест</a>
+						<li class="nav-item item-7 opaque">
+							<a href="manifest.html" class="nav-link manifest">Manifest</a>
 						</li>
 						<li class="nav-item item-8">
-							<a href="pages/RU/gallery.html" class="nav-link gallery">Гал<br>ере<br>я</a>
+							<a href="gallery.html" class="nav-link gallery">Gal<br>eri<br>e</a>
 						</li>
 					</ul>
 					<div class="bottom-container">
-						<div class="bottom-item">
-							<a class = "donate" target="_blank" href="http://www.quarteera.de/Spenden-sind-willkommen">Поддержать</a>
+						<div class="bottom-item ">
+							<a class = "donate" target="_blank" href="http://www.quarteera.de/Spenden-sind-willkommen">Spenden</a>
 						</div>
 					</div>
 				</nav>
 			</div>
 		</header>
 		<main class="right-container">
-			<section class="section-route">
-				<h3 class="section-heading-main">Марцан Прайд</h3>
-				<div class="content-container-main">
+			<section>
+				<h3 class="section-heading">Galerie</h3>
+				<div class="content-container">
 					<div class="content">
-						<p class="content-date">17 июля 2021</p>
-						<div class="content-timer" id="timer">
-							<ul class="time">
-								<li id="dayTimer"></li>
-								<span class="timer-style day">д</span>
-								<li id="hourTimer"></li>
-								<span class="timer-style hour">ч</span>
-								<li id="minuteTimer"></li>
-								<span class="timer-style minute">м</span>
-								<li id="secondTimer"></li>
-								<span class="timer-style seconds">с</span>
-							</ul>
-						</div>
-						<div class="content-footer">
-							<a class = "partners" href="">Наши партнеры</a>
-							<a class="sponsors" href="">Наши спонсоры</a>
-						</div>
+						<div class="elfsight-app-3d2d0537-5f89-416d-9050-f910e66f4f8f"></div>
 					</div>
 				</div>
 			</section>
 		</main>
-	</div>
-</body>
-</html>
+		</div>
+		</body>
+		</html>

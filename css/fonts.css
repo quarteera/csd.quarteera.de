@@ -1,40 +1,17 @@
 @font-face {
-	font-family: 'Rubik-Black';
-	src: url(../fonts/Rubik-Black.ttf) format("opentype");
+	font-family: 'RubikMonoOne-Regular';
+	src: url(../fonts/RubikMonoOne-Regular.ttf) format("opentype");
 }
 @font-face {
-	font-family: 'Rubik-BlackItalic';
-	src: url(../fonts/Rubik-BlackItalic.ttf) format("opentype");
+	font-family: 'Misto';
+	src: url('../fonts/Misto.woff2') format('woff2'),
+    url('../fonts/Misto.woff') format('woff');
 }
 @font-face {
-	font-family: 'Rubik-Bold';
-	src: url(../fonts/Rubik-Bold.ttf) format("opentype");
+	font-family: 'Play-Regular';
+	src: url(../fonts/Play-Regular.ttf) format("opentype");
 }
 @font-face {
-	font-family: 'Rubik-BoldItalic';
-	src: url(../fonts/Rubik-BoldItalic.ttf) format("opentype");
-}
-@font-face {
-	font-family: 'Rubik-Italic';
-	src: url(../fonts/Rubik-Italic.ttf) format("opentype");
-}
-@font-face {
-	font-family: 'Rubik-Light';
-	src: url(../fonts/Rubik-Light.ttf) format("opentype");
-}
-@font-face {
-	font-family: 'Rubik-LightItalic';
-	src: url(../fonts/Rubik-LightItalic.ttf) format("opentype");
-}
-@font-face {
-	font-family: 'Rubik-Medium';
-	src: url(../fonts/Rubik-Medium.ttf) format("opentype");
-}
-@font-face {
-	font-family: 'Rubik-MediumItalic';
-	src: url(../fonts/Rubik-MediumItalic.ttf) format("opentype");
-}
-@font-face {
-	font-family: 'Rubik-Regular';
-	src: url(../fonts/Rubik-Regular.ttf) format("opentype");
+	font-family: 'Play-Bold';
+	src: url(../fonts/Play-Bold.ttf) format("opentype");
 }
