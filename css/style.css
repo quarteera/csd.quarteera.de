@@ -68,7 +68,12 @@ html {
 	height: 80px;
 }
 .logo {
-	padding: 1.3rem 0px 1.3rem 2.5rem;
+	height: 60px;
+    width: 173px;
+	margin: 0.7rem 0rem 0.8rem 2.5rem;
+	background-image: url(/images/logo\ 2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 /* Language buttons */
@@ -132,11 +137,6 @@ html {
 	-moz-filter: brightness(1.8) grayscale(1) opacity(.7);
 	filter: brightness(1.8) grayscale(1) opacity(.7);
 }
-/* .switch:hover{
-    -webkit-filter: brightness(1.2) grayscale(.5) opacity(.9);
-    -moz-filter: brightness(1.2) grayscale(.5) opacity(.9);
-	filter: brightness(1.2) grayscale(.5) opacity(.9);
-} */
 
 /* Navigation */
 
@@ -282,7 +282,9 @@ html {
 	height: 20.3%;
 	/* height: 113px; */
 	background-color: #24408E;
-	padding: 2.8rem 1.8rem 2.8rem 1.8rem;
+	display: flex;
+    justify-content: center;
+    align-items: center
 }
 
 .contacts {
@@ -462,8 +464,7 @@ html {
 
 .content-footer {
 	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
+	flex-direction: row;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
 	font-size: 1.1em;
 	padding: 1.25rem;
@@ -471,7 +472,27 @@ html {
 
 .partners {
 	margin-top: 3.6rem;
-	margin-bottom: 3.6rem;
+	margin-bottom: 2.8rem;
+	margin-right: 0.8rem;
+}
+
+.partners-img-first {
+	min-height: 3.1rem;
+	width: 11.75rem;
+	margin-top: 2.5rem;
+	margin-bottom: 2.8rem;
+	margin-right: 0.8rem;
+	background-image: url(/images/lesLeFam.png);
+	background-size: cover;
+}
+
+.partners-img-second {
+	min-height: 3.1rem;
+	width: 4.4rem;
+	margin-top: 2.5rem;
+	margin-bottom: 2.8rem;
+	background-image: url(/images/partner-logo.png);
+	background-size: cover;
 }
 
 .programm-container {
@@ -592,18 +613,24 @@ a.de {
 }
 
 .contact-links-container {
-	display: inline;
+	display: flex;
+	flex-direction: row;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
-	font-size: 0.9em;
-	padding: 0.9rem;
+	font-size: 0.85em;
+	padding-left: 0.6rem;
   }
 
-.contact-links-container a {
-	display: inline-block;
-	padding: 0.5rem;
+.contact-links-container a:not(:last-child) {
+	padding-right: 1.6rem;
   }
+  
   .route-container {
-	padding: 7.75rem 1.6rem 3.125rem 4.25rem;
+	padding: 0;
+}
+
+.route-container img {
+	min-width: 100%;
+	max-height: 44.9rem;
 }
 
 .measures-container {
