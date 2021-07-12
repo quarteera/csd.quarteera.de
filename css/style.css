@@ -466,7 +466,7 @@ html {
 	justify-content: space-between;
 	font-family: 'RubikMonoOne-Regular', sans-serif;
 	font-size: 1.1em;
-	padding-left: 1.25rem;
+	padding: 1.25rem;
 }
 
 .partners {
@@ -592,13 +592,15 @@ a.de {
 }
 
 .contact-links-container {
-	padding: 1.25rem;
 	display: inline;
+	font-family: 'RubikMonoOne-Regular', sans-serif;
+	font-size: 0.9em;
+	padding: 0.9rem;
   }
 
 .contact-links-container a {
 	display: inline-block;
-	padding: 2.5rem;
+	padding: 0.5rem;
   }
   .route-container {
 	padding: 7.75rem 1.6rem 3.125rem 4.25rem;
