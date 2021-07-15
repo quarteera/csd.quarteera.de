@@ -36,7 +36,7 @@
     grid-gap: 0.438rem;
 }
 
-@media screen and (min-width: 320px) and (max-width: 480px) {
+@media (orientation: portrait) {
   
     .gallery-container {
         grid-template-areas:

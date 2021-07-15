@@ -701,11 +701,45 @@ a.de {
 
 
 /* Стили для мобильной версии ниже */
-@media screen and (min-width: 320px) and (max-width: 480px) {
+@media (orientation: portrait) {
 
 	.content-container {
 		padding: 2rem 1.5rem 2rem 1.5rem;
-		max-height: none;
+	}
+
+	.container {
+		margin: 8px;
+		border: 2px solid black;
+		display: block;
+		height: 100%;
+	}
+
+	.left-container {
+		min-width: none;
+		width: 100%;
+		border-bottom: 2px solid red;
+	}
+
+	.header-container {
+		border-bottom: 2px solid black;
+		height: 8%;
+		min-height: 100px;
+	}
+  
+	.right-container {
+		min-width: none;
+		border-left: none;
+	}
+
+	.nav-container {
+		display: none;
+	}
+
+	.section-heading {
+        padding-left: 8px;
+		font-size: 10rem;
+		border-bottom: 2px solid black;
+		word-spacing: 100000px;
 	}
 }
 
