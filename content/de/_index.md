@@ -6,7 +6,4 @@ draft: false
 image:
 ---
 
-Некоммерческая организация русскоязычных ЛГБТ-активист_ок в Германии Quarteera  e.V. третий год подряд
-**18-го июня 2022 года**
-проводит прайд-парад в берлинском районе Марцан.
-
+Die gemeinnützige Organisation russischsprachiger LGBT-Aktivist*innen in Deutschland, Quarteera e.V., führt das dritte Jahr in Folge eine Pride Parade im Berliner Bezirk Marzahn durch.
