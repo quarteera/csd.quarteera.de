@@ -603,9 +603,11 @@ p.content-date {
   .logo { margin-right: 1rem; }
   .partner-logos { margin: 1rem; }
   .page-heading { margin: 1rem 0 .5rem 0; }
-  .content-timer {
-    display: none;
+   p.content-date {
+    font-size: 5.25rem;
+    line-height: 1.25em;
   }
+  .content-timer {display: none;}
 }
 
 
