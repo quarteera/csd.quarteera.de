@@ -1,0 +1,172 @@
+@import 'constants';
+@import 'mixins';
+
+.blue-border { border-bottom: 2px solid $blue; }
+.green-border { border-bottom: 2px solid $green; }
+.orange-border { border-bottom: 2px solid $orange; }
+.purple-border { border-bottom: 2px solid $purple; }
+.red-border { border-bottom: 2px solid $red; }
+.yellow-border { border-bottom: 2px solid $yellow; }
+
+.blue-dashed-border { border: 1px dashed $blue; }
+.green-dashed-border { border: 1px dashed $green; }
+.orange-dashed-border { border: 1px dashed $orange; }
+.red-dashed-border { border: 1px dashed $red; }
+.purple-dashed-border{ border: 1px dashed $purple; }
+.yellow-dashed-border { border: 1px dashed $yellow; }
+
+.blue-solid-border { border: 1px solid $blue; }
+.green-solid-border { border: 1px solid $green; }
+.orange-solid-border { border: 1px solid $orange; }
+.red-solid-border { border: 1px solid $red; }
+.purple-solid-border{ border: 1px solid $purple; }
+.yellow-solid-border { border: 1px solid $yellow; }
+
+.blue-dots:after, .blue-dots:before { background: $blue; }
+.green-dots:after, .green-dots:before { background: $green; }
+.orange-dots:after, .orange-dots:before { background: $orange; }
+.red-dots:after, .red-dots:before { background: $red; }
+.purple-dots:after, .purple-dots:before { background: $purple; }
+.yellow-dots:after, .yellow-dots:before { background: $yellow; }
+
+.blue-dot {
+  @include dot;
+  background: $blue;
+}
+
+.green-dot {
+  @include dot;
+  background: $green;
+}
+
+.orange-dot {
+  @include dot;
+  background: $orange;
+}
+
+.purple-dot {
+  @include dot;
+  background: $purple;
+}
+
+.red-dot {
+  @include dot;
+  background: $red;
+}
+
+.yellow-dot {
+  @include dot;
+  background: $yellow;
+}
+
+.blue-dashed { stroke: $blue; }
+.green-dashed { stroke: $green; }
+.orange-dashed { stroke: $orange; }
+.purple-dashed { stroke: $purple; }
+.red-dashed { stroke: $red; }
+.yellow-dashed { stroke: $yellow; }
+
+.blue, .green, .orange, .red, .yellow { filter: grayscale(1); }
+.purple { filter: hue-rotate(50deg); }
+
+.blue-stroke path {
+  fill: $blue;
+  stroke: $blue;
+}
+.green-stroke path {
+  fill: $green;
+  stroke: $green;
+}
+.orange-stroke path {
+  fill: $orange;
+  stroke: $orange;
+}
+.red-stroke path {
+  fill: $red;
+  stroke: $red;
+}
+.purple-stroke path {
+  fill: $purple;
+  stroke: $purple;
+}
+.yellow-stroke path {
+  fill: $yellow;
+  stroke: $yellow;
+}
+
+.blue-background-decor {
+  background-image: url("/images/background/blue.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.green-background-decor {
+  background-image: url("/images/background/green.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.purple-background-decor {
+  background-image: url("/images/background/purple.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.yellow-background-decor {
+  background-image: url("/images/background/yellow.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.blue-links {
+  a:hover, a:active, a:link { color: $dark-blue; }
+  a:visited { color: $blue; }
+}
+
+.green-links {
+  a:hover, a:active, a:link { color: $dark-green; }
+  a:visited { color: $green; }
+}
+
+.orange-links {
+  a:hover, a:active, a:link { color: $dark-orange; }
+  a:visited { color: $orange; }
+}
+
+.red-links {
+  a:hover, a:active, a:link { color: $dark-red; }
+  a:visited { color: $red; }
+}
+
+.purple-links {
+  a:hover, a:active, a:link { color: $dark-purple; }
+  a:visited { color: $purple; }
+}
+
+.yellow-links {
+  a:hover, a:active, a:link { color: $dark-yellow; }
+  a:visited { color: $yellow; }
+}
+
+.blue-button {
+  @include button;
+  background-color: $blue;
+}
+.blue-button:hover { background-color: $dark-blue; }
+.purple-button {
+  @include button;
+  background-color: $purple;
+  margin-right: 1rem;
+}
+.purple-button:hover { background-color: $dark-purple; }
+
+@media screen and (max-width:768px) {
+  .mobile-blue-background { background: $blue; }
+  .mobile-green-background { background: $green; }
+  .mobile-orange-background { background: $orange; }
+  .mobile-red-background { background: $red; }
+  .mobile-purple-background { background: $purple; }
+  .mobile-yellow-background { background: $yellow; }
+  .blue-border, .green-border, .red-border, .orange-border, .purple-border, .yellow-border { border-bottom: 0px; }
+  .blue-background-decor, .green-background-decor, .yellow-background-decor, .purple-background-decor { background-image:none; }
+}

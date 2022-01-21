@@ -1,0 +1,16 @@
+<footer class="footer">
+  <nav>
+    <div class="footer-section">
+      {{ range .Site.Menus.footer }}
+        <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+    <div class="footer-social">
+      {{ $homePage := .Site.GetPage "/" }}
+      <a class="q-svg-footer" href="http://www.quarteera.de">
+        {{- partial "q-logo-black.html" . -}}
+      </a>
+      {{- partial "social.html" . -}}
+    </div>
+  </nav>
+</footer>

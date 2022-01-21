@@ -1,0 +1,38 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;600&family=Rubik:wght@300;400;800&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, minimum-scale=1">
+    <link rel="shortcut icon" href="/favicon32.png" type="image/png">
+    <link rel="shortcut icon" href="/favicon64.png" type="image/png">
+    <link rel="shortcut icon" href="/favicon128.png" type="image/png">
+    <link rel="canonical" href="https://www.marzahn-pride.de/">
+    <link rel="alternate" hreflang="x-default" href="https://www.marzahn-pride.de/" />
+    <link rel="alternate" hreflang="de" href="https://www.marzahn-pride.de/pages/DE/main_de.html" />
+    <link rel="alternate" hreflang="ru" href="https://www.marzahn-pride.de/" />
+    <meta name="description" content="Marzahn Pride-Parade am 17. Juli 2021 um 12:00 ab S-Bahnhof Springful"/>
+    <meta name="keywords" content="CSD Marzahn Berlin LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="Marzahn Pride"/>
+    <meta property="og:description" content="Marzahn Pride-Parade am 17. Juli 2021 um 12:00 ab S-Bahnhof Springful"/>
+    <meta property="og:title" content="Marzahn Pride"/>
+    <meta property="og:url" content="https://www.marzahn-pride.de/"/>
+    <meta property="og:site_name" content="https://www.marzahn-pride.de/"/>
+    <meta property="og:locale" content="ru_RU"/>
+    <meta property="og:locale:alternate" content="de_DE" />
+    <meta property="fb:pages" content="188048734548939"/>
+    <meta property="og:image" content="https://www.marzahn-pride.de/images/rainbow-houses-full.jpg"/>
+    <meta property="vk:image" content="https://www.marzahn-pride.de/images/rainbow-houses.jpg">
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+    {{ $scss := resources.Get "scss/main.scss" }}
+    {{ $style := $scss | resources.ToCSS }}
+    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+    <link rel="stylesheet" type="text/css" src="https://github.com/necolas/normalize.css/blob/master/normalize.css">
+    {{ $title := print .Site.Title " | " .Title }}
+    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+</head>
