@@ -6,4 +6,4 @@ draft: false
 image:
 ---
 
-Die gemeinnützige Organisation russischsprachiger LGBT-Aktivist*innen in Deutschland, Quarteera e.V., führt das dritte Jahr in Folge eine Pride Parade im Berliner Bezirk Marzahn durch.
+Die gemeinnützige Organisation russischsprachiger LGBT-Aktivist*innen in Deutschland, Quarteera e.V., veranstaltet am 18. Juni 2022 das dritte Jahr in Folge eine Pride Parade im Berliner Bezirk Marzahn.
