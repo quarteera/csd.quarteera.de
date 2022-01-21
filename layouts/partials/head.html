@@ -9,21 +9,19 @@
     <link rel="shortcut icon" href="/favicon128.png" type="image/png">
     <link rel="canonical" href="https://www.marzahn-pride.de/">
     <link rel="alternate" hreflang="x-default" href="https://www.marzahn-pride.de/" />
-    <link rel="alternate" hreflang="de" href="https://www.marzahn-pride.de/pages/DE/main_de.html" />
+    <link rel="alternate" hreflang="de" href="https://www.marzahn-pride.de/de" />
     <link rel="alternate" hreflang="ru" href="https://www.marzahn-pride.de/" />
-    <meta name="description" content="Marzahn Pride-Parade am 17. Juli 2021 um 12:00 ab S-Bahnhof Springful"/>
-    <meta name="keywords" content="CSD Marzahn Berlin LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo"/>
+    <meta name="description" content="Marzahn Pride am 18. Juni 2022"/>
+    <meta name="keywords" content="CSD Marzahn Pride Berlin LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:site_name" content="Marzahn Pride"/>
-    <meta property="og:description" content="Marzahn Pride-Parade am 17. Juli 2021 um 12:00 ab S-Bahnhof Springful"/>
+    <meta property="og:site_name" content="Marzahn Pride 2022"/>
+    <meta property="og:description" content="Marzahn Pride am 18. Juni 2022"/>
     <meta property="og:title" content="Marzahn Pride"/>
     <meta property="og:url" content="https://www.marzahn-pride.de/"/>
     <meta property="og:site_name" content="https://www.marzahn-pride.de/"/>
     <meta property="og:locale" content="ru_RU"/>
     <meta property="og:locale:alternate" content="de_DE" />
     <meta property="fb:pages" content="188048734548939"/>
-    <meta property="og:image" content="https://www.marzahn-pride.de/images/rainbow-houses-full.jpg"/>
-    <meta property="vk:image" content="https://www.marzahn-pride.de/images/rainbow-houses.jpg">
     <meta name="robots" content="index, follow">
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -35,4 +33,33 @@
     {{ $title := print .Site.Title " | " .Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
+    
+    <script type="application/ld+json">{
+		"@context": "https://schema.org",
+		"@graph": [
+		{
+			"@type": "Event",
+			"name": "Marzahn Pride 2022",
+			"description": "Marzahn Pride-Parade findet am 18 Juni 2022 statt",
+			"startDate": "2022-06-18",
+			"endDate": "2022-06-18",
+			"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+			"eventStatus": "https://schema.org/EventScheduled",
+			"location": {
+				"@type": "Place",
+				"name": "Berlin Marzahn-Hellersdorf"
+			},
+			"image": [
+				"https://www.marzahn-pride.de/favicon32.png",
+				"https://www.marzahn-pride.de/favicon64.png",
+				"https://www.marzahn-pride.de/favicon128.png"
+			],
+			"organizer": {
+				"@type": "Organization",
+				"name": "Quarteera e.V.",
+				"url": "https://www.marzahn-pride.de"
+			}
+		}
+		]
+	}</script>
 </head>
