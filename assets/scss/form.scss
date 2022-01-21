@@ -1,0 +1,70 @@
+@import 'mixins';
+
+.form-page {
+  @include max-width;
+  padding: 4rem 0;
+}
+
+.form-section {
+  min-width: 70%;
+  margin-bottom: 1.75rem;
+}
+
+.form {
+  margin-top: 2rem;
+
+  label {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: .75rem;
+  }
+
+  option { @include inherit-font; }
+
+  .selection1 {
+    @include column;
+    align-items: baseline;
+  }
+
+  .input { @include column; }
+
+  input[type=text], select {
+    @include inherit-font;
+    padding: .5rem .75rem;
+    display: inline-block;
+    box-sizing: border-box;
+  }
+
+  select { min-width: 50%; }
+
+  input[type=checkbox] {
+    @include inherit-font;
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+
+  .checkbox {
+    @include column;
+
+    .checkbox-container {
+      @include row;
+      justify-content: space-between;
+      width: 70%;
+    }
+  }
+
+  a {
+    @include button;
+    color: white;
+    font-family:inherit;
+    font-size: inherit;
+    margin: 0 0 1rem 0;
+  }
+
+  a:hover { color: white; }
+}
+
+@media screen and (max-width:768px) {
+  .form-section { width: 100%; }
+  .form-page { margin: 0 1rem; }
+}

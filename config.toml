@@ -1,0 +1,33 @@
+baseURL = 'https://www.marzahn-pride.de/'
+languageCode = 'de-DE'
+title = 'Marzahn Pride 2022'
+defaultContentLanguage = 'ru'
+[languages]
+  [languages.ru]
+    title = 'Marzahn Pride 2022'
+    languageName = 'RU'
+    weight = 1
+    contentDir = 'content/ru'
+    [languages.ru.menu]
+    [[languages.ru.menu.footer]]
+      name = 'Импрессум'
+      url = 'http://www.quarteera.de/impressum'
+      weight = 1
+    [[languages.ru.menu.footer]]
+      name = 'Политика безопасности'
+      url = 'http://www.quarteera.de/datenschutz'
+      weight = 2
+  [languages.de]
+    title = 'Marzahn Pride 2022'
+    languageName = 'DE'
+    weight = 2
+    contentDir = 'content/de'
+    [languages.de.menu]
+    [[languages.de.menu.footer]]
+      name = 'Impressum'
+      url = 'http://www.quarteera.de/impressum'
+      weight = 1
+    [[languages.de.menu.footer]]
+      name = 'Datenschutz'
+      url = 'http://www.quarteera.de/datenschutz'
+      weight = 2

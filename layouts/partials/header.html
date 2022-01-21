@@ -1,0 +1,70 @@
+<div class="header">
+  <nav>
+    <div class="header-logo">
+      {{ $isHome := .Page.IsHome }}
+      {{ $homePage := .Site.GetPage "/" }}
+      {{ if $isHome }}
+        <a class="q-svg-header" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
+          {{- partial "q-logo-color.html" . -}}
+        </a>
+      {{ else }}
+        <a class="q-svg-header" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
+          {{- partial "q-logo-black.html" . -}}
+        </a>
+      {{ end }}
+    </div>
+    {{ $currentPage := . }}
+    <div class="nav-links">
+      <ul class="main-menu">
+        {{ range .Site.Menus.main }}
+          {{ $is := eq .Identifier $currentPage.Params.menuIdentifier }}
+          <div class="menu-item mobile-{{ .Pre }}-background">
+            <li {{ if $is }}class="{{ $currentPage.Params.color }}-border"{{ end }}>
+              <a href="{{ .URL | absLangURL }}" title="{{ .Title }}">{{ .Name }}</a>
+            </li>
+          </div>
+        {{ end }}
+        <div class="language-selector">
+          {{ if .Site.IsMultiLingual }}
+            <ul class="hamburger-languages">
+              {{ range $.AllTranslations }}
+                <li class="mobile-language {{ if eq .Language $.Site.Language }}active-language{{ end }}">
+                  <a href="{{ .Permalink }}">
+                    {{ .Language.LanguageName }}
+                  </a>
+                </li>
+              {{ end }}
+            </ul>
+            <ul class="desktop-language">
+              <li><a>{{ $.Site.Language.LanguageName }}</a></li>
+              <svg class="language-open" width="10" height="5" viewBox="0 0 21 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M0.666671 1L10.3333 9L20 1" stroke="#201B20" stroke-width="2"/>
+              </svg>
+              <div class="language-popup disable">
+                {{ range $.Translations }}
+                  <li>
+                    <a href="{{ .Permalink }}">{{ .Language.LanguageName}}</a>
+                  </li>
+                {{ end }}
+              </div>
+            </ul>
+          {{ end }}
+        </div>
+      </ul>
+      {{- partial "social.html" . -}}
+    </div>
+    <div class="burger">
+      <svg class="open-icon" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="32" y1="9" x2="8.74228e-08" y2="9" stroke="#201B20" stroke-width="2"/>
+        <line x1="32" y1="17" x2="8" y2="17" stroke="#201B20" stroke-width="2"/>
+        <line x1="32" y1="25" x2="16" y2="25" stroke="#201B20" stroke-width="2"/>
+      </svg>
+      <svg class="close-icon disable" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="27.6064" y1="27.7071" x2="4.97895" y2="5.07969" stroke="#201B20" stroke-width="2"/>
+        <line x1="28.0206" y1="4.70711" x2="11.05" y2="21.6777" stroke="#201B20" stroke-width="2"/>
+        <line x1="16.0206" y1="16.7071" x2="4.70687" y2="28.0208" stroke="#201B20" stroke-width="2"/>
+      </svg>
+
+    </div>
+  </nav>
+</div>

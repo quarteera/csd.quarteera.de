@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <!-- disable animation on page load:
+  https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only -->
+  <body class="preload">
+    <div class="body">
+      {{- partial "header.html" . -}}
+      <div id="content" class="content {{ .Params.color }}-background-decor">
+        {{- block "main" . }}{{- end }}
+      </div>
+      {{- partial "footer.html" . -}}
+      {{- partial "script.html" . -}}
+    </div>
+  </body>
+</html>
