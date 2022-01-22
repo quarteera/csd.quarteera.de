@@ -1,6 +1,6 @@
-var countDownDate = new Date("Juni 18, 2022 12:00:00").getTime();
-
 function renderTimer() {
+  //var countDownDate = new Date("Juni 18, 2022 12:00:00").getTime();
+  var countDownDate = new Date(2022, 5, 18, 12, 0, 0).getTime();
   var now = new Date().getTime();
   var days, hours, minutes, seconds;
 
@@ -16,7 +16,7 @@ function renderTimer() {
   minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   //seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  dayTimer.innerHTML = days;
+  daysTimer.innerHTML = days;
   hourTimer.innerHTML = hours;
   minuteTimer.innerHTML = minutes;
   //secondTimer.innerHTML = seconds;
