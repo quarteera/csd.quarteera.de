@@ -14,12 +14,12 @@ function renderTimer() {
   days = Math.floor(distance / (1000 * 60 * 60 * 24));
   hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  //seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   dayTimer.innerHTML = days;
   hourTimer.innerHTML = hours;
   minuteTimer.innerHTML = minutes;
-  secondTimer.innerHTML = seconds;
+  //secondTimer.innerHTML = seconds;
 
   if (distance < 0) {
     clearInterval(x);
