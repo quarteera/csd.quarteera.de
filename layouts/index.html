@@ -12,11 +12,24 @@
         </div>
         <h1>{{ .Title }}</h1>
       </div>
-      <p>{{ .Content }}</p>
       <div class="buttons-container">
-        {{ $donatePage := .Site.GetPage "/help/spenden"  }}
-        <a class="blue-button" href="http://www.quarteera.de/Spenden-sind-willkommen">{{ $donatePage.Title }}</a>
+        {{ $routePage := .Site.GetPage "/route"  }}
+        {{ with $routePage }}
+        <a class="orange-button" href="{{ $routePage.RelPermalink }}">{{ $routePage.Title }}</a>
+        {{ end }}
+        {{ $strassenfestPage := .Site.GetPage "/strassenfest"  }}
+        {{ with $strassenfestPage }}
+        <a class="green-button" href="{{ $strassenfestPage.RelPermalink }}">{{ $strassenfestPage.Title }}</a>
+        {{ end }}
+        {{ $mitmachenPage := .Site.GetPage "/mitmachen"  }}
+        {{ with $mitmachenPage }}
+        <a class="purple-button" href="{{ $mitmachenPage.RelPermalink }}">{{ $mitmachenPage.Title }}</a>
+        {{ end }}
+        {{ $donatePage := .Site.GetPage "/spenden"  }}
+        <a class="blue-button" href="{{ $donatePage.RelPermalink }}">{{ $donatePage.Title }}</a>
       </div>
+	  <p>{{ .Content }}</p>
+      
     </div>
     <div class="calendar">
       <div class="content-container-main">

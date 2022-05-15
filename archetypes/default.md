@@ -8,4 +8,5 @@ image:  # Feature image
 alt: # Alt text for the article image
 summary: # Article summary
 draft: false
+alias: #alias
 ---
