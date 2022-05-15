@@ -1,13 +1,13 @@
 ---
-title: "Поддержать Марцан Прайд" # Title of your project
+title: "Поддержать" # Title of your project
 date: 2022-01-06T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image:
-alt: "Поддержать"
+alt: ""
 summary: ""
 draft: false
 color: purple
-alias: "Поддержать"
+alias: ""
 ---
 Проведение Марцан Прайда связанно со значительными затратами и зависит от пожертвований. Мы благодарим Вас за поддержку и интерес к нашей работе.
 

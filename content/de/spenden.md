@@ -1,13 +1,13 @@
 ---
-title: "Marzahn Pride unterstützen" # Title of your project
+title: "Spenden" # Title of your project
 date: 2022-01-06T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image:
-alt: "Spenden"
+alt: ""
 summary: ""
 draft: false
 color: purple
-alias: "Spenden"
+alias: ""
 ---
 Die durchführung vom Marzahn Pride ist mit großen Ausgaben verbunden und hängt von Spenden ab. Wir bedanken uns bei Ihnen für Ihr Interesse an unserer Arbeit. 
 
