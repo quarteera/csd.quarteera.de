@@ -1,6 +1,6 @@
 ---
 title: "Marzahn Pride 2022"
-date: 2022-01-07T11:53:49+01:00
+date: 2022-05-15T19:31:52+01:00
 dataStart: "18. Juni 2022"
 draft: false
 image:

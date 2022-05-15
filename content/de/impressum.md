@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-date: 2022-01-06T19:31:52+01:00
+date: 2022-05-15T19:31:52+01:00
 draft: false
 image:
 ---
