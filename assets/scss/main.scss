@@ -427,7 +427,7 @@ p.content-date {
   .regular-list-item:first-child {
     margin-left: .25rem;
   }
-  .footer { padding: 1rem; }
+  .footer, .single-page { padding: 1rem; }
   .nav-links {
     @include column;
     position: fixed;

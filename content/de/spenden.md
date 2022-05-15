@@ -3,7 +3,7 @@ title: "Marzahn Pride unterstützen" # Title of your project
 date: 2022-01-06T16:51:38+01:00
 weight: 10 # Order in which to show this project on the home page
 image:
-alt: "some alt text"
+alt: "Spenden"
 summary: ""
 draft: false
 color: purple
