@@ -3,15 +3,10 @@
     <div class="header-logo">
       {{ $isHome := .Page.IsHome }}
       {{ $homePage := .Site.GetPage "/" }}
-      {{ if $isHome }}
         <a class="q-svg-header" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
           {{- partial "q-logo-color.html" . -}}
         </a>
-      {{ else }}
-        <a class="q-svg-header" href="{{ with $homePage }}{{ $homePage.Permalink }}{{end}}">
-          {{- partial "q-logo-black.html" . -}}
-        </a>
-      {{ end }}
+
     </div>
     {{ $currentPage := . }}
     <div class="nav-links">

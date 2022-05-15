@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div class="single-page {{ .Params.color }}-links">
+    <div class="single-page-summary">
+      {{ if and ( isset .Params "image" ) ( ne ( trim .Params.image " " ) "" )  }}
+        <div class="column">
+          {{ $image := .Resources.GetMatch (.Params.image) }}
+          {{ with $image }}
+            <img class="main-image" src="{{ ( $image.Fill "405x405 Center" ).RelPermalink }}" atl="{{.Params.alt}}"/>
+          {{ end }}
+        </div>
+      {{ end }}
+      <div class="column text">
+        <h1>{{ .Title }}</h1>
+        <p class="summary">{{ .Params.summary }}</p>
+      </div>
+    </div>
+    {{ .Content }}
+  </div>
+{{ end }}

@@ -10,12 +10,12 @@ defaultContentLanguage = 'ru'
     contentDir = 'content/ru'
     [languages.ru.menu]
     [[languages.ru.menu.footer]]
-      name = 'Импрессум'
-      url = 'http://www.quarteera.de/impressum'
+      name = 'Выходные данные'
+      url = '/impressum'
       weight = 1
     [[languages.ru.menu.footer]]
       name = 'Политика безопасности'
-      url = 'http://www.quarteera.de/datenschutz'
+      url = '/datenschutz'
       weight = 2
   [languages.de]
     title = 'Marzahn Pride 2022'
@@ -25,9 +25,9 @@ defaultContentLanguage = 'ru'
     [languages.de.menu]
     [[languages.de.menu.footer]]
       name = 'Impressum'
-      url = 'http://www.quarteera.de/impressum'
+      url = '/de/impressum'
       weight = 1
     [[languages.de.menu.footer]]
       name = 'Datenschutz'
-      url = 'http://www.quarteera.de/datenschutz'
+      url = '/de/datenschutz'
       weight = 2

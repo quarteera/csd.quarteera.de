@@ -1,5 +1,5 @@
 ---
-title: "Marzahn Pride"
+title: "Marzahn Pride 2022"
 date: 2022-01-07T11:53:49+01:00
 dataStart: "18. Juni 2022"
 draft: false
@@ -15,6 +15,6 @@ Damit drücken wir aus: “die russischsprachige PostOst LGBTQ\*-Community in De
 
 **Um 12 Uhr treffen wir uns am Platz vor dem S-Bahn-Ausgang Raoul-Wallenberg Strasse.**
 
-Dieses Jahr neben dem traditionellen Aufzug findet ein Straßenfest am **Victor-Kremperer-Platz** statt.
+Dieses Jahr neben dem traditionellen Aufzug findet ein Straßenfest am **Victor-Klemperer-Platz** statt.
 
 Weitere Details folgen!

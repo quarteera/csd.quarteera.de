@@ -73,7 +73,7 @@ img { border-radius: .25rem; }
 
 .single-page {
   @include max-width;
-  padding: 4rem 2rem;
+  padding: 4rem 0rem;
 
   .article-image {
     @include center;
@@ -183,7 +183,7 @@ nav {
   justify-content: space-between;
 }
 
-.home-page-heading { width: 70%; }
+.home-page-heading { width: 80%; }
 .heading-with-dots {
   align-items: center;
   margin-bottom: 1.5rem;
@@ -427,7 +427,7 @@ p.content-date {
   .regular-list-item:first-child {
     margin-left: .25rem;
   }
-  .footer, .single-page { padding: 1rem; }
+  .footer { padding: 1rem; }
   .nav-links {
     @include column;
     position: fixed;
