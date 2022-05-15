@@ -21,7 +21,7 @@ Verwendungszweck: Marzahn Pride
 
 oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
 
-Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 200 Euro legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](./Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
+Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 200 Euro legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
 
 Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne per Post. Wenn Sie regelmäßig spenden oder Sachspende machen wollen, helfen wir natürlich auch gerne weiter.
 
