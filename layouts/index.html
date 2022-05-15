@@ -15,7 +15,7 @@
       <div class="buttons-container">
         {{ $routePage := .Site.GetPage "/route"  }}
         {{ with $routePage }}
-        <a class="yellow-button" href="{{ $routePage.RelPermalink }}">{{ $routePage.Title }}</a>
+        <a class="orange-button" href="{{ $routePage.RelPermalink }}">{{ $routePage.Title }}</a>
         {{ end }}
         {{ $strassenfestPage := .Site.GetPage "/strassenfest"  }}
         {{ with $strassenfestPage }}

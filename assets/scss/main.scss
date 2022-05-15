@@ -384,7 +384,7 @@ p.content-date {
 .time li{
   display:inline-block;
   padding: 0;
-  margin: 20px;
+  margin: 40px;
 }
 
 .timer-style {
@@ -577,6 +577,8 @@ p.content-date {
     align-items: baseline;
   }
 
+  .orange-button { margin-bottom: 1rem; }
+  .green-button { margin-bottom: 1rem; }
   .purple-button { margin-bottom: 1rem; }
   .heading-with-dots {
     flex-direction: column;
