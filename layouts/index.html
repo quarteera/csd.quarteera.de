@@ -12,7 +12,7 @@
         </div>
         <h1>{{ .Title }}</h1>
       </div>
-      <p>{{ .Summary }}</p>
+      <p>{{ .Content }}</p>
       <div class="buttons-container">
         {{ $donatePage := .Site.GetPage "/help/spenden"  }}
         <a class="blue-button" href="http://www.quarteera.de/Spenden-sind-willkommen">{{ $donatePage.Title }}</a>
