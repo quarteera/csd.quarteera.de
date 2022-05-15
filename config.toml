@@ -1,5 +1,5 @@
 baseURL = 'https://www.marzahn-pride.de/'
-languageCode = 'de-DE'
+languageCode = 'ru-RU'
 title = 'Marzahn Pride 2022'
 defaultContentLanguage = 'ru'
 [languages]

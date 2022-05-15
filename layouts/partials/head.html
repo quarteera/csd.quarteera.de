@@ -15,13 +15,20 @@
     <meta name="keywords" content="CSD Marzahn Pride Berlin LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo"/>
     <meta property="og:type" content="website"/>
     <meta property="og:site_name" content="Marzahn Pride 2022"/>
-    <meta property="og:description" content="Marzahn Pride am 18. Juni 2022"/>
-    <meta property="og:title" content="Marzahn Pride"/>
+    <meta property="og:description" content="Marzahn Pride am 18. Juni 2022 um 12 Uhr"/>
+    <meta property="og:title" content="Marzahn Pride 2022"/>
     <meta property="og:url" content="https://www.marzahn-pride.de/"/>
     <meta property="og:site_name" content="https://www.marzahn-pride.de/"/>
+    {{ if eq .Site.Language.LanguageName "DE" }}
+    <meta property="og:locale" content="de_DE"/>
+    <meta property="og:locale:alternate" content="ru_RU" />
+    {{ else }}
     <meta property="og:locale" content="ru_RU"/>
     <meta property="og:locale:alternate" content="de_DE" />
+    {{ end }}
     <meta property="fb:pages" content="188048734548939"/>
+    <meta property="og:image" content="https://www.marzahn-pride.de/images/new_logo.jpg"/>
+    <meta property="vk:image" content="https://www.marzahn-pride.de/images/new_logo.jpg">
     <meta name="robots" content="index, follow">
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -33,45 +40,48 @@
     {{ $title := print .Site.Title " | " .Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
-    
+
+    {{ $isHome := .Page.IsHome }}
+    {{ if and $isHome (eq .Site.Language.LanguageName "DE")}}
     <script type="application/ld+json">{
-		"@context": "https://schema.org",
-		"@graph": [
-		{
-			"@type": "Event",
-			"name": "Marzahn Pride 2022",
-			"description": "Dritte Marzahn Pride-Parade findet am 18. Juni 2022 statt",
-			"startDate": "2022-06-18",
-			"endDate": "2022-06-18",
-			"eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-			"eventStatus": "https://schema.org/EventScheduled",
-			"location": {
-				"@type": "Place",
-				"name": "Berlin Marzahn-Hellersdorf",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "Bezirk Marzahn-Hellersdorf",
-					"addressLocality": "Berlin",
-					"postalCode": "12679",
-					"addressRegion": "BE",
-					"addressCountry": "DE"
-				  }
-			},
-			"image": [
-				"https://www.marzahn-pride.de/favicon32.png",
-				"https://www.marzahn-pride.de/favicon64.png",
-				"https://www.marzahn-pride.de/favicon128.png"
-			],
-			"organizer": {
-				"@type": "Organization",
-				"name": "Quarteera e.V.",
-				"url": "https://www.marzahn-pride.de"
-			},
-			"performer": {
-			  "@type": "PerformingGroup",
-			  "name": "Quarteera e.V."
-			}
-		}
-		]
-	}</script>
+        "@context": "https://schema.org",
+        "@graph": [
+        {
+            "@type": "Event",
+            "name": "Marzahn Pride 2022",
+            "description": "3. Marzahn Pride-Parade findet am 18. Juni 2022 um 12 Uhr statt",
+            "startDate": "2022-06-18",
+            "endDate": "2022-06-18",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "name": "S-Bahnhof Raoul-Wallenberg-Strasse",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Raoul-Wallenberg-Strasse",
+                    "addressLocality": "Berlin",
+                    "postalCode": "12679",
+                    "addressRegion": "BE",
+                    "addressCountry": "DE"
+                  }
+            },
+            "image": [
+                "https://www.marzahn-pride.de/favicon32.png",
+                "https://www.marzahn-pride.de/favicon64.png",
+                "https://www.marzahn-pride.de/favicon128.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "Quarteera e.V.",
+                "url": "https://www.marzahn-pride.de/de"
+            },
+            "performer": {
+              "@type": "PerformingGroup",
+              "name": "Quarteera e.V."
+            }
+        }
+        ]
+    }</script>
+    {{ end }}
 </head>
