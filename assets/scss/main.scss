@@ -79,6 +79,20 @@ img { border-radius: .25rem; }
     @include center;
     margin-bottom: 2rem;
   }
+
+  .route-image{
+    @include center;
+    margin-bottom: 2rem;
+  }
+  .route-image img {
+    width: 35rem;
+    height: auto;
+    outline: 1px solid black;
+  }
+  .route-image figcaption {
+    font-size: small;
+  }
+
   .article-logo{ @include center; }
   .article-logo img {
     border-radius: 50%;
@@ -183,7 +197,7 @@ nav {
   justify-content: space-between;
 }
 
-.home-page-heading { width: 80%; }
+.home-page-heading { width: 82%; }
 .heading-with-dots {
   align-items: center;
   margin-bottom: 1.5rem;
@@ -500,6 +514,7 @@ p.content-date {
   }
 
   .article-image img { max-width: 100%; }
+  .route-image img { max-width: 100%; }
 
   .main-image {
     align-self: center;

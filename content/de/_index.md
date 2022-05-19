@@ -13,7 +13,7 @@ Die Marzahn Pride war immer eine (nicht nur russischsprachige) migrantische Post
 Damit rufen wir alle Verbündeten, alle russischsprechenden Menschen hierzulande und im Ausland auf, Widerstand gegen die Diktaturen zu leisten, Demokratie und Menschenrechte zu bewahren! Damit möchten wir unsere deutschen und europäischen Mitbürger\*innen warnen, dass die Diktaturen oft mit Unterdrückung der Rechte der Minderheiten anfangen.
 Damit drücken wir aus: “die russischsprachige PostOst LGBTQ\*-Community in Deutschland steht mit der Ukraine”.
 
-**Um 12 Uhr treffen wir uns am Platz vor dem S-Bahn-Ausgang Raoul-Wallenberg Strasse.**
+**Um 12 Uhr treffen wir uns am Platz vor dem S-Bahn-Ausgang Raoul-Wallenberg-Strasse.**
 
 Dieses Jahr neben dem traditionellen Aufzug findet ein Straßenfest am **Victor-Klemperer-Platz** statt.
 
