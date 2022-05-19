@@ -79,6 +79,16 @@ img { border-radius: .25rem; }
     @include center;
     margin-bottom: 2rem;
   }
+
+  .route-image{
+    @include center;
+    margin-bottom: 2rem;
+  }
+  .route-image img {
+    width: 40rem;
+    height: auto;
+  }
+
   .article-logo{ @include center; }
   .article-logo img {
     border-radius: 50%;

@@ -12,4 +12,4 @@ draft: false
 - Далее по Landsberger Allee до Marzahner Promenade.
 - И затем по Marzahner Promenade до площади Viktor-Klemperer-Platz, где состоится наш [фестиваль](/strassenfest).
 
-{{< figure src="/images/routeWhite.png" class="article-image" >}}
+{{< figure src="/images/routeWhite.png" class="route-image" >}}
