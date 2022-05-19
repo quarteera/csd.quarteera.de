@@ -13,4 +13,4 @@ draft: false
 - И затем по Marzahner Promenade до площади Viktor-Klemperer-Platz, где состоится наш [фестиваль](/strassenfest).
 \
 
-{{< figure src="/images/routeWhite.png" class="route-image" caption="Google Maps © 2022 GeoBasis-DE/BKG(© 2009)">}}
+{{< figure src="/images/routeBlack.png" class="route-image" caption="Google Maps © 2022 GeoBasis-DE/BKG(© 2009)">}}
