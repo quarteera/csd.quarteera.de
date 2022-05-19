@@ -89,6 +89,9 @@ img { border-radius: .25rem; }
     height: auto;
     outline: 1px solid black;
   }
+  .route-image figcaption {
+    font-size: small;
+  }
 
   .article-logo{ @include center; }
   .article-logo img {
