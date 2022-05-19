@@ -8,6 +8,8 @@ draft: false
 
 ## Маршрут демонстрации:
 
-По Raoul-Wallenberg-Straße до перекрестка с Raoul-Wallenberg-Straße/Landsberger Allee. Далее по Landsberger Allee до Marzahner Promenade и затем по Marzahner Promenade до площади Viktor-Klemperer-Platz, где состоится наш [фестиваль](/strassenfest).
+- По Raoul-Wallenberg-Straße до перекрестка с Raoul-Wallenberg-Straße/Landsberger Allee. 
+- Далее по Landsberger Allee до Marzahner Promenade.
+- И затем по Marzahner Promenade до площади Viktor-Klemperer-Platz, где состоится наш [фестиваль](/strassenfest).
 
-{{< figure src="routeWhite.png" class="article-image" >}}
+{{< figure src="/routeWhite.png" class="article-image" >}}
