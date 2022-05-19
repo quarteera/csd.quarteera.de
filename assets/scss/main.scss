@@ -85,8 +85,9 @@ img { border-radius: .25rem; }
     margin-bottom: 2rem;
   }
   .route-image img {
-    width: 40rem;
+    width: 35rem;
     height: auto;
+    outline: 1px solid black;
   }
 
   .article-logo{ @include center; }
@@ -510,6 +511,7 @@ p.content-date {
   }
 
   .article-image img { max-width: 100%; }
+  .route-image img { max-width: 100%; }
 
   .main-image {
     align-self: center;
