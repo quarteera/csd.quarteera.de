@@ -4,10 +4,20 @@ date: 2022-05-15T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
-Dieses Jahr neben dem traditionellen Aufzug findet ein Straßenfest am **Victor-Klemperer-Platz** ab ca. 14 Uhr bis 21 Uhr statt.
+Dieses Jahr findet neben dem traditionellen Aufzug ein Straßenfest am **Victor-Klemperer-Platz** ab ca. 14 Uhr bis 21 Uhr statt.
 
-Bald werden die einzellheiten hier veröffentlicht.
+Mit dem Straßenfest wollen wir den Bewohner\*innen des Bezirks aktive Teilhabe an der Pride ermöglichen und verschiedene Akteur\*innen und Vereine vorstellen, die sich für Demokratie und gegen Diskriminierung einsetzten.
 
-Wenn Ihre Organisation mit einem Zelt teilnehmen möchte oder Sie einen künstlerischen Auftritt vorbereiten wollen, kontaktren Sie uns bitte so früh wie möglich unter [info@quarteera.de](mailto:info@quarteera.de).
+Im Rahmen des Straßenfestes werden ca. 20 Stände aufgebaut, die von den Kooperationspartner\*innen und Verbündeten von Quarteera konzipiert und betreut werden. Außerdem ist ein Bühnenprogramm angedacht. 
+
+Hiermit möchten wir Sie einladen, sich mit einem Stand beim Straßenfest zu beteiligen. Wenn Ihre Organisation mit einem Zelt teilnehmen möchte oder Sie einen künstlerischen Auftritt vorbereiten wollen, kontaktren Sie uns bitte so früh wie möglich unter [marzahn-pride@quarteera.de](mailto:marzahn-pride@quarteera.de).
+
+Bald werden die Еinzellheiten hier veröffentlicht.
 
 Bleiben Sie dran!
+
+
+
+
+
+
