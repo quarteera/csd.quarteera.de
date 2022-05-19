@@ -29,7 +29,7 @@ Deutsche Kreditbank AG Berlin\
 IBAN: DE08120300001020013189\
 BIC: BYLADEM1001  
 
-mehr zum Thema Spenden [hier](/help/spenden/).
+mehr zum Thema Spenden [hier](/de/spenden/).
 
 ## Haftungsausschluss:
 
