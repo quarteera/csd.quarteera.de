@@ -1,7 +1,8 @@
 ---
-title: "Straßenfest" # Title of your project
+title: "Фестиваль" # Title of your project
 date: 2022-05-19T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
+summary: "доступна лише німецькою мовою"
 draft: false
 ---
 Dieses Jahr findet neben dem traditionellen Aufzug ein Straßenfest am **Victor-Klemperer-Platz** ab ca. 14 Uhr bis 21 Uhr statt.
@@ -17,9 +18,4 @@ Wenn Ihre Organisation mit einem Zelt teilnehmen möchte oder Sie einen künstle
 Bald werden die Еinzellheiten hier veröffentlicht.
 
 Bleiben Sie dran!
-
-
-
-
-
 

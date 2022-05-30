@@ -11,6 +11,7 @@
     <link rel="alternate" hreflang="x-default" href="https://www.marzahn-pride.de/" />
     <link rel="alternate" hreflang="de" href="https://www.marzahn-pride.de/de" />
     <link rel="alternate" hreflang="ru" href="https://www.marzahn-pride.de/" />
+    <link rel="alternate" hreflang="uk" href="https://www.marzahn-pride.de/uk" />
     <meta name="description" content="Marzahn Pride am 18. Juni 2022"/>
     <meta name="keywords" content="CSD Marzahn Pride Berlin LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo"/>
     <meta property="og:type" content="website"/>
@@ -22,9 +23,17 @@
     {{ if eq .Site.Language.LanguageName "DE" }}
     <meta property="og:locale" content="de_DE"/>
     <meta property="og:locale:alternate" content="ru_RU" />
-    {{ else }}
+    <meta property="og:locale:alternate" content="uk_UA" />
+    {{ end }}
+    {{ if eq .Site.Language.LanguageName "RU" }}
     <meta property="og:locale" content="ru_RU"/>
     <meta property="og:locale:alternate" content="de_DE" />
+    <meta property="og:locale:alternate" content="uk_UA" />
+    {{ end }}
+    {{ if eq .Site.Language.LanguageName "UK" }}
+    <meta property="og:locale" content="uk_UA"/>
+    <meta property="og:locale:alternate" content="de_DE" />
+    <meta property="og:locale:alternate" content="ru_RU" />
     {{ end }}
     <meta property="fb:pages" content="188048734548939"/>
     <meta property="og:image" content="https://www.marzahn-pride.de/images/marzahn2022.png"/>
