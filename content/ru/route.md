@@ -11,6 +11,5 @@ draft: false
 - По Raoul-Wallenberg-Straße до перекрестка Raoul-Wallenberg-Straße/Landsberger Allee. 
 - Далее по Landsberger Allee до Marzahner Promenade.
 - И затем по Marzahner Promenade до площади Viktor-Klemperer-Platz, где состоится наш [фестиваль](/strassenfest).
-\
 
 {{< figure src="/images/routeBlack.png" class="route-image" caption="Google Maps © 2022 GeoBasis-DE/BKG(© 2009)">}}

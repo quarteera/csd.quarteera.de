@@ -31,3 +31,17 @@ defaultContentLanguage = 'ru'
       name = 'Datenschutz'
       url = '/de/datenschutz'
       weight = 2
+  [languages.uk]
+      title = 'Marzahn Pride 2022'
+      languageName = 'UK'
+      weight = 3
+      contentDir = 'content/uk'
+      [languages.uk.menu]
+      [[languages.uk.menu.footer]]
+        name = 'Відбиток'
+        url = '/uk/impressum'
+        weight = 1
+      [[languages.uk.menu.footer]]
+        name = 'Політика конфіденційності'
+        url = '/uk/datenschutz'
+        weight = 2
