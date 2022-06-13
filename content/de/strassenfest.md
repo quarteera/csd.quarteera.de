@@ -18,6 +18,8 @@ Bald werden die Еinzellheiten hier veröffentlicht.
 
 Bleiben Sie dran!
 
+{{< partnerlogo text="Straßenfest ist gefördert von:">}}
+
 
 
 

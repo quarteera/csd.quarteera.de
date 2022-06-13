@@ -93,6 +93,18 @@ img { border-radius: .25rem; }
     font-size: small;
   }
 
+  .partner-image  {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .partner-image img {
+    max-width: 8rem;
+    border-radius: 0rem;
+    padding: 0.3rem;
+  }
   .article-logo{ @include center; }
   .article-logo img {
     border-radius: 50%;
@@ -515,6 +527,7 @@ p.content-date {
 
   .article-image img { max-width: 100%; }
   .route-image img { max-width: 100%; }
+  .single-page .partner-image img { max-width: 7rem; }
 
   .main-image {
     align-self: center;
