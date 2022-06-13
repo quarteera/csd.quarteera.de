@@ -4,11 +4,11 @@ date: 2022-05-19T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
-Dieses Jahr findet neben dem traditionellen Aufzug ein Straßenfest am **Victor-Klemperer-Platz** ab ca. 14 Uhr bis 21 Uhr statt.
+Dieses Jahr findet neben dem traditionellen Aufzug ein Straßenfest am **Victor-Klemperer-Platz** ab ca. 14 Uhr bis 19 Uhr statt.
 
 Mit dem Straßenfest wollen wir den Bewohner\*innen des Bezirks aktive Teilhabe an der Pride ermöglichen und verschiedene Akteur\*innen und Vereine vorstellen, die sich für Demokratie und gegen Diskriminierung einsetzten.
 
-Im Rahmen des Straßenfestes werden ca. 20 Stände aufgebaut, die von den Kooperationspartner\*innen und Verbündeten von Quarteera konzipiert und betreut werden. Außerdem ist ein Bühnenprogramm angedacht. 
+Im Rahmen des Straßenfestes werden ca. 15 Stände aufgebaut, die von den Kooperationspartner\*innen und Verbündeten von Quarteera konzipiert und betreut werden. Außerdem ist ein Bühnenprogramm angedacht. 
 
 Hiermit möchten wir Sie einladen, sich mit einem Stand beim Straßenfest zu beteiligen. Für die Anmeldung eines Standes einer gemeinnützigen Organisation oder Initiativgruppe nutzten Sie bitte [Anmeldeformular](/Straßenfest_Anmeldung.pdf). Die Teilnahme ist kostenlos.
 
