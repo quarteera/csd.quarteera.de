@@ -21,7 +21,7 @@
         {{ with $strassenfestPage }}
         <a class="green-button" href="{{ $strassenfestPage.RelPermalink }}">{{ $strassenfestPage.Title }}</a>
         {{ end }}
-        {{ $mitmachenPage := .Site.GetPage "/mitmachen"  }}
+        {{ $mitmachenPage := .Site.GetPage "/manifest"  }}
         {{ with $mitmachenPage }}
         <a class="purple-button" href="{{ $mitmachenPage.RelPermalink }}">{{ $mitmachenPage.Title }}</a>
         {{ end }}
