@@ -15,18 +15,18 @@
 }
 
 html {
-  font-size: 24px;
+  font-size: 1.3rem;
 }
 
 h1, h2, h3, h4, h5 {
   font-family: $title-font;
   color: $primary-font-color;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.3rem;
   word-break: break-word;
 }
 
-h1 { font-size: 2.75rem; }
-h3 { font-size: 1.25rem; }
+h1 { font-size: 2.5rem; }
+h3 { font-size: 1.2rem; }
 h4 {
   font-size: 1rem;
   font-weight: 400;
@@ -49,6 +49,7 @@ img { border-radius: .25rem; }
   left: 50%;
   z-index: -1;
   margin-left: -29rem;
+  opacity: 0.5;
 }
 
 .page-decor {
@@ -64,7 +65,8 @@ img { border-radius: .25rem; }
   left: 50%;
   z-index: -1;
   margin-left: 23rem;
-  width: 5rem;
+  width: 4rem;
+  opacity: 0.7;
 }
 
 .buttons-container {
@@ -395,7 +397,7 @@ body {
 
 p.content-date {
   text-align: center;
-  font-size: 4.25rem;
+  font-size: 3.25rem;
   line-height: 1.25em;
 }
 
@@ -489,7 +491,7 @@ p.content-date {
   }
   .mobile-language { margin: 0; }
   html {
-    font-size: 16px;
+    font-size: 1rem;
 
     .header {
       padding: 0 1rem;
