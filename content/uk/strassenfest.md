@@ -1,8 +1,8 @@
 ---
-title: "Програма Марцан Прайду та вуличного фестивалю" # Title of your project
+title: "Фестиваль" # Title of your project
 date: 2022-06-13T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
-summary: ""
+summary: "Програма Марцан Прайду та вуличного фестивалю"
 draft: false
 ---
 О **12:00** ми зустрічаємося біля виходу на станції **S-Bahn Raoul-Wallenberg-Strasse**, щоб пройти райдужною колоною до **Victor-Klemperer-Platz**.

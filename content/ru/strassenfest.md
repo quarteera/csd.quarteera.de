@@ -1,7 +1,8 @@
 ---
-title: "Программа Марцан Прайда и уличного фестиваля" # Title of your project
+title: "Фестиваль" # Title of your project
 date: 2022-06-13T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
+summary: "Программа Марцан Прайда и уличного фестиваля"
 draft: false
 ---
 
