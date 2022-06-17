@@ -30,13 +30,13 @@ draft: false
 
 * **14:30 – 15:00** Офіційне відкриття: вітальні промови від Senatorin der Senatsverwaltung für Justiz, Vielfalt und Antidiskriminierung Prof. Dr. Kreck Bezirksbürgermeister des Bezirksamts Marzahn-Hellersdorf Gordon Lemm Gleichstellungsbeauftragte des Bezirks Maja Loeffler
 
-* **15:00 – 15:10** Перформанс Cassandra Who's Gurls Band (Cassandra Who aka Зміцер Кароль, білоруський квір-активіст)
+* **15:00 – 15:10** Перформанс від Cassandra Who and the Angelites (Cassandra Who aka Зміцер Кароль, білоруський квір-активіст)
 “Поєднуємо духовне з тілесним, приємне з корисним. Даруємо кохання і перемагаємо зло. Світу мир"
 
 * **15:10 – 15:50** сет від DJ ANAMOT (діджей з Харкова з вірменським бекграундом)
 "Анамот" (з вірменської: "an" - без і "amot" - сором) перекладається як "безсоромний" / "безсоромник". Свою музику описує як політизоване техно, яке пропагує свободу, різноманітність та солідарність у консервативному, токсично-патріархальному суспільстві.
 
-* **15:50 – 16:00** Перформанс від Cassandra Who (Зміцер Король, білоруський квір-активіст)
+* **15:50 – 16:00** Перформанс від Cassandra Who and the Angelites (Cassandra Who aka Зміцер Король, білоруський квір-активіст)
 
 * **16:00 – 16:30** Salome – Die Messias der Religion der Fröhlichen Fotzen
 Es lebe die Lust! Hier ist Salome! Religion der Fröhlichen Fotzen nimmt anlauf. Hier ein Paar einblicke in die Unendliche Liebe Взаємодія з людьми та сценографії
