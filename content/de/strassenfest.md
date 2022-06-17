@@ -33,13 +33,13 @@ Bühnenprogramm des Festivals:
 Senatorin der Senatsverwaltung für Justiz, Vielfalt und Antidiskriminierung Prof. DR. Kreck
 Bezirksbürgermeister des Bezirksamts Marzahn-Hellersdorf Gordon Lemm Gleichstellungsbeauftragte des Bezirks Maja Loeffler
 
-* **15:00 – 15:10** Performance von Cassandra Who’s Gurls Band (Cassandra Who aka Zmicier Karol, Queer-Aktivist aus Belarus)
+* **15:00 – 15:10** Performance von Cassandra Who and the Angelites (Cassandra Who aka Zmicier Karol, Queer-Aktivist aus Belarus)
 „Wir verbinden das Spirituelle mit dem Physischen, das Angenehme mit dem Nützlichen. Wir geben Liebe und besiegen das Böse. Friede der Welt“
 
 * **15:10 – 15:50** Set von DJ ANAMOT (DJ aus Charkow mit armenischer Migrationsgeschichte)
  „Anamot“ (aus dem Armenischen: „an“ - ohne und „amot“ - Schande) wird als „schamlos“ / „schamlos“ übersetzt. Er beschreibt seine Musik als politisierten Techno, der Freiheit, Vielfalt und Solidarität in einer konservativen, giftigen patriarchalischen Gesellschaft fördert.
 
-* **15:50 – 16:00** Auftritt von Cassandra Who’s Gurls Band
+* **15:50 – 16:00** Performance von Cassandra Who and the Angelites (Cassandra Who aka Zmicier Karol, Queer-Aktivist aus Belarus)
 
 * **16:00 – 16:30** Salome – Die Messias der Religion der Fröhlichen Fotzen
 Es lebe die Lust! Hier ist Salome! Religion der Fröhlichen Fotzen nimmt Anlauf. Hier ein Paar einblicke in die Unendliche Liebe Interaktion mit Menschen und Szenografie
