@@ -4,7 +4,7 @@ date: 2022-05-19T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
-Wir treffen uns am **18. Juni 2022 um 12 Uhr** an der Kreuzung Märkische Allee und Raoul-Wallenberg-Strasse vor dem **S-Bahn Raoul-Wallenberg-Strasse**.
+Wir treffen uns am **24. Juni 2023 um 12 Uhr** an der Kreuzung Märkische Allee und Raoul-Wallenberg-Strasse vor dem **S-Bahn Raoul-Wallenberg-Strasse**.
 
 ## Demo-Route:
 

@@ -1,6 +1,6 @@
 function renderTimer() {
   //var countDownDate = new Date("Juni 18, 2022 12:00:00").getTime();
-  var countDownDate = new Date(2022, 5, 18, 12, 0, 0).getTime();
+  var countDownDate = new Date(2023, 5, 24, 12, 0, 0).getTime();
   var now = new Date().getTime();
   var days, hours, minutes, seconds;
 

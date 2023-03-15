@@ -1,10 +1,10 @@
 baseURL = 'https://www.marzahn-pride.de/'
 languageCode = 'ru-RU'
-title = 'Marzahn Pride 2022'
+title = 'Marzahn Pride 2023'
 defaultContentLanguage = 'ru'
 [languages]
   [languages.ru]
-    title = 'Marzahn Pride 2022'
+    title = 'Marzahn Pride 2023'
     languageName = 'RU'
     weight = 1
     contentDir = 'content/ru'
@@ -18,7 +18,7 @@ defaultContentLanguage = 'ru'
       url = '/datenschutz'
       weight = 2
   [languages.de]
-    title = 'Marzahn Pride 2022'
+    title = 'Marzahn Pride 2023'
     languageName = 'DE'
     weight = 2
     contentDir = 'content/de'
@@ -32,7 +32,7 @@ defaultContentLanguage = 'ru'
       url = '/de/datenschutz'
       weight = 2
   [languages.uk]
-      title = 'Marzahn Pride 2022'
+      title = 'Marzahn Pride 2023'
       languageName = 'UK'
       weight = 3
       contentDir = 'content/uk'

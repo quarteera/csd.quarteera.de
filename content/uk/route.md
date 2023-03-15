@@ -4,7 +4,7 @@ date: 2022-05-19T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
-Ми зустрічаємось **18 червня 2022 року о 12:00** на перехресті Märkische Allee та Raoul-Wallenberg-Strasse біля виходу **на станції S-Bahn Raoul-Wallenberg-Strasse**.
+Ми зустрічаємось **24 червня 2023 року о 12:00** на перехресті Märkische Allee та Raoul-Wallenberg-Strasse біля виходу **на станції S-Bahn Raoul-Wallenberg-Strasse**.
 
 ## Маршрут демонстрації:
 

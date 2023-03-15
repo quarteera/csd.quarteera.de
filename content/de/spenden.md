@@ -14,7 +14,7 @@ Die durchführung vom Marzahn Pride ist mit großen Ausgaben verbunden und häng
 **Unser Spendenkonto lautet:**
 
 Empfänger: Quarteera e. V.\
-IBAN: DE08120300001020013189\
+IBAN: DE08 1203 0000 1020 0131 89\
 BIC: BYLADEM1001\
 bei der Deutschen Kreditbank AG in Berlin\
 Verwendungszweck: Marzahn Pride
