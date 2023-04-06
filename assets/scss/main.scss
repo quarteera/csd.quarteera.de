@@ -12,6 +12,7 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
+  min-width: 1530px;
 }
 
 html {
@@ -26,7 +27,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 { font-size: 2.5rem; }
-h3 { font-size: 1.2rem; }
+h3 { font-size: 1.25rem; }
 h4 {
   font-size: 1rem;
   font-weight: 400;
@@ -47,9 +48,13 @@ img { border-radius: .25rem; }
   position: absolute;
   bottom: 0;
   left: 50%;
-  z-index: -1;
-  margin-left: -29rem;
-  opacity: 0.5;
+  z-index: 0;
+  margin-left: -45rem;
+  opacity: 0.7;
+}
+
+.plant-home {
+  bottom: 0;
 }
 
 .page-decor {
@@ -65,8 +70,7 @@ img { border-radius: .25rem; }
   left: 50%;
   z-index: -1;
   margin-left: 23rem;
-  width: 4rem;
-  opacity: 0.7;
+  width: 5rem;
 }
 
 .buttons-container {
@@ -75,7 +79,7 @@ img { border-radius: .25rem; }
 
 .single-page {
   @include max-width;
-  padding: 4rem 0rem;
+  padding: 4rem 2rem;
 
   .article-image {
     @include center;
@@ -129,7 +133,7 @@ img { border-radius: .25rem; }
 
   .summary {
     font-size: 1.5rem;
-    line-height: 1.5rem;
+    line-height: 1.6rem;
   }
 }
 
@@ -226,7 +230,7 @@ nav {
   z-index: 0;
 
   p, ul {
-    line-height: 1.25rem;
+    line-height: 1.55rem;
     margin-bottom: 1rem;
   }
 
@@ -392,62 +396,154 @@ body {
 }
 
 .calendar {
-  height: 36vh;
-}
 
-p.content-date {
-  text-align: center;
-  font-size: 3.25rem;
-  line-height: 1.25em;
-}
+  padding: 3rem 0;
+  background-color: $background-color;
+  border-top: 1px dashed #C2C2C2;
 
-.content-timer {
-  display: block;
-  text-align: center;
-  font-size: 4.25rem;
-  margin: 0;
-  padding: 2.5rem 1.25rem 0.6rem 1.25rem;
-}
+  .calendar-content {
+    @include max-width;
+    @include center;
+  }
 
-.time li{
-  display:inline-block;
-  padding: 0;
-  margin: 40px;
-}
+  .item {
+    @include row;
+    width: 40rem;
+    margin-bottom: 1rem;
+  }
 
-.timer-style {
-  display: inline-block;
-  padding: 0 0 0 1rem;
-  margin-right: -3.125rem;
-  font-size: 4rem;
-  transform:  translateX(-2.7rem) translateY(-2rem);
-  transform-origin: 0 0;
-}
+  .date {
+    @include column;
+    align-items: center;
+    margin: 1.5rem;
+    min-width: 6.5rem;
+    justify-content: center;
+  }
 
-.day {
-  color: $red;
-}
+  .calendar-date {
+    font-size: 3.1rem;
+  }
 
-.hour {
-  color: $orange;
+  .calendar-month {
+    font-size: 1.5rem;
+    margin: 0;
+  }
 
-}
+  .details {
+    @include column;
+    flex: 1;
+    justify-content: space-between;
+  }
 
-.minute {
-  color:  $yellow;
-}
+  .time-location {
+    @include row;
+    padding: .75rem 1.5rem;
+    justify-content: space-between;
+    width: 100%;
 
-.seconds {
-  color: $green;
+    p {
+      margin: 0;
+    }
+  }
+
+  a {
+    @include reset-a-style;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  h3 {
+    margin: 0;
+    padding: 1.5rem;
+    font-weight: normal;
+  }
+
+  h4 {
+    text-align: center;
+  }
+
+  .timer-style {
+    display: inline-block;
+    padding: 0 0 0 1rem;
+    margin-right: -3.125rem;
+    font-size: 4rem;
+    transform: translateX(-2.7rem) translateY(-2rem);
+    transform-origin: 0 0;
+  }
+
+  p.content-date {
+    text-align: center;
+    font-size: 3.25rem;
+    line-height: 1.25em;
+  }
+
+  .content-timer {
+    display: block;
+    text-align: center;
+    font-size: 4.25rem;
+    margin: 0;
+    padding: 2.5rem 1.25rem 0.6rem 1.25rem;
+  }
+  .time li{
+    display:inline-block;
+    padding: 0;
+    margin: 40px;
+  }
+  .day {
+    color: $red;
+  }
+
+  .hour {
+    color: $orange;
+  }
+
+  .minute {
+    color: $yellow;
+  }
+
+  .seconds {
+    color: $green;
+  }
 }
 
 @media screen and (max-width:768px) {
+  .body {
+    min-width: auto;
+  }
   .accent-section, .regular-section, .plant, .page-decor { display: none; }
   .projects-page { padding-top: 0; }
   .header-logo { margin: 0; }
-  .calendar { margin: 1rem; }
+  .calendar {
+    margin-top: 6rem;
+
+    .item {
+      flex-direction: column;
+      margin: 1rem 1rem 0 1rem;
+      width: calc(100vw - 2rem);
+    }
+
+    .time-location {
+      flex-direction: column-reverse;
+      padding: 0rem;
+
+      p {
+        width: 100%;
+        text-align: center;
+        padding: .75rem 0;
+      }
+    }
+  }
+
+  h3 {
+    padding: .75rem 0 0;
+    text-align: center;
+  }
+
   .regular-section-help, .regular-list-item {
-    margin: 0 1rem 1rem 1rem;
+    margin: 0 1rem 2rem 1rem;
     padding: .5rem;
     width: -webkit-fill-available;
   }
@@ -456,6 +552,13 @@ p.content-date {
     margin-left: .25rem;
   }
   .footer, .single-page { padding: 1rem; }
+
+  .social {
+    .inline-svg {
+      width: 2rem;
+      margin-right: 1.5rem;
+    }
+  }
   .nav-links {
     @include column;
     position: fixed;
@@ -491,7 +594,7 @@ p.content-date {
   }
   .mobile-language { margin: 0; }
   html {
-    font-size: 1rem;
+    font-size: 16px;
 
     .header {
       padding: 0 1rem;
@@ -549,6 +652,7 @@ p.content-date {
   .single-page-summary {
     flex-direction: column;
 
+    h1 { text-align: center; }
     .column {
       @include column;
       align-items: center;
@@ -557,7 +661,7 @@ p.content-date {
   }
 
   .page-heading {
-    h1:before, h1:after { background: none; }
+    h1:before, h1:after { display: none; }
     padding: 0 1rem 1rem 1rem;
     width: 100%;
   }
@@ -567,7 +671,7 @@ p.content-date {
     display: block;
     padding: 1rem;
     margin: 0 1rem 1rem 1rem;
-
+    width: calc(100% - 2rem);
     img {
       width: 30%;
       height: 30%;
@@ -610,6 +714,7 @@ p.content-date {
   .orange-button { margin-bottom: 1rem; }
   .green-button { margin-bottom: 1rem; }
   .purple-button { margin-bottom: 1rem; }
+  .blue-button { margin-bottom: 1rem; }
   .heading-with-dots {
     flex-direction: column;
     align-items: flex-start;
@@ -625,30 +730,27 @@ p.content-date {
 
   .drawing {
     position: absolute;
-    top: 26rem;
+    top: 13rem;
     left: 50%;
     z-index: -1;
-    margin-left: 7rem;
+    margin-left: 6rem;
     width: 5rem;
-    display: none;
   }
 
   .logo { margin-right: 1rem; }
   .partner-logos { margin: 1rem; }
   .page-heading { margin: 1rem 0 .5rem 0; }
-   p.content-date {
-    font-size: 5.25rem;
-    line-height: 1.25em;
+  .page-content {
+    margin: 1rem 0 .5rem 0;
+    padding: 0 1rem 1rem 1rem;
   }
-  .content-timer {display: none;}
+
 }
-
-
 // disable animation on page load:
 // https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only
 .preload * {
- -webkit-transition: none !important;
- -moz-transition: none !important;
- -ms-transition: none !important;
- -o-transition: none !important;
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
 }
