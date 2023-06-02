@@ -8,7 +8,7 @@ image:
 
 Am 24. Juni 2023 wird die russischsprachige LGBTQ+-Community Quarteera die 4. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.
 
-**Um 12 Uhr treffen wir uns am Platz vor dem S-Bahn-Ausgang Raoul-Wallenberg-Strasse.**
+**Um 14 Uhr treffen wir uns am Platz vor dem S-Bahn-Ausgang Raoul-Wallenberg-Strasse.**
 
 Dieses Jahr neben dem traditionellen Aufzug findet ein Straßenfest am **Victor-Klemperer-Platz** statt. Die Route und Programm des Festes sind auf unsere Webseite veröffentlicht!
 
