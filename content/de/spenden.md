@@ -19,7 +19,11 @@ BIC: BYLADEM1001\
 bei der Deutschen Kreditbank AG in Berlin\
 Verwendungszweck: Marzahn Pride
 
-oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
+oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL)
+
+oder
+
+{{< betterplace >}}
 
 Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 200 Euro legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
 

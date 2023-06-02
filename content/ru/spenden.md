@@ -20,6 +20,10 @@ bei der Deutschen Kreditbank AG in Berlin\
 Назначение платежа: Marzahn Pride
 
 или через [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
+       
+или
+
+{{< betterplace >}}
 
 Вы можете уменьшить Ваш налогооблагаемый доход на сумму пожертвования. В случае переводов до 200 евро, приложите к налоговой декларации выписку со счета (или любой другой документ подтверждающий перевод) и [распечатанное подтверждение](/Spendenbestaetigung.pdf).
 
