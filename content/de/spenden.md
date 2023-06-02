@@ -19,7 +19,11 @@ BIC: BYLADEM1001\
 bei der Deutschen Kreditbank AG in Berlin\
 Verwendungszweck: Marzahn Pride
 
-oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
+oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL)
+
+oder
+
+{{< iframe frameborder="0" marginheight="0" marginwidth="0" src="https://www.betterplace-widget.org/projects/123188?l=de" width="100%" height="320" style="border: 0; padding:0; margin:0;">Informieren und spenden: <a href='Marzahn Pride 2023, Berlin – Quarteera e.V. – betterplace.org  target='_blank'>„Marzahn Pride 2023, Berlin“</a> auf Spenden für Projekte & Organisationen – online transparent helfen – betterplace.org  öffnen.</iframe>}}
 
 Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 200 Euro legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
 
