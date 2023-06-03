@@ -1,8 +1,9 @@
 ---
 title: "Impressum"
-date: 2022-05-15T19:31:52+01:00
+date: 2023-04-27T17:31:52+01:00
 draft: false
 image:
+aliases: [/impressum, /uk/impressum]
 ---
 
 Quarteera e. V.\
@@ -10,7 +11,7 @@ Arkonaplatz 5\
 10435 Berlin
 
 ## Verantwortlich für diese Seite und den Inhalt sind:
-Vorstandvorsitzende: Evelina Chayka
+Vorstandvorsitzenden: Dmitrij Paramonov, Ilia Troshkov
 
 ### Kontakt:
 E-Mail: <info@quarteera.de>
