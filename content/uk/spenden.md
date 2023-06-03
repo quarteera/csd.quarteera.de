@@ -1,33 +1,32 @@
 ---
 title: "Підтримати" # Title of your project
-date: 2022-05-15T19:31:52+01:00
+date: 2023-04-15T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 image:
 alt: ""
 summary: ""
-summary: "доступна лише німецькою мовою"
 draft: false
 color: purple
 alias: ""
 ---
-Die durchführung vom Marzahn Pride ist mit großen Ausgaben verbunden und hängt von Spenden ab. Wir bedanken uns bei Ihnen für Ihr Interesse an unserer Arbeit. 
+Дій проведення Marzahn Pride пов'язані з великими витратами і залежать від пожертв. Ми висловлюємо вам подяку за ваш інтерес до нашої роботи.
 
-**Unser Spendenkonto lautet:**
+**Наш банківський рахунок для пожертв:**
 
-Empfänger: Quarteera e. V.\
-IBAN: DE08 1203 0000 1020 0131 89\
+Одержувач: Quarteera e. V.\
+IBAN: DE08120300001020013189\
 BIC: BYLADEM1001\
-bei der Deutschen Kreditbank AG in Berlin\
-Verwendungszweck: Marzahn Pride
+в Deutschen Kreditbank AG в Berlin\
+Призначення платежу: Marzahn Pride
 
-oder [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
+або [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
 
-oder
+або
 
 {{< betterplace >}}
 
-Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 200 Euro legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
+Ваші пожертви можна відрахувати з податків. При сумах до 300 євро (200 євро до 1 січня 2021 року) будь ласка, додайте копію виписки з банку та [спрощене підтвердження пожертви](/Spendenbestaetigung.pdf) до вашої податкової декларації.
 
-Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne per Post. Wenn Sie regelmäßig spenden oder Sachspende machen wollen, helfen wir natürlich auch gerne weiter.
+При більших сумах, будь ласка, повідомте нам вашу адресу. Ми з радістю відправимо вам подяку за вашу пожертву поштою. Якщо ви хочете регулярно пожертвувати або надати матеріальну допомогу, будь ласка, зв'яжіться з нами.
 
-Für alle Auskünften im Zusammenhang mit den Spenden stehen wir Ihnen unter E-mail [info@quarteera.de](mailto:info@quarteera.de) zur Verfügung.
+З усіма запитаннями, пов'язаними з пожертвами, ви можете звертатися до нас за адресою електронної пошти [info@quarteera.de](mailto:info@quarteera.de).
