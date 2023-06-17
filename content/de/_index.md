@@ -13,3 +13,5 @@ Am 24. Juni 2023 wird die russischsprachige LGBTQ+-Community Quarteera die 4. Ma
 Dieses Jahr neben dem traditionellen Aufzug findet ein Straßenfest am **Victor-Klemperer-Platz** statt. Die Route und Programm des Festes sind auf unsere Webseite veröffentlicht!
 
 Nach der Marzahn-Pride laden wir alle zur After-Party ein. Über Details zu Ort und Zeit werden wir euch etwas später noch Bescheid geben.
+
+{{ partnerlogo }}
