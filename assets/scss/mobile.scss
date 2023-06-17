@@ -1,11 +1,18 @@
+@import "mixins";
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 768px) {
   .body {
     min-width: auto;
   }
-  .accent-section, .regular-section, .plant, .page-decor { display: none; }
-  .projects-page { padding-top: 0; }
-  .header-logo { margin: 0; }
+  .accent-section, .regular-section, .plant, .page-decor {
+    display: none;
+  }
+  .projects-page {
+    padding-top: 0;
+  }
+  .header-logo {
+    margin: 0;
+  }
   .calendar {
     margin-top: 6rem;
 
@@ -37,11 +44,15 @@
     padding: .5rem;
     width: -webkit-fill-available;
   }
-  .regular-section-help { flex-direction: column; }
+  .regular-section-help {
+    flex-direction: column;
+  }
   .regular-list-item:first-child {
     margin-left: .25rem;
   }
-  .footer, .single-page { padding: 1rem; }
+  .footer, .single-page {
+    padding: 1rem;
+  }
 
   .social {
     .inline-svg {
@@ -67,6 +78,7 @@
       width: 100%;
       justify-content: center;
       border-top: 1px solid $grey;
+      background-color: $primary-font-color;
     }
 
     .main-menu {
@@ -81,8 +93,14 @@
         justify-content: center;
       }
     }
+
+    a {
+      color: $primary-font-color;
+    }
   }
-  .mobile-language { margin: 0; }
+  .mobile-language {
+    margin: 0;
+  }
   html {
     font-size: 16px;
 
@@ -91,12 +109,27 @@
       height: 12vh;
       width: 100%;
 
-      .burger { display: flex; }
-      .desktop-language, .language-popup { display: none; }
-      .hamburger-languages { display: flex; }
-      .nav-active { transform: translateX(0); }
+      .burger {
+        display: flex;
+        color: $inverse-font-color;
+      }
+
+      .desktop-language, .language-popup {
+        display: none;
+      }
+
+      .hamburger-languages {
+        display: flex;
+      }
+
+      .nav-active {
+        transform: translateX(0);
+      }
     }
+
     .language-selector {
+      color: $primary-font-color;
+
       li {
         padding: 0 1rem;
         margin: 0;
@@ -108,7 +141,10 @@
         border-right: 0px;
       }
     }
-    .active-language { text-decoration: underline; }
+
+    .active-language {
+      text-decoration: underline;
+    }
   }
 
   nav {
@@ -120,9 +156,15 @@
     margin: 0 0 1rem 0;
   }
 
-  .article-image img { max-width: 100%; }
-  .route-image img { max-width: 100%; }
-  .single-page .partner-image img { max-width: 7rem; }
+  .article-image img {
+    max-width: 100%;
+  }
+  .route-image img {
+    max-width: 100%;
+  }
+  .single-page .partner-image img {
+    max-width: 7rem;
+  }
 
   .main-image {
     align-self: center;
@@ -136,13 +178,18 @@
     justify-content: space-between;
     width: 100%;
 
-    .q-svg-footer, .social { width: 43%; }
+    .q-svg-footer, .social {
+      width: 43%;
+    }
   }
 
   .single-page-summary {
     flex-direction: column;
 
-    h1 { text-align: center; }
+    h1 {
+      text-align: center;
+    }
+
     .column {
       @include column;
       align-items: center;
@@ -151,7 +198,10 @@
   }
 
   .page-heading {
-    h1:before, h1:after { display: none; }
+    h1:before, h1:after {
+      display: none;
+    }
+
     padding: 0 1rem 1rem 1rem;
     width: 100%;
   }
@@ -162,6 +212,7 @@
     padding: 1rem;
     margin: 0 1rem 1rem 1rem;
     width: calc(100% - 2rem);
+
     img {
       width: 30%;
       height: 30%;
@@ -201,10 +252,18 @@
     align-items: baseline;
   }
 
-  .orange-button { margin-bottom: 1rem; }
-  .green-button { margin-bottom: 1rem; }
-  .purple-button { margin-bottom: 1rem; }
-  .blue-button { margin-bottom: 1rem; }
+  .orange-button {
+    margin-bottom: 1rem;
+  }
+  .green-button {
+    margin-bottom: 1rem;
+  }
+  .purple-button {
+    margin-bottom: 1rem;
+  }
+  .blue-button {
+    margin-bottom: 1rem;
+  }
   .heading-with-dots {
     flex-direction: column;
     align-items: flex-start;
@@ -227,12 +286,30 @@
     width: 5rem;
   }
 
-  .logo { margin-right: 1rem; }
-  .partner-logos { margin: 1rem; }
-  .page-heading { margin: 1rem 0 .5rem 0; }
+  .logo {
+    margin-right: 1rem;
+  }
+  .partner-logos {
+    img {
+      width: 650px;
+    }
+  }
+  .page-heading {
+    margin: 1rem 0 .5rem 0;
+  }
   .page-content {
     margin: 1rem 0 .5rem 0;
     padding: 0 1rem 1rem 1rem;
   }
 
+  .header-rectangle {
+    display: none;
+  }
+  .youtube-content-desktop {
+    display: none;
+  }
+  .youtube-content-mobile {
+    @include center;
+    display: flex;
+  }
 }

@@ -590,8 +590,11 @@ body {
   }
 }
 
-.youtube-content {
+.youtube-content-desktop {
   @include center;
+}
+.youtube-content-mobile {
+  display: none;
 }
 @import 'mobile';
 
