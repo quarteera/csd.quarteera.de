@@ -3,6 +3,9 @@
 @media screen and (max-width: 768px) {
   .body {
     min-width: auto;
+    .header {
+      min-height: 170px;
+    }
   }
   .accent-section, .regular-section, .plant, .page-decor {
     display: none;
@@ -291,7 +294,7 @@
   }
   .partner-logos {
     img {
-      width: 650px;
+      width: 560px;
     }
   }
   .page-heading {
