@@ -33,7 +33,7 @@
             <ul class="desktop-language">
               <li><a>{{ $.Site.Language.LanguageName }}</a></li>
               <svg class="language-open" width="10" height="5" viewBox="0 0 21 11" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M0.666671 1L10.3333 9L20 1" stroke="#201B20" stroke-width="2"/>
+                <path d="M0.666671 1L10.3333 9L20 1" stroke="#FAFAF9" stroke-width="2"/>
               </svg>
               <div class="language-popup disable">
                 {{ range $.Translations }}
@@ -47,6 +47,10 @@
         </div>
       </ul>
       {{- partial "social.html" . -}}
+      <div class="header-rectangle">
+        {{- partial "rectangle.html" -}}
+      </div>
+
     </div>
     <div class="burger">
       <svg class="open-icon" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
