@@ -8,9 +8,12 @@
     <div class="footer-social">
       {{ $homePage := .Site.GetPage "/" }}
       <a class="q-svg-footer" href="http://www.quarteera.de">
-        {{- partial "q-logo-black.html" . -}}
+        {{- partial "q-logo-white.html" . -}}
       </a>
       {{- partial "social.html" . -}}
     </div>
   </nav>
+  <div class="partner-logos">
+    <img src="/images/partners/marzahn-partners.png"/>
+  </div>
 </footer>
