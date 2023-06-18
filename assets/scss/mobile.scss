@@ -3,8 +3,9 @@
 @media screen and (max-width: 768px) {
   .body {
     min-width: auto;
-    .header {
-      min-height: 170px;
+    nav {
+      width: 90vw;
+      min-height: 22vh;
     }
   }
   .accent-section, .regular-section, .plant, .page-decor {
@@ -67,8 +68,8 @@
     @include column;
     position: fixed;
     right: 0px;
-    height: 88vh;
-    top: 170px;
+    height: 78vh;
+    top: 22vh;
     background-color: white;
     width: 100%;
     transform: translateX(100%);
@@ -109,12 +110,11 @@
 
     .header {
       padding: 0 1rem;
-      height: 12vh;
+      height: 22vh;
       width: 100%;
 
       .burger {
         display: flex;
-        color: $inverse-font-color;
       }
 
       .desktop-language, .language-popup {
@@ -154,6 +154,7 @@
     margin: 0;
     flex-wrap: wrap;
   }
+
   .footer-section {
     width: 43%;
     margin: 0 0 1rem 0;
@@ -274,7 +275,7 @@
   }
 
   .heading-dots-container {
-    width: 100%;
+    width: 90vw;
     margin: 0 0 1rem 0;
     display: flex;
     justify-content: space-between;
@@ -292,14 +293,17 @@
   .logo {
     margin-right: 1rem;
   }
+
   .partner-logos {
     img {
-      width: 500px;
+      width: 95vw;
     }
   }
+
   .page-heading {
     margin: 1rem 0 .5rem 0;
   }
+
   .page-content {
     margin: 1rem 0 .5rem 0;
     padding: 0 1rem 1rem 1rem;
@@ -308,9 +312,11 @@
   .header-rectangle {
     display: none;
   }
+
   .youtube-content-desktop {
     display: none;
   }
+
   .youtube-content-mobile {
     @include center;
     display: flex;
