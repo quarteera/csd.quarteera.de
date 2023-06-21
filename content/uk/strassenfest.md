@@ -1,6 +1,6 @@
 ---
 title: "Фестиваль" # Title of your project
-date: 2023-06-13T19:31:52+01:00
+date: 2023-06-20T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 summary: "Програма Марцан Прайду та вуличного фестивалю"
 draft: false
@@ -15,17 +15,17 @@ draft: false
 
 **16.00 - 16.20** - Офіційне відкриття фестивалю на площі площі площі Viktor-Klemperer-Platz
 
-**16.20- 16.40** - Rubtsova, фіналістка X-FACTOR ,
+**16.20- 16.40** - [Rubtsova](https://instagram.com/ooh.rubtsova), фіналістка X-FACTOR ,
 
 **16.40 - 16.50** - привітальні промови
 
-**16.50 - 17.10** - "Black&White", вокальний дует
+**16.50 - 17.10** - ["Black&White"]((https://instagram.com/music_band_blackandwhite)), вокальний дует
 
-**17.10 - 17.30** Перфоменс Хрещена хода. Schisandra Who & the Angelites та білоруський квір-активіста Зміцера)
+**17.10 - 17.30** Перфоменс Хрещена хода. [Schisandra](https://instagram.com/schisandra.who) Who & the Angelites та білоруський квір-активіста Зміцера)
 
-**17.40 - 18.00** Yetin , альтернативний рок гурт
+**17.40 - 18.00** [Yetin](https://instagram.com/yetinband) , альтернативний рок гурт
 
-**18.00 - 18.20** VIRIENA
+**18.00 - 18.20** [VIRIENA](https://instagram.com/viriena)
 
 **18.30 - 19.00** Rostislav Mazurkevich, український менестрель, автор-виконавець своїх пісень.
 

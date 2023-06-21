@@ -24,7 +24,7 @@ Bezirksbeirat für Partizipation und Integration
 
 **16:00 - 16:20** - Официальное открытие фестиваля на площади Viktor-Klemperer-Platz.
 
-**16:20- 16:40**  - Rubtsova, финалистка  X-FACTOR.
+**16:20- 16:40**  - [Rubtsova](https://instagram.com/ooh.rubtsova), финалистка  X-FACTOR.
 
 **16:40 - 16:50** - Приветственные речи.
 
@@ -34,19 +34,19 @@ Kathrin Schulz - QUEERHOME*
 
 Queeramnesty Berlin
 
-**16:50  - 17:10** - Black&White, вокальный дуэт.
+**16:50  - 17:10** - [Black&White]((https://instagram.com/music_band_blackandwhite)), вокальный дуэт.
 
-**17:10 - 17:30** - Перфоманс Крёстный ход, Schisandra, Who & the Angelites и  беларуский квир-активиста Змицера.
+**17:10 - 17:30** - Перфоманс Крёстный ход, [Schisandra](https://instagram.com/schisandra.who), Who & the Angelites и  беларуский квир-активиста Змицера.
 
-**17:40 - 18:00** - Yetin - альтернативная рок-группа.
+**17:40 - 18:00** - [Yetin](https://instagram.com/yetinband) - альтернативная рок-группа.
 
-**18:00 - 18:20**  - VIRIENA -  победительница “Голос Запорожья 2019”.
+**18:00 - 18:20**  - [VIRIENA](https://instagram.com/viriena) -  победительница “Голос Запорожья 2019”.
 
-**18:30 - 19:00** - Rostislav Mazurkevich - украинский менестрель, автор-исполнитель своих песен.
+**18:30 - 19:00** - [Rostislav Mazurkevich](https://instagram.com/rostislav_mazurkevich) - украинский менестрель, автор-исполнитель своих песен.
 
 **20:00** - Начало **after-party**.
 
-Берлинский диджейский дуэт российских артистов THÉ HËR, создающий сплав dnb, techno, house и bassline, будет поддержать в движение во время Прайда.
+Берлинский диджейский дуэт российских артистов [THÉ HËR](https://instagram.com/theherrave), создающий сплав dnb, techno, house и bassline, будет поддержать в движение во время Прайда.
 
 Во время фестиваля будут работать инфо-стенды организаций.
 
