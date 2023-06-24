@@ -46,6 +46,10 @@ Queeramnesty Berlin
 
 **20:00** - Начало **after-party**.
 
+здесь:/
+La Casa/
+Wurzener straße 6, 12627
+
 Берлинский диджейский дуэт российских артистов [THÉ HËR](https://instagram.com/theherrave), создающий сплав dnb, techno, house и bassline, будет поддержать в движение во время Прайда.
 
 Во время фестиваля будут работать инфо-стенды организаций.

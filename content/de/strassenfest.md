@@ -47,6 +47,9 @@ Queeramnesty Berlin
 
 **20:00** - Beginn der **After-Party**.
 
+La Casa\
+Wurzener straße 6, 12627
+
 Das in Berlin ansässige DJ-Duo der russischen Künstler [THÉ HËR](https://instagram.com/theherrave) wird die Pride unterstützen. Sie kreieren eine Fusion aus DnB, Techno, House und Bassline.
 
 Infostände von Organisationen können während des Straßenfestes besucht werden.
