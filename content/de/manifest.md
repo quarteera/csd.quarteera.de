@@ -1,26 +1,32 @@
 ---
 title: "Manifest" # Title of your project
-date: 2023-06-13T19:31:52+01:00
+date: 2024-05-1T16:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
 
-{{< center >}} **Marzahn ruft Pride statt Leid aus** {{< /center >}}
-{{< center >}} Pride statt Leid - die vierte russischsprachige Pride ist zurück in Marzahn. {{< /center >}}
+{{< center >}} # Queer wie Freiheit {{< /center >}}
 
+{{< banner src="/images/marzahn-banner-600-de.jpg">}}
 
-Wir als Quarteera e.V., eine LGBTQ+ Organisation in Deutschland, deren Kommunikationssprache russisch ist, laden alle interessierten Journalist/*innen und Besucher/*innen ein, dabei zu sein.
+Vor fünf Jahren trat Quarteera e. V. zum ersten Mal in Marzahn, Berlin, für Liebe, Gleichheit und Inklusivität ein.
 
-Der Ort dieser wichtigen Veranstaltung ist für unsere Organisation bereits zur Tradition geworden. Im Stadtteil Marzahn lebt die Mehrheit der russischsprachigen Post-Ost Migrant/*innen.  Deshalb wollen wir unsere Solidarität mit allen Queers zum Ausdruck bringen, die nicht in ihren Heimatländern auf die Straße gehen können.
+Dieses Mal treten wir mit dem Slogan "Queer wie Freiheit" auf, um Solidarität mit denen zu zeigen, die für ihre Rechte und Freiheiten kämpfen, sei es im Kontext der LGBTQ+-Gemeinschaft, politischer Gefangenen, Journalist_innen, Aktivist_innen und aller, die ihres Stimmrechts beraubt sind.
 
-Der Marsch startet um 14:00 Uhr auf dem Platz vor der S-Bahn Raoul-Wallenberg-Straße. Ab 16:00 Uhr treten auf dem Victor-Klemperer-Platz Politiker/*innen und Aktivist/*innen auf. Anschließend findet ein Straßenfest mit Musik und Performances statt.
+Heute, während wir dieses Fest feiern, setzen wir den Kampf für die Rechte und Anerkennung unserer Vielfalt fort, trotz der zunehmenden Herausforderungen. Die Stärkung rechter Kräfte wie der AfD in Deutschland, der anhaltende Krieg Russlands in der Ukraine und die Verbreitung von Gesetzen, die die Rechte von LGBTQ+-Menschen in den an Russland angrenzenden Ländern einschränken, erinnern uns an die Notwendigkeit, gemeinsam gegen Vorurteile und Hass zu stehen.
 
-Das diesjährige Motto der Pride lautet: "Pride statt Leid".  Dieser Slogan bringt die zentralen Kernaussagen des Pride-Manifests auf den Punkt. Wir sind gegen militärische Aggression, Kolonialismus in der Welt, das Aufzwingen von Religion als Denkweise, Patriarchat. Wir sind für die Abschaffung der kolonialen Außen- und Innenpolitik der Russischen Föderation und die Rückgabe aller beschlagnahmten Territorien. Wir kommen in Erwartung der vollständigen Befreiung der Ukraine von Putins Besatzern!
+Der Krieg Russlands in der Ukraine geht leider weiter, und wir rufen weiterhin zu humanitärer und militärischer Unterstützung für das Land auf, das fast allein gegen das totalitäre Regime der illegitimen russischen Behörden kämpft. Belarus, Georgien, Kirgisistan, Kasachstan und andere von Russland beeinflusste Länder nehmen Gesetze an und betrachten, die LGBTQ+-Zugehörigkeit mit Extremismus gleichzusetzen. Einige Länder, die von der kolonialen Politik des Kremls betroffen sind, entwickeln eine negative Haltung gegenüber der Community. Diese Trends sind schwer zu übersehen, und deshalb spricht Quarteera e. V.  jetzt, beim fünften Pride in Marzahn, erneut über die grundlegenden Prinzipien der Menschlichkeit und Gemeinschaft.
 
-Wir kommen nach Marzahn in der Zuversicht, dass die Stimmen der Demokratie sich zu vielen Stimmen addieren. Es ist sehr wichtig für uns, auf unserer Pride-Parade alle zu hören und zu sehen, die unsere Werte teilen. Die Stimmen von bi, trans, intersex, nicht-binären Menschen, indigenen Menschen, Menschen mit Behinderung.
+- Wir kämpfen für volle Inklusion und den Schutz der Rechte jedes Mitglieds der LGBTQ+-Gemeinschaft. Unser Ziel ist die Gleichberechtigung für alle, unabhängig von sexueller Orientierung oder Geschlechtsidentität.
 
-Unsere Stimmen sind gegen fremde Zuschreibungen von außen, da dies zu Gewalt und Diskriminierung führt. Unsere Unterschiede sollten als Bereicherung der kollektiven Erfahrung gewertet werden und die Gesellschaft stärker und widerstandsfähiger machen.
+- Wir treten entschieden gegen den Aufstieg rechtsextremer Kräfte und Ideologien sowie gegen Gesetze ein, die die Freiheit von LGBTQ+-Menschen in der Welt unterdrücken.
 
-Jedes Jahr wird die Marzahn-Pride zu einer Großveranstaltung in Berlin und zieht über 1000 Teilnehmende an.
+- Wir verteidigen das Recht auf Individualität und rufen zur Anerkennung und Zelebrierung unserer einzigartigen Vielfalt auf.
 
-Am 24. Juni um 14.00 Uhr laden wir alle ein, an dem Marsch teilzunehmen, bei dem sich die Menschen gegenseitig sehen, hören und schätzen. 
+- Wir verurteilen Krieg und Gewalt und setzen uns für den Schutz der Menschenrechte und die Unterstützung aller ein, die von Aggression und Ungerechtigkeit betroffen sind.
+
+- In einer Welt voller Widersprüche und Auseinandersetzungen rufen wir dazu auf, sich um die Liebe zu versammeln - den wahren Wert des Lebens.
+
+Schließen Sie uns beim Pride in Marzahn an, um unsere Widerstandsfähigkeit gegen die Herausforderungen der Zeit gemeinsam zu feiern. Wir bauen Brücken der gegenseitigen Unterstützung und des Verständnisses, entgegen der Diskriminierung, den Mauern der Vorurteile, des Hasses und der Aggression. Wir bestehen auf einer Welt, in der Gleichheit und Freiheit die Grundrechte jedes Einzelnen sind.
+
+🏳️‍🌈
