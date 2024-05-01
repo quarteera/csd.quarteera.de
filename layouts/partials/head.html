@@ -10,6 +10,7 @@
     <link rel="canonical" href="https://www.marzahn-pride.de/">
     <link rel="alternate" hreflang="x-default" href="https://www.marzahn-pride.de/" />
     <link rel="alternate" hreflang="de" href="https://www.marzahn-pride.de/de" />
+    <link rel="alternate" hreflang="en" href="https://www.marzahn-pride.de/en" />
     <link rel="alternate" hreflang="ru" href="https://www.marzahn-pride.de/" />
     <link rel="alternate" hreflang="uk" href="https://www.marzahn-pride.de/uk" />
     <meta name="description" content="Marzahn Pride am 15. Juni 2024"/>
@@ -23,16 +24,25 @@
     {{ if eq .Site.Language.LanguageName "DE" }}
     <meta property="og:locale" content="de_DE"/>
     <meta property="og:locale:alternate" content="ru_RU" />
+    <meta property="og:locale:alternate" content="en_EN" />
     <meta property="og:locale:alternate" content="uk_UA" />
     {{ end }}
     {{ if eq .Site.Language.LanguageName "RU" }}
     <meta property="og:locale" content="ru_RU"/>
+    <meta property="og:locale:alternate" content="de_DE" />
+    <meta property="og:locale:alternate" content="en_EN" />
+    <meta property="og:locale:alternate" content="uk_UA" />
+    {{ end }}
+    {{ if eq .Site.Language.LanguageName "EN" }}
+    <meta property="og:locale" content="en_EN"/>
+    <meta property="og:locale:alternate" content="ru_RU" />
     <meta property="og:locale:alternate" content="de_DE" />
     <meta property="og:locale:alternate" content="uk_UA" />
     {{ end }}
     {{ if eq .Site.Language.LanguageName "UK" }}
     <meta property="og:locale" content="uk_UA"/>
     <meta property="og:locale:alternate" content="de_DE" />
+    <meta property="og:locale:alternate" content="en_EN" />
     <meta property="og:locale:alternate" content="ru_RU" />
     {{ end }}
     <meta property="fb:pages" content="188048734548939"/>
@@ -82,12 +92,12 @@
             ],
             "organizer": {
                 "@type": "Organization",
-                "name": "Quarteera e.V.",
+                "name": "Quarteera e. V.",
                 "url": "https://www.marzahn-pride.de/de"
             },
             "performer": {
               "@type": "PerformingGroup",
-              "name": "Quarteera e.V."
+              "name": "Quarteera e. V."
             }
         }
         ]

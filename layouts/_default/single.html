@@ -9,11 +9,16 @@
           {{ end }}
         </div>
       {{ end }}
+<!--
       <div class="column text">
         <h1>{{ .Title }}</h1>
         <p class="summary">{{ .Params.summary }}</p>
       </div>
+-->
     </div>
     {{ .Content }}
+    <div class="buttons-container">
+      {{- partial "buttons.html" . -}}
+    </div>
   </div>
 {{ end }}
