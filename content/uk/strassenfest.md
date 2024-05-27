@@ -3,7 +3,7 @@ title: "Фестиваль" # Title of your project
 date: 2023-06-20T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 summary: "Програма Марцан Прайду та вуличного фестивалю"
-draft: false
+draft: true
 ---
 О **14:00** ми зустрічаємося біля виходу на станції **S-Bahn Raoul-Wallenberg-Strasse**, щоб пройти райдужною колоною до **Victor-Klemperer-Platz**.
 

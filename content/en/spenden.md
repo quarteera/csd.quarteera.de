@@ -1,6 +1,6 @@
 ---
 title: "Donate" # Title of your project
-date: 2024-05-01T16:31:52+01:00
+date: 2024-05-27T16:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
@@ -19,6 +19,11 @@ Organizing Marzahn Pride involves significant expenses and relies on donations. 
 
 Alternatively, donations can be made via PayPal.
 [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL)
+
+or
+
+{{< betterplace >}}
+
 
 ### Tax Deduction:
 

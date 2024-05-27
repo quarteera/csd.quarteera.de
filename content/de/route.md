@@ -1,15 +1,17 @@
 ---
 title: "Route" # Title of your project
-date: 2023-05-19T19:31:52+01:00
+date: 2024-05-27T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
-Wir treffen uns am **24. Juni 2023 um 14 Uhr** an der Kreuzung Märkische Allee und Raoul-Wallenberg-Strasse vor dem **S-Bahn Raoul-Wallenberg-Strasse**.
+{{< center >}} # Route {{< /center >}}
 
-## Demo-Route:
+**Am 15. Juni 2024** wird die russischsprachige LGBTQ+-Community Quarteera die 5. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.
 
-- Raoul-Wallenberg-Straße bis zur Kreuzung Raoul-Wallenberg-Straße/Landsberger Allee. 
-- Danach durch Landsberger Allee bis zu Marzahner Promenade.
-- und dann Marzahner Promenade bis zum Viktor-Klemperer-Platz, wo sich unseren [Starssenfest](/de/strassenfest) stattfindet.
+Wir treffen uns um **11:30 Uhr** auf der Straße Poelchaustraße gegenüber von Kaufland. 
 
-{{< figure src="/images/routeBlack.png" class="route-image" caption="Google Maps © 2022 GeoBasis-DE/BKG(© 2009)">}}
+Der Marsch beginnt um **12:30 Uhr**.
+
+Nach dem Marsch findet traditionell von **14:30** bis 19:00 Uhr ein Straßenfest auf dem **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)** statt.
+
+{{< figure src="/images/marzahn-route-map.png" class="route-image">}}

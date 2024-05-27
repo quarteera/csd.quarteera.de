@@ -1,15 +1,17 @@
 ---
 title: "Маршрут" # Title of your project
-date: 2023-05-19T19:31:52+01:00
+date: 2024-05-27T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
-Ми зустрічаємось **24 червня 2023 року о 14:00** на перехресті Märkische Allee та Raoul-Wallenberg-Strasse біля виходу **на станції S-Bahn Raoul-Wallenberg-Strasse**.
 
-## Маршрут демонстрації:
+{{< center >}} # Маршрут {{< /center >}}
 
-- По Raoul-Wallenberg-Straße до перехрестя Raoul-Wallenberg-Straße/Landsberger Allee. 
-- Далі по Landsberger Allee до Marzahner Promenade.
-- І потім Marzahner Promenade до площі Viktor-Klemperer-Platz, де відбудеться наш [фестиваль](/uk/strassenfest).
+15 червня 2024 року асоціація ЛГБТК *-активіст_к Quarteera проведе 5-ий Marzahn Pride в берлінському районі Марцан.
 
-{{< figure src="/images/routeBlack.png" class="route-image" caption="Google Maps © 2022 GeoBasis-DE/BKG(© 2009)">}}
+**Зустрічаємось о 11:30 на вулиці Poelchaustraße навпроти Kaufland. Початок ходи: 12:30.**
+
+Після ходи традиційно з **14:30** до 19:00 відбудеться вуличний фестиваль на площі **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)**.
+
+
+{{< figure src="/images/marzahn-route-map.png" class="route-image">}}

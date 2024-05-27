@@ -1,9 +1,7 @@
-    <!--
-            {{ $routePage := .Site.GetPage "/route"  }}
-            {{ with $routePage }}
-            <a class="orange-button" href="{{ $routePage.RelPermalink }}">{{ $routePage.Title }}</a>
-            {{ end }}
-    -->
+    {{ $routePage := .Site.GetPage "/route"  }}
+    {{ with $routePage }}
+    <a class="orange-button" href="{{ $routePage.RelPermalink }}">{{ $routePage.Title }}</a>
+    {{ end }}
     <!--
             {{ $strassenfestPage := .Site.GetPage "/strassenfest"  }}
             {{ with $strassenfestPage }}
