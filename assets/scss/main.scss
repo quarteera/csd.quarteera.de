@@ -107,21 +107,6 @@ img {
     margin-bottom: 2rem;
   }
 
-  .route-image {
-    @include center;
-    margin: 4rem 0 1rem;
-  }
-
-  .route-image img {
-    width: 35rem;
-    height: auto;
-    outline: 1px solid black;
-  }
-
-  .route-image figcaption {
-    font-size: small;
-  }
-
   .partner-image {
     display: flex;
     align-items: center;
@@ -153,6 +138,21 @@ img {
   margin-right: 2rem;
   width: 100%;
   align-self: baseline;
+}
+
+.route-image {
+  @include center;
+  margin: 2rem 0 2rem;
+}
+
+.route-image img {
+  width: 35rem;
+  height: auto;
+  outline: 1px solid black;
+}
+
+.route-image figcaption {
+  font-size: small;
 }
 
 .single-page-summary {
@@ -295,7 +295,7 @@ nav {
 
 .partner-logos {
   @include center;
-  margin: 1rem;
+  margin: 3rem 0 0;
 }
 
 .logo {

@@ -16,6 +16,11 @@ BIC: BYLADEM1001\
 
 або [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL).
 
+або
+
+{{< betterplace >}}
+
+
 
 Ваші пожертви можна відрахувати з податків. При сумах до 300 євро (200 євро до 1 січня 2021 року) будь ласка, додайте копію виписки з банку та [спрощене підтвердження пожертви](/Spendenbestaetigung.pdf) до вашої податкової декларації.
 
