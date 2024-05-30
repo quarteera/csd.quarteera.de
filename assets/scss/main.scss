@@ -12,8 +12,9 @@
 .body {
   overflow-x: hidden;
   overflow-y: auto;
-  min-width: 1530px;
+  min-width: 1024px;
   background-color: $primary-font-color;
+  @include column;
 }
 
 html {
@@ -85,7 +86,7 @@ img {
 .drawing {
   position: absolute;
   bottom: 0;
-  left: 80%;
+  left: 90%;
   z-index: 0;
 }
 
@@ -609,4 +610,31 @@ body {
   -moz-transition: none !important;
   -ms-transition: none !important;
   -o-transition: none !important;
+}
+
+.lineup {
+  font-family: $title-font;
+  font-size: 1.25rem;
+  padding-top: 3rem;
+  border-top: 1px dashed #C2C2C2;
+}
+
+.lineup-label, .lineup-label-last {
+  font-family: $title-font;
+  font-size: 1.25rem;
+  padding-right: 1rem;
+
+  a:hover, a:active, a:link { text-decoration: none; }
+  a:visited { text-decoration: none; }
+}
+
+
+.lineup-label:after {
+  font-family: $title-font;
+  display: inline-block;
+  position: relative;
+  content: "·";
+  font-size: 1.5rem;
+  top: -.0em;
+  right: -.5em;
 }
