@@ -148,6 +148,16 @@
   a:visited { color: $yellow; }
 }
 
+.orange-links {
+  a:hover, a:active, a:link { color: $dark-orange; }
+  a:visited { color: $orange; }
+}
+
+.green-links {
+  a:hover, a:active, a:link { color: $dark-green; }
+  a:visited { color: $green; }
+}
+
 .blue-button {
   @include button;
   background-color: $blue;
