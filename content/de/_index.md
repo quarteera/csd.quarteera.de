@@ -10,7 +10,7 @@ image:
 
 Vor fünf Jahren zog Quarteera e.V. zum ersten Mal für Liebe, gleiche Rechte und Inklusivität durch die Straßen von Marzahn. Dieses Jahr demonstrieren wir unter dem Motto „Queer wie Freiheit“ und zeigen Solidarität mit denen, die für deine Rechte und Freiheiten kämpfen müssen.
 
-{{< center >}}### Wir treffen uns um 11:30 Uhr auf der Straße Poelchaustraße gegenüber von Kaufland.{{< /center >}}
+{{< center >}}### Treffen wir uns um 11:30 Uhr an der Kreuzung Poelchaustr. und Bruno-Baumstr.{{< /center >}}
 
 Der Marsch beginnt um 12:30 Uhr.
 

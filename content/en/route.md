@@ -8,7 +8,7 @@ draft: false
 
 On **June 15, 2024**, the association of Russian-speaking LGBTQ* activists, Quarteera, will stand the 5th Marzahn Pride in the Marzahn Berlin.
 
-**Gathering at 11:30 on the street opposite Kaufland. The march starts at 12:30.**
+**Meet at 11:30 at the intersection of Poelchaustr. and Bruno-Baumstr. The march starts at 12:30.**
 
 {{< figure src="/images/map-entry-point.jpg" class="route-image">}}
 

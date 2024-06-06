@@ -8,7 +8,7 @@ draft: false
 
 **Am 15. Juni 2024** wird die russischsprachige LGBTQ+-Community Quarteera die 5. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.
 
-Wir treffen uns um **11:30 Uhr** auf der Straße Poelchaustraße gegenüber von Kaufland. 
+**Treffen wir uns um 11:30 Uhr an der Kreuzung Poelchaustr. und Bruno-Baumstr.** 
 
 {{< figure src="/images/map-entry-point.jpg" class="route-image">}}
 
