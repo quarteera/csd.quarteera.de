@@ -11,6 +11,8 @@ draft: false
 
 **Зустрічаємось о 11:30 на вулиці Poelchaustraße навпроти Kaufland. Початок ходи: 12:30.**
 
+{{< figure src="/images/map-entry-point.jpg" class="route-image">}}
+
 Після ходи традиційно з **14:30** до 19:00 відбудеться вуличний фестиваль на площі **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)**.
 
 

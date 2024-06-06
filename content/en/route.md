@@ -10,6 +10,8 @@ On **June 15, 2024**, the association of Russian-speaking LGBTQ* activists, Quar
 
 **Gathering at 11:30 on the street opposite Kaufland. The march starts at 12:30.**
 
+{{< figure src="/images/map-entry-point.jpg" class="route-image">}}
+
 After the march, a traditional street festival will be held from **14:30** to 19:00 at **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)**.
 
 {{< figure src="/images/marzahn-route-map.png" class="route-image">}}
