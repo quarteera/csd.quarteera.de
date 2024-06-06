@@ -9,7 +9,7 @@ On **June 15, 2024**, the association of Russian-speaking LGBTQ* activists, Quar
 
 Five years ago, Quarteera e.V. first took to the streets of Marzahn in the name of love, equality, and inclusivity. This year, we march under the banner "Queer as Freedom," in solidarity with those fighting for their rights and freedoms.
 
-{{< center >}}### Gathering at 11:30 on the street opposite Kaufland.{{< /center >}}
+{{< center >}}### Meet at 11:30 at the intersection of Poelchaustr. and Bruno-Baumstr.{{< /center >}}
 
 The march starts at 12:30.
 

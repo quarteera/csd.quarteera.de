@@ -9,7 +9,7 @@ draft: false
 
 15 червня 2024 року асоціація ЛГБТК *-активіст_к Quarteera проведе 5-ий Marzahn Pride в берлінському районі Марцан.
 
-**Зустрічаємось о 11:30 на вулиці Poelchaustraße навпроти Kaufland. Початок ходи: 12:30.**
+**Зустрінемося о 11:30 на перехресті вулиць Poelchaustr. і Bruno-Baumstr. Початок ходи: 12:30.**
 
 {{< figure src="/images/map-entry-point.jpg" class="route-image">}}
 
