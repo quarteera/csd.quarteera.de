@@ -10,6 +10,8 @@ draft: false
 
 Wir treffen uns um **11:30 Uhr** auf der Straße Poelchaustraße gegenüber von Kaufland. 
 
+{{< figure src="/images/map-entry-point.jpg" class="route-image">}}
+
 Der Marsch beginnt um **12:30 Uhr**.
 
 Nach dem Marsch findet traditionell von **14:30** bis 19:00 Uhr ein Straßenfest auf dem **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)** statt.

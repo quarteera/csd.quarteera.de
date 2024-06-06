@@ -10,6 +10,8 @@ draft: false
 
 **Встречаемся в 11:30 на улице Poelchaustraße напротив Kaufland. Начало шествия: 12:30\.**
 
+{{< figure src="/images/map-entry-point.jpg" class="route-image">}}
+
 После шествия традиционно c **14:30** до 19:00 пройдет уличный фестиваль на площади **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)**.
 
 {{< figure src="/images/marzahn-route-map.png" class="route-image">}}
