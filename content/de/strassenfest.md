@@ -1,60 +1,39 @@
 ---
 title: "Straßenfest" # Title of your project
-date: 2023-06-20T19:31:52+01:00
+date: 2024-06-09T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
-draft: true
+draft: false
 summary: "Marzahn Pride und Straßenfest Programm"
 ---
 
-Um **14:00** Uhr starten wir den Regenbogen-Aufzug an der Kreuzung **Märkische Allee/Raoul-Wallenberg-Straße, 12681 Berlin-Marzahn** und laufen bis **Victor-Klemperer-Platz**.
+{{< center >}} # Straßenfest {{< /center >}}
 
-Eröffnung der Pride. Reden von Vertreter\*innen von Quarteera e. V.
+**Von 14:30 bis 19** Uhr findet am Victor-Klemperer-Platz ein Straßenfest, bei dem queere Künstler\*innen aus den PostOst-Ländern auftreten. 
+Auf dem Festival können Sie sich entspannen, tanzen, Gleichgesinnte treffen und leckeres Essen probieren.
 
-**Von 16 bis 19** Uhr findet am Victor-Klemperer-Platz ein Straßenfest, bei dem queere Künstler\*innen aus den PostOst-Ländern auftreten. Auf dem Festival können Sie sich entspannen, tanzen, Gleichgesinnte treffen und leckeres Essen probieren.
+## Lineup 
+* [SEVA](https://www.instagram.com/sevagramm)
+* [Кÿдесник ☾](https://www.instagram.com/kudesnikmusic/) Rostislav Mazurkevich, Ukrainischer Minnesänger, Singer-Songwriter
+* [Folkloregruppe "Popuri"](https://www.facebook.com/share/wtyEmn7yB4ochgXq/)
+* [Sveta Ben](https://www.instagram.com/chikissecrets) & [Galya Chikiss](https://www.instagram.com/sveta.ben)
+* [Schisandra Who](https://instagram.com/schisandra.who) Belarussischer Queer-Aktivist Zmicier
+* [MKSM](https://www.instagram.com/mksm.music) Sänger, Songwriter, Geiger und Aktivist
+* [Aloe Vera](https://www.instagram.com/aloeband/) Pop-Rock-Band
+ 
 
-Vertreter\*innen des Bezirks werden auftreten.
+## Afterparty
+**[BUSCHE Club](https://maps.app.goo.gl/pyHfXjk4eZbBC8Gy7)**
 
-Nadja Zivkovic, Bezirksbürgermeisterin Marzahn Hellersdorf (CDU)
+**1st Floor:**\
+**20.00-22.00** DJ Neo21 \
+**22.00-00.00** DJ Kirill Shapovalov\
+**00.00-02.00** DJ Séxstasy\
+**02.00-04.00** DJ Timon Richard\
+**04.00-06.00** DJ Lady Suka\
 
-Vanessa Krah - Queerbeauftragte Marzahn-Hellersdorf
+**2nd Floor:**\
+**22.00-05.00** DJ MOLOKO
 
-Bezirksbeirat für Partizipation und Integration
-
-**16:00- 16:20** - Offizielle Eröffnung des Straßenfestes am Victor-Klemperer-Platz.
-
-**16:20- 16:40** - [Olga Rubtsova](https://instagram.com/ooh.rubtsova), X-FACTOR Finalistin.
-
-**16:40 - 16:50** - Willkommensrede.
-
-Anastasia Sudzilovskaya
-
-Stellv. Geschäftsführerin des BVRE e.V, Projektleiterin: Kompetenznetzwerk für das
-"Zusammenleben in der Migrationsgesellschaft"
-
-Kathrin Schulz - QUEERHOME\*
-
-Queeramnesty Berlin
-
-**16:50 - 17:10** - [Black&White](https://instagram.com/music_band_blackandwhite), Gesangsduo.
-
-**17:10 - 17:30** - Performance von Cross procession, [Schisandra](https://instagram.com/schisandra.who), Who & the Angelites und der belarussischen Queer-Aktivistin Zmicer.
-
-**17:40 - 18:00** - [Yetin](https://instagram.com/yetinband) - alternative Rockband.
-
-**18:00 - 18:20** - [VIRIENA](https://instagram.com/viriena) - Gewinnerin von "Voice of Zaporizhzhia 2019".
-
-**18:30 - 19:00** - [Rostislav Mazurkevich](https://instagram.com/rostislav_mazurkevich) - ukrainischer Minnesänger, Singer-Songwriter.
-
-**20:00** - Beginn der **After-Party**.
-
-La Casa\
-Wurzener straße 6, 12627
-
-Das in Berlin ansässige DJ-Duo der russischen Künstler [THÉ HËR](https://instagram.com/theherrave) wird die Pride unterstützen. Sie kreieren eine Fusion aus DnB, Techno, House und Bassline.
-
-Infostände von Organisationen können während des Straßenfestes besucht werden.
-
-Und natürlich gibt es jede Menge gutes Essen - Vareniki, Pelmeni, Okroschka, kalten Borschtsch und vieles mehr.
 
 
 

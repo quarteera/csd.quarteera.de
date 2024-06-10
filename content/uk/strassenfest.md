@@ -1,36 +1,37 @@
 ---
 title: "Фестиваль" # Title of your project
-date: 2023-06-20T19:31:52+01:00
+date: 2024-06-09T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 summary: "Програма Марцан Прайду та вуличного фестивалю"
-draft: true
+draft: false
 ---
-О **14:00** ми зустрічаємося біля виходу на станції **S-Bahn Raoul-Wallenberg-Strasse**, щоб пройти райдужною колоною до **Victor-Klemperer-Platz**.
 
-Відкриття прайду. Виступи представників::ниць Quarteera e. V.
+{{< center >}} # Фестиваль {{< /center >}}
 
-З **16 до 19** на **Victor-Klemperer-Platz** ми проводимо вуличний фестиваль, де виступатимуть квір-артист_ки з PostOst-країн. На фестивалі можна буде відпочивати, танцювати, зустрічатися з однодумцями та куштувати смачну їжу. Наступні організації презентують свої стенди та інтерактивні акції для гостей.
 
-Виступи представників різних ЛГБТК+- та мігрантських організацій
+З **14:30 до 19** на **Victor-Klemperer-Platz** ми проводимо вуличний фестиваль, де виступатимуть квір-артист_ки з PostOst-країн. 
+На фестивалі можна буде відпочивати, танцювати, зустрічатися з однодумцями та куштувати смачну їжу. Наступні організації презентують свої стенди та інтерактивні акції для гостей.
 
-**16.00 - 16.20** - Офіційне відкриття фестивалю на площі площі площі Viktor-Klemperer-Platz
+## Lineup
+* [SEVA](https://www.instagram.com/sevagramm)
+* [Кÿдесник ☾](https://www.instagram.com/kudesnikmusic/) Rostislav Mazurkevich, Ukrainian minstrel, singer-songwriter
+* [Folkloregruppe "Popuri"](https://www.facebook.com/share/wtyEmn7yB4ochgXq/)
+* [Sveta Ben](https://www.instagram.com/chikissecrets) & [Galya Chikiss](https://www.instagram.com/sveta.ben)
+* [Schisandra Who](https://instagram.com/schisandra.who) Belarusian queer activist Zmicier
+* [MKSM](https://www.instagram.com/mksm.music) Singer, songwriter, violinist, and activist
+* [Aloe Vera](https://www.instagram.com/aloeband/) Pop-Rock-Band
 
-**16.20- 16.40** - [Rubtsova](https://instagram.com/ooh.rubtsova), фіналістка X-FACTOR ,
 
-**16.40 - 16.50** - привітальні промови
+## Afterparty
+**[BUSCHE Club](https://maps.app.goo.gl/pyHfXjk4eZbBC8Gy7)**
 
-**16.50 - 17.10** - ["Black&White"]((https://instagram.com/music_band_blackandwhite)), вокальний дует
+**1st Floor:**\
+**20.00-22.00** DJ Neo21 \
+**22.00-00.00** DJ Kirill Shapovalov\
+**00.00-02.00** DJ Séxstasy\
+**02.00-04.00** DJ Timon Richard\
+**04.00-06.00** DJ Lady Suka\
 
-**17.10 - 17.30** Перфоменс Хрещена хода. [Schisandra](https://instagram.com/schisandra.who) Who & the Angelites та білоруський квір-активіста Зміцера)
+**2nd Floor:**\
+**22.00-05.00** DJ MOLOKO
 
-**17.40 - 18.00** [Yetin](https://instagram.com/yetinband) , альтернативний рок гурт
-
-**18.00 - 18.20** [VIRIENA](https://instagram.com/viriena)
-
-**18.30 - 19.00** Rostislav Mazurkevich, український менестрель, автор-виконавець своїх пісень.
-
-**20.00** - початок афтепаті в
-
-Під час фестивалю працюватимуть інфостенди організацій
-
-І, звісно, буде багато смачної їжі: вареники, пельмені, окрошка, холодний борщ та багато іншого.
