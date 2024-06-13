@@ -23,13 +23,13 @@ function renderTimer() {
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("timer").innerHTML = "EXPIRED";
+    document.getElementById("timer").style.display = "none";
   }
 }
 
 var x = setTimeout(function () {
   renderTimer();
-  setInterval(renderTimer, 1000)
+  setInterval(renderTimer, 15000)
 }, 1);
 
  
