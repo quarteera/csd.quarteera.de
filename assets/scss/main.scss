@@ -297,6 +297,10 @@ nav {
 .partner-logos {
   @include center;
   margin: 3rem 0 0;
+
+  .note {
+    font-size: 0.9rem;
+  }
 }
 
 .logo {
