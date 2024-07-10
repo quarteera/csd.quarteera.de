@@ -156,6 +156,12 @@ img {
   font-size: small;
 }
 
+.center-image {
+  @include center;
+  margin: 2rem 0 2rem;
+}
+
+
 .single-page-summary {
   @include row;
 

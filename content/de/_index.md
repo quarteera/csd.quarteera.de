@@ -1,22 +1,26 @@
 ---
 title: "Marzahn Pride 2024"
-date: 2024-05-30T19:31:52+01:00
+date: 2024-07-09T19:31:52+01:00
 dataStart: "15. Juni 2024"
 draft: false
 image:
 ---
 
-**Am 15. Juni 2024** wird die russischsprachige LGBTQ+-Community Quarteera die 5. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.
+{{< figure src="/images/marzahn-pride-danke.png" class="center-image">}}
 
-Vor fünf Jahren zog Quarteera e.V. zum ersten Mal für Liebe, gleiche Rechte und Inklusivität durch die Straßen von Marzahn. Dieses Jahr demonstrieren wir unter dem Motto „Queer wie Freiheit“ und zeigen Solidarität mit denen, die für deine Rechte und Freiheiten kämpfen müssen.
+{{< center >}}### 🌈 Ein riesiges Dankeschön an alle! 🌈{{< /center >}}
 
-{{< center >}}### Treffen wir uns um 11:30 Uhr an der Kreuzung Poelchaustr. und Bruno-Baumstr.{{< /center >}}
+Wir möchten uns von ganzem Herzen bei allen Organisationen, Besucher*innen, Fotograf*innen, Journalist\*innen, Ehrenamtlichen, Musiker\*innen und unseren Mitarbeitenden bedanken, die den Marzahn Pride 2024 zu einem unvergesslichen Erlebnis gemacht haben. Ohne euch alle wäre dieses wundervolle Fest der Vielfalt und Liebe nicht möglich gewesen!
 
-Der Marsch beginnt um 12:30 Uhr.
+Ein besonderer Dank geht auch an unsere Förderer, ohne deren finanzielle Unterstützung wir dieses Event nicht hätten realisieren können:
+- Die Senatsverwaltung für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung, im Rahmen des Berliner Pride Sommers 2024 „Queere Generationen verbinden - Dialog in den Bezirken stärken“.
+- Das Projekt „Queeres Nachbarschaftsfest und Qunst Salon“ im Rahmen des Förderprogramms „Stärkung Berliner Großsiedlungen“ der Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen.
+- Die Partnerschaften für Demokratie Marzahn Hellersdorf.
+- Die Senatsverwaltung für Wirtschaft, Energie und Betriebe im Rahmen des Tourismusfonds.
 
-Nach dem Marsch findet traditionell von **14:30** bis 19:00 Uhr ein Straßenfest auf dem **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)** statt.
 
-{{< figure src="/images/marzahn-route-map.png" class="route-image">}}
+  Gemeinsam haben wir gezeigt, dass Solidarität und Vielfalt unsere Gemeinschaft stärken. 
+  
+Lasst uns diesen Geist bewahren und weitertragen. Bis zum nächsten Jahr – wir freuen uns schon jetzt auf ein Wiedersehen! 
 
-{{< lineup >}}
 
