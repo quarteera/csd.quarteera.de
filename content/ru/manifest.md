@@ -2,7 +2,7 @@
 title: "Манифест" # Title of your project
 date: 2024-05-01T16:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
-draft: false
+draft: true
 ---
 
 {{< center >}} # Queer как Свобода {{< /center >}}

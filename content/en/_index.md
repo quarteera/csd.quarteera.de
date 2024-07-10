@@ -1,21 +1,25 @@
 ---
 title: "Marzahn Pride 2024"
-date: 2024-05-30T15:31:52+01:00
+date: 2024-07-09T19:31:52+01:00
 dataStart: "15 Juni 2024"
 draft: false
 image:
 ---
-On **June 15, 2024**, the association of Russian-speaking LGBTQ* activists, Quarteera, will stand the 5th Marzahn Pride in the Marzahn Berlin.
+{{< figure src="/images/marzahn-pride-danke.png" class="center-image">}}
 
-Five years ago, Quarteera e.V. first took to the streets of Marzahn in the name of love, equality, and inclusivity. This year, we march under the banner "Queer as Freedom," in solidarity with those fighting for their rights and freedoms.
+{{< center >}}### 🌈  Thank you so much! 🌈{{< /center >}}
 
-{{< center >}}### Meet at 11:30 at the intersection of Poelchaustr. and Bruno-Baumstr.{{< /center >}}
+We would like to express our heartfelt gratitude to all the organizations, visitors, photographers, journalists, volunteers, musicians, and our staff who made this Marzahn Pride possible.
 
-The march starts at 12:30.
+Without you, this celebration of diversity and love would not have been possible!
 
-After the march, a traditional street festival will be held from **14:30** to 19:00 at **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)**.
+Special thanks to the sponsors, without whose financial support we could not have made this happen. 
+- Die Senatsverwaltung für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung (Berliner Pride Sommer 2024)
+- „Queere Generationen verbinden - Dialog in den Bezirken stärken“ 
+- Das Projekt „Queeres Nachbarschaftsfest und Qunst Salon“ („Stärkung Berliner Großsiedlungen“ от Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen)
+- Die Partnerschaften für Demokratie Marzahn Hellersdorf. - Die Senatsverwaltung für Wirtschaft, Energie und Betriebe
 
-{{< figure src="/images/marzahn-route-map.png" class="route-image">}}
 
-{{< lineup >}}
+Together we have shown that solidarity and diversity are important.
 
+Let's keep this spirit alive and pass it on!
