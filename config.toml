@@ -1,11 +1,11 @@
 baseURL = 'https://www.marzahn-pride.de/'
 languageCode = 'ru-RU'
-title = 'Marzahn Pride 2024'
+title = 'Marzahn Pride 2025'
 defaultContentLanguage = 'ru'
 defaultContentLanguageInSubdir = true
 [languages]
   [languages.ru]
-    title = 'Marzahn Pride 2024'
+    title = 'Marzahn Pride 2025'
     languageCode = 'ru-RU'
     languageName = 'RU'
     weight = 1
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = true
       url = '/datenschutz'
       weight = 2
   [languages.de]
-    title = 'Marzahn Pride 2024'
+    title = 'Marzahn Pride 2025'
     languageName = 'DE'
     languageCode = 'de-DE'
     weight = 2
@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = true
       url = '/de/datenschutz'
       weight = 2
   [languages.en]
-    title = 'Marzahn Pride 2024'
+    title = 'Marzahn Pride 2025'
     languageName = 'EN'
     languageCode = 'en-US'
     weight = 3
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = true
       url = '/en/datenschutz'
       weight = 2
   [languages.uk]
-      title = 'Marzahn Pride 2024'
+      title = 'Marzahn Pride 2025'
       languageName = 'UK'
       languageCode = 'uk-UA'
       weight = 4
