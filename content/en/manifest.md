@@ -2,30 +2,32 @@
 title: "Manifest" # Title of your project
 date: 2024-05-01T16:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
-draft: true
+draft: false
 ---
 
-{{< center >}} # Queer as Freedom {{< /center >}}
-{{< banner src="/images/marzahn-banner-600-en.jpg">}}
+{{< center >}} # We are different. We are together. {{< /center >}}
 
-Five years ago, Quarteera e. V. first took a stand in Marzahn, Berlin, for love, equality, and inclusivity.
+[//]: # ({{< banner src="/images/marzahn-banner-600-en.jpg">}})
 
-This time, we are stepping out with the slogan "Queer as Freedom" to show solidarity with those fighting for their rights and freedoms, be it in the context of the LGBTQ+ community, political prisoners, journalists, activists, and all those deprived of their right to vote.
+Six years ago, we marched in Marzahn for the very first time. It was bold. It was a little scary. But it was truly important.
 
-Today, as we celebrate this festival, we continue the fight for rights and recognition of our diversity, despite increasing challenges. The empowerment of right-wing forces such as the AfD in Germany, the ongoing war of Russia in Ukraine, and the spread of laws restricting the rights of LGBTQ+ people in countries bordering Russia remind us of the need to stand together against prejudice and hate.
+Since then, we've marched with various slogans—inspiring and provocative, personal and political. But always sincere. We’ve come to speak openly — about our rights, about our identities, about the freedom to be ourselves.
 
-The war of Russia in Ukraine continues, and we still call for humanitarian and military support for the country that is almost alone fighting against the totalitarian regime of Russia's illegitimate authorities. Belarus, Georgia, Kyrgyzstan, Kazakhstan, and other countries influenced by Russia are adopting laws and considering equating LGBTQ+ affiliation with extremism. Countries affected by the Kremlin's colonial policy are also developing a negative attitude towards the community. These trends are hard to overlook, and that's why Quarteera e. V., now at the fifth Pride in Marzahn, once again speaks about the fundamental principles of humanity and community.
+And over these years, we’ve come a long way. And the most important part of this journey isn't just the fight for visibility, but the opportunity to stand alongside others, to hear and to be heard.
 
-- We fight for full inclusion and the protection of the rights of every member of the LGBTQ+ community. Our goal is equality for all, regardless of sexual orientation or gender identity.
+Over six years, Marzahn Pride has become an event that unites very different people around simple yet crucial values: acceptance, solidarity, respect, and the right to live without fear.
 
-- We firmly stand against the rise of far-right forces and ideologies, as well as laws that suppress the freedom of LGBTQ+ people in the world.
+And we’re proud to be building this space together.
 
-- We defend the right to individuality and call for the recognition and celebration of our unique diversity.
+But we also see how society is becoming increasingly radicalized worldwide, and we fear where this might lead. It's becoming more noticeable: people stop hearing and listening to each other, while fear and hatred are used as politicians' primary tools.
 
-- We condemn war and violence and advocate for the protection of human rights and support for all those affected by aggression and injustice.
+Many of us know exactly what that looks like — because we’ve had to leave our homes, escaping authoritarian regimes, wars, and dictatorships.
 
-- In a world full of contradictions and disputes, we call for unity around love - the true value of life.
+That's why participating in this pride isn't just an act of solidarity. It's a necessity.
 
-Join us at Pride in Marzahn to celebrate our resilience in the face of time's challenges together. We are building bridges of mutual support and understanding, against discrimination, walls of prejudice, hate, and aggression. We insist on a world where equality and freedom are the fundamental rights of every individual.
+We stand for open and honest conversation. We stand for bringing people together, not tearing them apart. We believe that our greatest strength lies in our diversity — in our ability to meet each other with respect, curiosity, and care. That’s how we move forward. That’s how we build a better future.
 
-🏳️‍🌈
+We say: We are different. We are together.
+
+And we invite everyone who shares these values — everyone who believes in a world free from discrimination and violence — to join us. Walk with us. Stand with us. For human rights. For dignity. For equality. For all of us.
+
