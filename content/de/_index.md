@@ -6,7 +6,7 @@ draft: false
 image:
 ---
 
-Am **21. Juni 2025** wird die russischsprachige LGBTQ+ Community Quarteera die 6. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.
+[//]: # (Am **21. Juni 2025** wird die russischsprachige LGBTQ+ Community Quarteera die 6. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.)
 
 {{< center >}} # Wir sind verschieden. Wir stehen zusammen. {{< /center >}}
 
