@@ -31,7 +31,7 @@ That's why participating in this pride isn't just an act of solidarity. It's a n
 
 We stand for open and honest conversation. We stand for bringing people together, not tearing them apart. We believe that our greatest strength lies in our diversity — in our ability to meet each other with respect, curiosity, and care. That’s how we move forward. That’s how we build a better future.
 
-We say: We are different. We are together.
+**We say: We are different. We are together.**
 
 And we invite everyone who shares these values — everyone who believes in a world free from discrimination and violence — to join us. Walk with us. Stand with us. For human rights. For dignity. For equality. For all of us.
 
