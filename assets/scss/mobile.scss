@@ -3,6 +3,7 @@
 @media screen and (max-width: 768px) {
   .body {
     min-width: auto;
+
     nav {
       width: 90vw;
       min-height: 22vh;
@@ -299,6 +300,7 @@
     img {
       width: 95vw;
     }
+
     .note {
       font-size: 0.75rem;
     }
@@ -324,5 +326,14 @@
   .youtube-content-mobile {
     @include center;
     display: flex;
+  }
+
+  @media (max-width: 768px) {
+    .buttons-container-mobile {
+      display: block;
+    }
+    .buttons-container-desktop {
+      display: none;
+    }
   }
 }

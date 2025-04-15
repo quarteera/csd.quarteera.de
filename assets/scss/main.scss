@@ -275,7 +275,7 @@ nav {
   }
 }
 
-.heading-dots-container{
+.heading-dots-container {
   padding-bottom: 1.1rem;
 }
 
@@ -449,7 +449,7 @@ body {
       position: absolute;
       overflow: hidden;
 
-      left:50%;
+      left: 50%;
       transform: translate(-50%, 0);
     }
   }
@@ -608,9 +608,19 @@ body {
 .youtube-content-desktop {
   @include center;
 }
+
 .youtube-content-mobile {
   display: none;
 }
+
+.buttons-container-mobile {
+  display: none;
+}
+
+.buttons-container-desktop {
+  display: block;
+}
+
 @import 'mobile';
 
 // disable animation on page load:
@@ -634,8 +644,13 @@ body {
   font-size: 1.25rem;
   padding-right: 1rem;
 
-  a:hover, a:active, a:link { text-decoration: none; }
-  a:visited { text-decoration: none; }
+  a:hover, a:active, a:link {
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
 }
 
 
