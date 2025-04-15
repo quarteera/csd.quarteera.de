@@ -15,4 +15,4 @@ draft: false
 
 [//]: # (После шествия традиционно c **14:30** до 19:00 пройдет уличный фестиваль на площади **[Victor-Klemperer-Platz]&#40;https://maps.app.goo.gl/12PfkDRWKR8yqouCA&#41;**.)
 
-{{< figure src="/images/marzahn-route-map.jpg" class="route-image">}}
+[//]: # ({{< figure src="/images/marzahn-route-map.jpg" class="route-image">}})
