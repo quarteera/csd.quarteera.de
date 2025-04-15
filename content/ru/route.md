@@ -11,8 +11,8 @@ draft: false
 *Информация о маршруте и времени появится позже.*
 
 
-[//]: # ({{< figure src="/images/map-entry-point.jpg" class="route-image">}})
+[//]: # (&#40;{{< figure src="/images/map-entry-point.jpg" class="route-image">}}&#41;)
 
 [//]: # (После шествия традиционно c **14:30** до 19:00 пройдет уличный фестиваль на площади **[Victor-Klemperer-Platz]&#40;https://maps.app.goo.gl/12PfkDRWKR8yqouCA&#41;**.)
 
-[//]: # ({{< figure src="/images/marzahn-route-map.png" class="route-image">}})
+{{< figure src="/images/marzahn-route-map.jpg" class="route-image">}}
