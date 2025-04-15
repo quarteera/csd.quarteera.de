@@ -23,18 +23,20 @@
                 {{ end }}
                 <div class="language-selector">
                     {{ if .Site.IsMultiLingual }}
-                    <div class="buttons-container-mobile">
-                        {{- partial "buttons.html" . -}}
+                    <div class="mobile-language-wrapper">
+                        <div class="buttons-container-mobile">
+                            {{- partial "buttons.html" . -}}
+                        </div>
+                        <ul class="hamburger-languages">
+                            {{ range $.AllTranslations }}
+                            <li class="mobile-language {{ if eq .Language $.Site.Language }}active-language{{ end }}">
+                                <a href="{{ .Permalink }}">
+                                    {{ .Language.LanguageName }}
+                                </a>
+                            </li>
+                            {{ end }}
+                        </ul>
                     </div>
-                    <ul class="hamburger-languages">
-                        {{ range $.AllTranslations }}
-                        <li class="mobile-language {{ if eq .Language $.Site.Language }}active-language{{ end }}">
-                            <a href="{{ .Permalink }}">
-                                {{ .Language.LanguageName }}
-                            </a>
-                        </li>
-                        {{ end }}
-                    </ul>
                     <ul class="desktop-language">
                         <li><a>{{ $.Site.Language.LanguageName }}</a></li>
                         <svg class="language-open" width="10" height="5" viewBox="0 0 21 11" fill="none"
