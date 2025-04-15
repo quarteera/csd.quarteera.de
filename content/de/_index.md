@@ -8,7 +8,7 @@ image:
 
 [//]: # (Am **21. Juni 2025** wird die russischsprachige LGBTQ+ Community Quarteera die 6. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.)
 
-{{< center >}} # Wir sind verschieden. Wir stehen zusammen. {{< /center >}}
+{{< center >}} ## Wir sind verschieden. Wir stehen zusammen. {{< /center >}}
 
 [//]: # ({{< banner src="/images/marzahn-banner-600-de.jpg">}})
 

@@ -9,7 +9,7 @@ image:
 [//]: # (On **June 21, 2025**, the association of Russian-speaking LGBTQ+ activists, Quarteera, will stand the 6th Marzahn Pride in the Marzahn Berlin.)
 
 
-{{< center >}} # We are different. We are together. {{< /center >}}
+{{< center >}} ## We are different. We are together. {{< /center >}}
 
 [//]: # ({{< banner src="/images/marzahn-banner-600-en.jpg">}})
 

@@ -8,7 +8,7 @@ image:
 
 [//]: # (**21 червня 2025 року** асоціація ЛГБТК+ активіст_к Quarteera проведе 6-й Marzahn Pride в берлінському районі Марцан.)
 
-{{< center >}} # Ми різні. Ми разом. {{< /center >}}
+{{< center >}} ## Ми різні. Ми разом. {{< /center >}}
 
 [//]: # ({{< banner src="/images/marzahn-banner-600-en.jpg">}})
 
