@@ -345,5 +345,10 @@
     .buttons-container-desktop {
       display: none;
     }
+    .cookie-consent-container {
+      flex-direction: column;
+      align-items: stretch;
+    }
   }
+
 }
