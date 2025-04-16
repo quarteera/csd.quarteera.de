@@ -663,3 +663,56 @@ body {
   top: -.0em;
   right: -.5em;
 }
+
+#cookie-consent-banner {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #222;
+  color: #fff;
+  text-align: center;
+  padding: 1.5em 1em;
+  z-index: 1000;
+}
+
+.cookie-consent-container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cookie-consent-container p {
+  margin: 0;
+  padding-right: 1em;
+  flex: 1;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.cookie-buttons {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
+#cookie-consent-accept,
+#cookie-consent-decline {
+  border: none;
+  padding: 0.75em 1.5em;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#cookie-consent-accept {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#cookie-consent-decline {
+  background-color: #f44336;
+  color: white;
+}
