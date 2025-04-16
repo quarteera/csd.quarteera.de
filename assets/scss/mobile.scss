@@ -345,9 +345,12 @@
     .buttons-container-desktop {
       display: none;
     }
-    .cookie-consent-container {
+    .cookie-buttons {
       flex-direction: column;
       align-items: stretch;
+    }
+    .cookie-buttons button {
+      width: 100%;
     }
   }
 
