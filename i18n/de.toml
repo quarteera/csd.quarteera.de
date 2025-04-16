@@ -6,3 +6,12 @@ other = 'S'
 
 [minute]
 other = 'M'
+
+[cookie]
+other = 'German cookie'
+
+[accept]
+other = 'Ja'
+
+[decline]
+other = 'Nein'

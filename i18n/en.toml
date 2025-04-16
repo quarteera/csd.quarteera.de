@@ -6,3 +6,12 @@ other = 'H'
 
 [minute]
 other = 'M'
+
+[cookie]
+other = 'We use cookies to improve your experience. By continuing, you agree to our cookie policy.'
+
+[accept]
+other = 'Yes'
+
+[decline]
+other = 'No'

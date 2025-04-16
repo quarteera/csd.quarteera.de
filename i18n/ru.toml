@@ -6,3 +6,12 @@ other = 'ч'
 
 [minute]
 other = 'м'
+
+[cookie]
+other = 'Russian cookie'
+
+[accept]
+other = 'Да'
+
+[decline]
+other = 'Нет'
