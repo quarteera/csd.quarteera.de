@@ -4,16 +4,22 @@ date: 2024-05-27T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: false
 ---
+
 {{< center >}} # Route {{< /center >}}
 
-Am **21. Juni 2025** wird die russischsprachige LGBTQ+ Community Quarteera die 6. Marzahn-Pride im Berliner Bezirk Marzahn veranstalten.
+12:15 Uhr - Treffen der Teilnehmer des Umzugs auf der Allee der Kosmonauten, 100 Meter vom S-Bahnhof Springpfuhl
+entfernt (auf der rechten Seite der Allee der Kosmonauten in Fahrtrichtung Marzahn-Hellersdorf). Eröffnung der Pride.
+Verlesung des Manifests der 6. Marzahn-Pride.
 
-*Informationen zur Route und Uhrzeit folgen später.* 
+13:00 Uhr - Start des Umzugs auf der Allee der Kosmonauten in Richtung Victor-Klemperer-Platz mit Beteiligung eines
+Autotrucks.
 
-[//]: # ({{< figure src="/images/map-entry-point.jpg" class="route-image">}})
+15:00 Uhr - Ankunft am Endpunkt des Umzugs auf dem Victor-Klemperer-Platz.
 
-[//]: # (Der Marsch beginnt um **12:30 Uhr**.)
+16:00 Uhr - offizielle Eröffnung des Straßenfestivals auf dem Victor-Klemperer-Platz. Auftritte von Vertretern des
+Bezirks Marzahn-Hellersdorf, des Queer-Beirats, Vertretern politischer Parteien, Queer-Aktivisten.
 
-[//]: # (Nach dem Marsch findet traditionell von **14:30** bis 19:00 Uhr ein Straßenfest auf dem **[Victor-Klemperer-Platz]&#40;https://maps.app.goo.gl/12PfkDRWKR8yqouCA&#41;** statt.)
+16:00 - 19:30 Uhr - Konzert mit Künstlern, DJs, Moderatoren. Organisation eines Marktes. Streetfood.
 
-[//]: # ({{< figure src="/images/marzahn-route-map.png" class="route-image">}})
+19:30 Uhr - Ende des Konzertprogramms. Einladung der Festivalteilnehmer auf die Bühne. Dankesworte an die Spender,
+Übergabe von Geschenken.
