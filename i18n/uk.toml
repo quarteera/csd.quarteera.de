@@ -8,10 +8,10 @@ other = 'г'
 other = 'х'
 
 [cookie]
-other = 'Ukranian cookie'
+other = 'Ми використовуємо файли cookie, щоб покращити ваш досвід.'
 
 [accept]
-other = 'Так'
+other = 'Приймати'
 
 [decline]
-other = 'Нi'
+other = 'Відхилити'

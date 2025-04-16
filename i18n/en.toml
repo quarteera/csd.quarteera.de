@@ -8,10 +8,10 @@ other = 'H'
 other = 'M'
 
 [cookie]
-other = 'We use cookies to improve your experience. By continuing, you agree to our cookie policy.'
+other = 'We use cookies to improve your experience.'
 
 [accept]
-other = 'Yes'
+other = 'Accept'
 
 [decline]
-other = 'No'
+other = 'Decline'

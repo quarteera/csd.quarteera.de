@@ -8,10 +8,10 @@ other = 'ч'
 other = 'м'
 
 [cookie]
-other = 'Russian cookie'
+other = 'Мы используем файлы cookie для улучшения вашего опыта.'
 
 [accept]
-other = 'Да'
+other = 'Принять'
 
 [decline]
-other = 'Нет'
+other = 'Отклонить'

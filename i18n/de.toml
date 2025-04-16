@@ -8,10 +8,10 @@ other = 'S'
 other = 'M'
 
 [cookie]
-other = 'German cookie'
+other = 'Hiermit informieren wir Sie darüber, dass auf dieser Website Cookies verwendet werden.'
 
 [accept]
-other = 'Ja'
+other = 'Akzeptieren'
 
 [decline]
-other = 'Nein'
+other = 'Ablehnen'
