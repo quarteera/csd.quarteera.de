@@ -7,7 +7,8 @@ draft: false
 
 ## Unterstütze Marzahn Pride
 
-Die durchführung vom Marzahn Pride ist mit großen Ausgaben verbunden und hängt von Spenden ab. Wir bedanken uns bei Ihnen für Ihr Interesse an unserer Arbeit. 
+Die durchführung vom Marzahn Pride ist mit großen Ausgaben verbunden und hängt von Spenden ab. Wir bedanken uns bei
+Ihnen für Ihr Interesse an unserer Arbeit.
 
 ### Unser Spendenkonto lautet:
 
@@ -17,16 +18,20 @@ Die durchführung vom Marzahn Pride ist mit großen Ausgaben verbunden und häng
 **Kreditinstitut:** Deutschen Kreditbank AG, Berlin\
 **Verwendungszweck:** Marzahn Pride
 
-Spenden werden auch über PayPal entgegengenommen: [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL)
+Spenden werden auch über PayPal
+entgegengenommen: [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL)
 
 oder {{< betterplace >}}
 
 ### Steuerermäßigung
 
-Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 300 Euro (200 Euro bis 1.1.2021) legen Sie bitte Kontoauszug und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei. 
+Ihre Spenden sind steuerlich absetzbar. Bei Beträgen bis 300 Euro (200 Euro bis 1.1.2021) legen Sie bitte Kontoauszug
+und [vereinfachte Spendenbestätigung](/Spendenbestaetigung.pdf) Ihrer Steuererklärung bei.
 
-Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne per Post. Wenn Sie regelmäßig spenden oder Sachspende machen wollen, nehmen Sie bitte mit uns Kontakt auf.
+Bei größeren Beträgen geben Sie uns bitte Ihre Anschrift bekannt. Wir schicken Ihnen eine Zuwendungsbestätigung gerne
+per Post. Wenn Sie regelmäßig spenden oder eine Sachspende machen wollen, nehmen Sie bitte Kontakt mit uns auf.
 
 ### Kontaktieren Sie uns
 
-Für alle Auskünften im Zusammenhang mit den Spenden stehen wir Ihnen unter E-mail [info@quarteera.de](mailto:info@quarteera.de) zur Verfügung.
+Für alle Fragen rund um Spenden stehen wir Ihnen unter der E-Mail Adresse: [info@quarteera.de](mailto:info@quarteera.de)
+gerne zur Verfügung.

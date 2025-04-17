@@ -11,7 +11,7 @@ draft: false
 100 meters from the S-Bahn station Springpfuhl.
 Kickoff of the 6th Marzahn Pride with a manifesto reading.
 
-**13:00** — The March begins along the Allee der Kosmonauten towards Victor-Klemperer-Platz.
+**13:00** — The Parade begins along the Allee der Kosmonauten towards Victor-Klemperer-Platz.
 
 {{< figure src="/images/marzahn-route-map.jpg" class="route-image">}}
 
