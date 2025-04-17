@@ -260,9 +260,6 @@
   }
 
 
-
-
-
   .orange-button {
     margin-bottom: 1rem;
   }
@@ -354,4 +351,29 @@
     }
   }
 
+  .content-timer {
+    font-size: 3.25rem;
+    padding: 2rem 1rem 0.5rem 1rem;
+  }
+
+  .timer-style {
+    font-size: 2rem;
+    transform: none;
+    margin: 0;
+    padding: 0 0.25rem;
+  }
 }
+
+@media screen and (max-width: 480px) {
+  .content-timer {
+    font-size: 2rem;
+    padding: 1.5rem 0.75rem 0.5rem 0.75rem;
+  }
+
+  .timer-style {
+    font-size: 1rem;
+    padding: 0 0.15rem;
+  }
+
+}
+
