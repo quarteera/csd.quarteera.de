@@ -190,8 +190,11 @@
     justify-content: space-between;
     width: 100%;
 
-    .q-svg-footer, .social {
+    .q-svg-footer{
       width: 43%;
+    }
+    .social{
+      align-self: end;
     }
   }
 
