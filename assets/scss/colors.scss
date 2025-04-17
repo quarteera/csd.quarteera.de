@@ -329,6 +329,13 @@
   background-color: $dark-green;
 }
 
+.orange-button,
+.green-button,
+.purple-button,
+.blue-button {
+  color: white !important; /* force override if black comes from somewhere else */
+}
+
 @media screen and (max-width: 768px) {
   .mobile-blue-background {
     background: $blue;

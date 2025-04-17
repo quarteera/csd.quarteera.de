@@ -336,31 +336,15 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      width: 80%;
+      width: 100%;
       gap: 1rem;
-      padding: 0 1rem; /* add side padding to avoid touching screen edges */
+      padding: 0 1rem;
       box-sizing: border-box;
     }
 
     .buttons-container-mobile a {
-      display: block;
-      width: 100%; /* or 100% if you want full width */
-      max-width: 400px;
-      text-align: center;
-      padding: 1rem;
-      box-sizing: border-box;
-      border-radius: 8px; /* optional for style */
-      text-decoration: none;
-      font-weight: bold;
-      margin: 0;
-    }
-
-    .orange-button,
-    .green-button,
-    .purple-button,
-    .blue-button {
       width: 100%;
-      margin: 0 auto;
+      max-width: 400px;
     }
 
     .buttons-container-desktop {
