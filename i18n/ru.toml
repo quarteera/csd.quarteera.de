@@ -6,3 +6,12 @@ other = 'ч'
 
 [minute]
 other = 'м'
+
+[cookie]
+other = 'Мы используем файлы cookie чтобы улучшить ваш пользовательский опыт.'
+
+[accept]
+other = 'Принять'
+
+[decline]
+other = 'Отклонить'

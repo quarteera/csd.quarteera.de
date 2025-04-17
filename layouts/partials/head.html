@@ -103,4 +103,17 @@
         ]
     }</script>
     {{ end }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6KFHWGB8C"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      if (localStorage.getItem("cookieConsent") === "accepted") {
+        gtag('js', new Date());
+        gtag('config', 'G-B6KFHWGB8C');
+      }
+    </script>
 </head>

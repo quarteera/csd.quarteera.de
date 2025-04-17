@@ -1,7 +1,7 @@
 ---
 title: "Marzahn Pride"
 date: 2025-01-09T19:31:52+01:00
-dataStart: "21 Juni 2025"
+dataStart: "21. Juni 2025"
 draft: false
 image:
 ---

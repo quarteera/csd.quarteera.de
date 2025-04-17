@@ -6,3 +6,12 @@ other = 'г'
 
 [minute]
 other = 'х'
+
+[cookie]
+other = 'Ми використовуємо файли cookie, щоб покращити ваш користувацький досвід.'
+
+[accept]
+other = 'Приймати'
+
+[decline]
+other = 'Відхилити'
