@@ -706,8 +706,8 @@ body {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #222;
-  color: #fff;
+  background-color: $primary-font-color;
+  color: $inverse-font-color;
   text-align: center;
   padding: 1.5em 1em;
   z-index: 1000;
@@ -746,11 +746,11 @@ body {
 }
 
 #cookie-consent-accept {
-  background-color: #4CAF50;
-  color: white;
+  background-color: $dark-green;
+  color: $inverse-font-color;
 }
 
 #cookie-consent-decline {
-  background-color: #f44336;
-  color: white;
+  background-color: $primary-font-color;
+  color: $grey;
 }
