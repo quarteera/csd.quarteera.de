@@ -1,6 +1,6 @@
 @import "mixins";
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .body {
     min-width: auto;
 
@@ -371,9 +371,6 @@
     padding: 0 0.25rem;
   }
 
-}
-
-@media screen and (max-width: 480px) {
   .content-timer {
     font-size: 2rem;
     padding: 1.5rem 0.75rem 0.5rem 0.75rem;
@@ -383,6 +380,4 @@
     font-size: 1rem;
     padding: 0 0.15rem;
   }
-
 }
-
