@@ -94,9 +94,36 @@ img {
   text-align: center;
 }
 
-.buttons-container-desktop {
+/* Base button style used everywhere */
+.button-link {
+  display: inline-flex;         /* ensures horizontal alignment in a flex row */
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: bold;
   text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  box-sizing: border-box;
+  color: white;
+
+  width: 20%;          /* ← makes all buttons equal width, 5 buttons = 20% each */
+  min-width: 125px;    /* ← prevents buttons from becoming too narrow on small screens */
+  //flex: 1 1 20%;                /* this replaces width: 20% */
+  //min-width: 120px;
+  //max-width: 200px;
+}
+
+
+.buttons-container-desktop {
+  display: flex;
+  flex-wrap: nowrap;            /* allows wrapping if needed on smaller screens */
+  justify-content: space-between;
+  gap: 1rem;                  /* spacing between buttons */
   margin: 3rem 0;
+  padding: 0 2rem;
+  box-sizing: border-box;
 }
 
 .single-page {
