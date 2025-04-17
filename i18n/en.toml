@@ -11,7 +11,7 @@ other = 'M'
 other = 'We use cookies to improve your user experience.'
 
 [accept]
-other = 'Accept'
+other = 'Got it'
 
 [decline]
-other = 'Decline'
+other = 'Reject'
