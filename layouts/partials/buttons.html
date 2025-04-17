@@ -11,4 +11,6 @@
     <a class="purple-button" href="{{ $mitmachenPage.RelPermalink }}">{{ $mitmachenPage.Title }}</a>
     {{ end }}
     {{ $donatePage := .Site.GetPage "/spenden"  }}
+    {{ with $donatePage }}
     <a class="blue-button" href="{{ $donatePage.RelPermalink }}">{{ $donatePage.Title }}</a>
+    {{ end }}
