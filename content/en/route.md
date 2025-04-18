@@ -13,7 +13,7 @@ Kickoff of the 6th Marzahn Pride with a manifesto reading.
 
 **13:00** — The Parade begins along the Allee der Kosmonauten towards Victor-Klemperer-Platz.
 
-{{< figure src="/images/marzahn-route-map.jpg" class="route-image">}}
+{{< figure src="/images/marzahn-route-map.jpg" class="route-image" caption="Source: Google Maps">}}
 
 **15:00** — The Parade ends at Victor-Klemperer-Platz.
 
