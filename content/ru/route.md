@@ -12,7 +12,7 @@ draft: false
 
 **13:00** — Начало шествия по Allee der Kosmonauten в сторону Victor-Klemperer-Platz.
 
-{{< figure src="/images/marzahn-route-map.jpg" class="route-image">}}
+{{< figure src="/images/marzahn-route-map.jpg" class="route-image" caption="Источник: Google Maps">}}
 
 **15:00** — Завершение парада на Victor-Klemperer-Platz.
 

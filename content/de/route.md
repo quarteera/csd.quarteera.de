@@ -15,7 +15,7 @@ Gemeinsame Eröffnung der 6. Marzahn Pride und Verlesung des Manifests.
 **13:00 Uhr** – Start des festlichen Umzugs mit Musik und Truck entlang der Allee der Kosmonauten in Richtung
 Victor-Klemperer-Platz.
 
-{{< figure src="/images/marzahn-route-map.jpg" class="route-image">}}
+{{< figure src="/images/marzahn-route-map.jpg" class="route-image" caption="Quelle: Google Maps">}}
 
 **15:00 Uhr** – Ankunft am Victor-Klemperer-Platz.
 
