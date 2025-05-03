@@ -174,9 +174,16 @@
   .route-image img {
     max-width: 100%;
   }
-  .single-page .partner-image img {
-    max-width: 7rem;
-    background-color: $inverse-font-color;
+  .single-page .partner-image {
+    .partner-block {
+      width: 8rem;
+      height: 5rem;
+      margin: 0.5rem;
+    }
+
+    img {
+      max-width: 7rem;
+    }
   }
 
   .main-image {
@@ -207,11 +214,15 @@
       flex-direction: column;
       flex-wrap: nowrap;
 
+      .partner-block {
+        width: 6rem;
+        height: 3.75rem;
+        margin: 0.5rem 0;
+      }
+
       img {
         max-height: 3rem;
         max-width: 6rem;
-        padding: 0.5rem;
-        background-color: $inverse-font-color;
       }
     }
   }
