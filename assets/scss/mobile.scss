@@ -174,8 +174,26 @@
   .route-image img {
     max-width: 100%;
   }
-  .single-page .partner-image img {
-    max-width: 7rem;
+  .single-page .partner-image {
+    .partner-block {
+      width: 8rem;
+      height: 5rem;
+      margin: 0.5rem;
+
+      a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+    img {
+      max-width: 7rem;
+      object-fit: contain;
+      margin: auto;
+    }
   }
 
   .main-image {
@@ -195,6 +213,37 @@
     }
     .social{
       align-self: end;
+    }
+  }
+
+  .footer-partners {
+    width: 100%;
+    margin: 1.5rem 0;
+
+    .partner-image {
+      flex-direction: column;
+      flex-wrap: nowrap;
+
+      .partner-block {
+        width: 6rem;
+        height: 3.75rem;
+        margin: 0.5rem 0;
+
+        a {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          height: 100%;
+        }
+      }
+
+      img {
+        max-height: 2.75rem;
+        max-width: 5rem;
+        object-fit: contain;
+        margin: auto;
+      }
     }
   }
 
