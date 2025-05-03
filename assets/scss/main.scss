@@ -146,6 +146,7 @@ img {
     max-width: 8rem;
     border-radius: 0rem;
     padding: 0.3rem;
+    background-color: $inverse-font-color;
   }
 
   .article-logo {
@@ -228,11 +229,12 @@ img {
     justify-content: center;
 
     img {
-      max-height: 3.75rem;
-      max-width: 7.5rem;
-      border-radius: 0;
+      max-height: 4rem;
+      max-width: 8rem;
+      border-radius: 0.25rem;
       padding: 0 0.5rem;
       filter: brightness(100%);
+      background-color: $background-color;
     }
   }
 }

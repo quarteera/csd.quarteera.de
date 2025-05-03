@@ -176,6 +176,7 @@
   }
   .single-page .partner-image img {
     max-width: 7rem;
+    background-color: $inverse-font-color;
   }
 
   .main-image {
@@ -210,6 +211,7 @@
         max-height: 3rem;
         max-width: 6rem;
         padding: 0.5rem;
+        background-color: $inverse-font-color;
       }
     }
   }
