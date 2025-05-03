@@ -214,6 +214,29 @@ img {
   margin-right: 1rem;
 }
 
+.footer-partners {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: auto 0;
+
+  .partner-image {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+
+    img {
+      max-height: 3.75rem;
+      max-width: 7.5rem;
+      border-radius: 0;
+      padding: 0 0.5rem;
+      filter: brightness(100%);
+    }
+  }
+}
+
 .dots-container {
   display: none;
 }
