@@ -179,10 +179,20 @@
       width: 8rem;
       height: 5rem;
       margin: 0.5rem;
+
+      a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+      }
     }
 
     img {
       max-width: 7rem;
+      object-fit: contain;
+      margin: auto;
     }
   }
 
@@ -218,11 +228,21 @@
         width: 6rem;
         height: 3.75rem;
         margin: 0.5rem 0;
+
+        a {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          height: 100%;
+        }
       }
 
       img {
-        max-height: 3rem;
-        max-width: 6rem;
+        max-height: 2.75rem;
+        max-width: 5rem;
+        object-fit: contain;
+        margin: auto;
       }
     }
   }

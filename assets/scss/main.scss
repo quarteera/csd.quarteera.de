@@ -151,11 +151,21 @@ img {
       border-radius: 0.5rem;
       margin: 0.5rem;
       padding: 0.5rem;
+
+      a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+      }
     }
 
     img {
       max-width: 8rem;
       border-radius: 0rem;
+      object-fit: contain;
+      margin: auto;
     }
   }
 
@@ -243,11 +253,19 @@ img {
       align-items: center;
       justify-content: center;
       width: 7.5rem;
-      height: 4.5rem;
-      background-color: $inverse-font-color;
+      height: 4rem;
+      background-color: $background-color;
       border-radius: 0.5rem;
       margin: 0 0.5rem;
-      padding: 0.5rem;
+      padding: 0.75rem 0.5rem 0.5rem;
+
+      a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+      }
     }
 
     img {
@@ -255,6 +273,8 @@ img {
       max-width: 7rem;
       border-radius: 0.25rem;
       filter: brightness(100%);
+      object-fit: contain;
+      margin: auto;
     }
   }
 }
