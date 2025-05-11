@@ -5,10 +5,10 @@ dataStart: ""
 draft: false
 image:
 ---
+{{< center >}} # Manifest {{< /center >}}
 
 {{< figure src="/images/marzahn_pride_2025/MP_banner_en.png" width=100% alt="Marzahn Pride 2025 Banner" class="banner-gap" >}}
 
-{{< center >}} # Manifest {{< /center >}}
 
 Six years ago, we marched in Marzahn for the very first time. It was bold. It was a little scary. But it was truly important.
 

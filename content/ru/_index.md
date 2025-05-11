@@ -6,9 +6,9 @@ draft: false
 image:
 ---
 
-{{< figure src="/images/marzahn_pride_2025/MP_banner_ru.png" width=100% alt="Marzahn Pride 2025 Banner" class="banner-gap" >}}
-
 {{< center >}} # Манифест {{< /center >}}
+
+{{< figure src="/images/marzahn_pride_2025/MP_banner_ru.png" width=100% alt="Marzahn Pride 2025 Banner" class="banner-gap" >}}
 
 Шесть лет назад мы впервые провели Марцан Прайд. Это было смело. Это было немного страшно.
 Но это было по-настоящему важно.

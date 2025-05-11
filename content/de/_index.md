@@ -6,9 +6,9 @@ draft: false
 image:
 ---
 
-{{< figure src="/images/marzahn_pride_2025/MP_banner_de.png" width=100% alt="Marzahn Pride 2025 Banner" class="banner-gap" >}}
-
 {{< center >}} # Manifest {{< /center >}}
+
+{{< figure src="/images/marzahn_pride_2025/MP_banner_de.png" width=100% alt="Marzahn Pride 2025 Banner" class="banner-gap" >}}
 
 Vor sechs Jahren haben wir zum ersten Mal die Pride in Marzahn veranstaltet. Es war mutig. Es war ein bisschen
 beängstigend. Aber es war wirklich wichtig.
