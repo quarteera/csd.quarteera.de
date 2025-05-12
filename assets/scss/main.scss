@@ -96,7 +96,7 @@ img {
 
 /* Base button style used everywhere */
 .button-link {
-  display: inline-flex;         /* ensures horizontal alignment in a flex row */
+  display: inline-flex; /* ensures horizontal alignment in a flex row */
   align-items: center;
   justify-content: center;
   padding: 0.75rem 1.5rem;
@@ -108,8 +108,8 @@ img {
   box-sizing: border-box;
   color: white;
 
-  width: 20%;          /* ← makes all buttons equal width, 5 buttons = 20% each */
-  min-width: 125px;    /* ← prevents buttons from becoming too narrow on small screens */
+  width: 20%; /* ← makes all buttons equal width, 5 buttons = 20% each */
+  min-width: 125px; /* ← prevents buttons from becoming too narrow on small screens */
   //flex: 1 1 20%;                /* this replaces width: 20% */
   //min-width: 120px;
   //max-width: 200px;
@@ -118,9 +118,9 @@ img {
 
 .buttons-container-desktop {
   display: flex;
-  flex-wrap: nowrap;            /* allows wrapping if needed on smaller screens */
+  flex-wrap: nowrap; /* allows wrapping if needed on smaller screens */
   justify-content: space-between;
-  gap: 1rem;                  /* spacing between buttons */
+  gap: 1rem; /* spacing between buttons */
   margin: 3rem 0;
   padding: 0 2rem;
   box-sizing: border-box;
@@ -140,32 +140,32 @@ img {
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 1rem; /* Spacing between items */
 
     .partner-block {
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 10rem;
-      height: 6rem;
-      background-color: $inverse-font-color;
-      border-radius: 0.5rem;
-      margin: 0.5rem;
-      padding: 0.5rem;
+      min-width: 5rem; /* Minimum width */
+      min-height: 5rem; /* Minimum height */
+      background-color: $background-color;
+      border-radius: 0.2rem;
+      margin: 0.2rem;
+      padding: 1rem;
 
       a {
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 100%;
-        height: 100%;
       }
-    }
 
-    img {
-      max-width: 8rem;
-      border-radius: 0rem;
-      object-fit: contain;
-      margin: auto;
+      img {
+        max-width: 20rem;
+        max-height: 10rem;
+        border-radius: 0;
+        object-fit: contain; /* Maintain aspect ratio */
+        margin: auto;
+      }
     }
   }
 
@@ -252,28 +252,19 @@ img {
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 7.5rem;
-      height: 4rem;
+      min-width: 5rem; /* Minimum width */
+      min-height: 3rem; /* Minimum height */
       background-color: $background-color;
       border-radius: 0.5rem;
-      margin: 0 0.5rem;
-      padding: 0.75rem 0.5rem 0.5rem;
-
-      a {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100%;
-        height: 100%;
-      }
+      margin: 0.25rem;
+      padding: 0.5rem;
     }
 
     img {
-      max-height: 4rem;
-      max-width: 7rem;
-      border-radius: 0.25rem;
+      max-height: 3rem;
+      max-width: 10rem;
       filter: brightness(100%);
-      object-fit: contain;
+      object-fit: contain; /* Maintain aspect ratio */
       margin: auto;
     }
   }
