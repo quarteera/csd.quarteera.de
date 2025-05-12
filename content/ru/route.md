@@ -12,7 +12,7 @@ draft: false
 
 **13:00** — Начало шествия по Allee der Kosmonauten в сторону Victor-Klemperer-Platz.
 
-{{< figure src="/images/marzahn-route-map.jpg" class="route-image" caption="Источник: Google Maps">}}
+{{< figure src="/images/marzahn_pride_2025/marzahn-pride-route-ru.png" class="route-image">}}
 
 **15:00** — Завершение парада на Victor-Klemperer-Platz.
 
