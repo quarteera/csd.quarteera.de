@@ -6,6 +6,18 @@ draft: false
 image:
 ---
 
+**📣 Feiern wir Marzahn Pride mit unserem neuen Telegram-Bot!**
+
+Der Pride ist schon bald — am 21. Juni — und wir haben einen praktischen Helfer für euch vorbereitet, damit das Fest bunt, sicher und gut organisiert abläuft!
+
+**🤖 Unser Bot ist dein Guide für den Marzahn Pride:**
+
+🔸 Zeigt dir die Route und das Veranstaltungsprogramm;  
+🔸 Informiert über aktuelle Updates;  
+🔸 Erstellt ein Pride-Profilbild — zeige deine Unterstützung!  
+
+🔗 Starte den Bot hier: [@marzahn_pride_bot](https://t.me/marzahn_pride_bot)
+
 {{< center >}} # Manifest {{< /center >}}
 
 {{< figure src="/images/marzahn_pride_2025/MP_banner_de.png" width=100% alt="Marzahn Pride 2025 Banner" class="banner-gap" >}}
