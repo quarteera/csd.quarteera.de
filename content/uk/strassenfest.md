@@ -12,7 +12,7 @@ draft: false
 
 **16:00** – Правління Quarteera, Alfonso Pantisano – «Квір-уповноважений»
 
-**16:20** – [Moore](https://www.instagram.com/_itsmoore_/)
+**16:20** – [ZAVET](https://www.instagram.com/zavetmusic?igsh=enE1cDh3c3c3amps)
 
 **16:55** – Cansel Kızıltepe – сенаторка з питань праці, соціальної політики, рівності, інтеграції, різноманіття та боротьби з дискримінацією
 
@@ -20,6 +20,8 @@ draft: false
 
 **17:50** – Анастасія Судзіловська – BVRE
 
-**18:00** – Виступи
+**18:00** – Перфоманс
+
+**18:35** - [Moore](https://www.instagram.com/_itsmoore_/)
 
 **19:10** – Завершення фестивалю

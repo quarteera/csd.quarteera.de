@@ -12,7 +12,7 @@ summary: "Marzahn Pride und Straßenfest Programm"
 
 **16:00** - Vorstand Quarteera, Alfonso Pantisano - „Queer-Beauftragter“
 
-**16:20** - [Moore](https://www.instagram.com/_itsmoore_/)
+**16:20** – [ZAVET](https://www.instagram.com/zavetmusic?igsh=enE1cDh3c3c3amps)
 
 **16:55** - Cansel Kızıltepe - Senatorin für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung
 
@@ -20,7 +20,9 @@ summary: "Marzahn Pride und Straßenfest Programm"
 
 **17:50** - Anastasia Sudzilovskaya - BVRE
 
-**18:00** - Aufführungen
+**18:00** - Aufführung
+
+**18:35** - [Moore](https://www.instagram.com/_itsmoore_/)
 
 **19:10** - Festivalabschluss
 

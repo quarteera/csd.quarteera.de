@@ -12,7 +12,7 @@ draft: false
 
 **16:00** – Quarteera board, Alfonso Pantisano – “Queer Commissioner”
 
-**16:20** – [Moore](https://www.instagram.com/_itsmoore_/)
+**16:20** – [ZAVET](https://www.instagram.com/zavetmusic?igsh=enE1cDh3c3c3amps)
 
 **16:55** – Cansel Kızıltepe – Senator for Labour, Social Affairs, Equality, Integration, Diversity and Anti-Discrimination
 
@@ -20,7 +20,9 @@ draft: false
 
 **17:50** – Anastasia Sudzilovskaya – BVRE
 
-**18:00** – Performances
+**18:00** – Performance
+
+**18:35** - [Moore](https://www.instagram.com/_itsmoore_/)
 
 **19:10** – Festival closing
 

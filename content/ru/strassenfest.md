@@ -12,7 +12,7 @@ draft: false
 
 **16:00** – Правление Quarteera, Alfonso Pantisano – «Уполномоченный по делам ЛГБТК+»
 
-**16:20** – [Moore](https://www.instagram.com/_itsmoore_/)
+**16:20** – [ZAVET](https://www.instagram.com/zavetmusic?igsh=enE1cDh3c3c3amps)
 
 **16:55** – Cansel Kızıltepe – сенатор по вопросам труда, социальной политики, равноправия, интеграции, многообразия и противодействия дискриминации
 
@@ -20,6 +20,8 @@ draft: false
 
 **17:50** – Анастасия Судзиловская – BVRE
 
-**18:00** – Выступления
+**18:00** – Перфоманс
+
+**18:35** - [Moore](https://www.instagram.com/_itsmoore_/)
 
 **19:10** – Завершение фестиваля
