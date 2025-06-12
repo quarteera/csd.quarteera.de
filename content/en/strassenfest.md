@@ -8,19 +8,19 @@ draft: false
 
 {{< center >}} # 🎤 Concert {{< /center >}}
 
-**15:00–16:00** – DJ
+**15:00** – DJ
 
-**16:00–16:20** – Quarteera board, Alfonso Pantisano – “Queer Commissioner”
+**16:00** – Quarteera board, Alfonso Pantisano – “Queer Commissioner”
 
-**16:20–16:55** – [Moore](https://www.instagram.com/_itsmoore_/)
+**16:20** – [Moore](https://www.instagram.com/_itsmoore_/)
 
-**16:55–17:10** – Cansel Kızıltepe – Senator for Labour, Social Affairs, Equality, Integration, Diversity and Anti-Discrimination
+**16:55** – Cansel Kızıltepe – Senator for Labour, Social Affairs, Equality, Integration, Diversity and Anti-Discrimination
 
-**17:10–17:50** – Band “MAKOM” – [Kostiantyn Rakovskyi (vocals)](https://www.instagram.com/kos.rakovskyi), [Shakula Mariia (guitar)](https://www.instagram.com/maria.shakula/)
+**17:10** – Band “MAKOM” – [Kostiantyn Rakovskyi (vocals)](https://www.instagram.com/kos.rakovskyi), [Shakula Mariia (guitar)](https://www.instagram.com/maria.shakula/)
 
-**17:50–18:00** – Anastasia Sudzilovskaya – BVRE
+**17:50** – Anastasia Sudzilovskaya – BVRE
 
-**18:00–19:10** – Performances
+**18:00** – Performances
 
-**19:10–19:20** – Festival closing
+**19:10** – Festival closing
 

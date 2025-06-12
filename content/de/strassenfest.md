@@ -8,21 +8,21 @@ summary: "Marzahn Pride und Straßenfest Programm"
 
 {{< center >}} # 🎤 Konzert {{< /center >}}
 
-**15:00-16:00** - DJ
+**15:00** - DJ
 
-**16:00-16:20** - Vorstand Quarteera, Alfonso Pantisano - „Queer-Beauftragter“
+**16:00** - Vorstand Quarteera, Alfonso Pantisano - „Queer-Beauftragter“
 
-**16:20-16:55** - [Moore](https://www.instagram.com/_itsmoore_/)
+**16:20** - [Moore](https://www.instagram.com/_itsmoore_/)
 
-**16:55-17:10** - Cansel Kızıltepe - Senatorin für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung
+**16:55** - Cansel Kızıltepe - Senatorin für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung
 
-**17:10-17:50** - Gruppe "МАКОМ" - [Kostiantyn Rakovskyi (Gesang)](https://www.instagram.com/kos.rakovskyi), [Shakula Mariia (Gitarre)](https://www.instagram.com/maria.shakula/)
+**17:10** - Gruppe "МАКОМ" - [Kostiantyn Rakovskyi (Gesang)](https://www.instagram.com/kos.rakovskyi), [Shakula Mariia (Gitarre)](https://www.instagram.com/maria.shakula/)
 
-**17:50-18:00** - Anastasia Sudzilovskaya - BVRE
+**17:50** - Anastasia Sudzilovskaya - BVRE
 
-**18:00-19:10** - Aufführungen
+**18:00** - Aufführungen
 
-**19:10-19:20** - Festivalabschluss
+**19:10** - Festivalabschluss
 
 
 
