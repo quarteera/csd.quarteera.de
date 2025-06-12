@@ -1,37 +1,25 @@
 ---
-title: "Фестиваль" # Title of your project
+title: "Концерт" # Title of your project
 date: 2024-06-09T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 summary: "Програма Марцан Прайду та вуличного фестивалю"
-draft: true
+draft: false
 ---
 
-{{< center >}} # Фестиваль {{< /center >}}
+{{< center >}} # 🎤 Концерт {{< /center >}}
 
+**15:00–16:00** – DJ
 
-З **14:30 до 19** на **Victor-Klemperer-Platz** ми проводимо вуличний фестиваль, де виступатимуть квір-артист_ки з PostOst-країн. 
-На фестивалі можна буде відпочивати, танцювати, зустрічатися з однодумцями та куштувати смачну їжу. Наступні організації презентують свої стенди та інтерактивні акції для гостей.
+**16:00–16:20** – Правління Quarteera, Alfonso Pantisano – «Квір-уповноважений»
 
-## Lineup
-* [SEVA](https://www.instagram.com/sevagramm)
-* [Кÿдесник ☾](https://www.instagram.com/kudesnikmusic/) Rostislav Mazurkevich, Ukrainian minstrel, singer-songwriter
-* [Folkloregruppe "Popuri"](https://www.facebook.com/share/wtyEmn7yB4ochgXq/)
-* [Sveta Ben](https://www.instagram.com/chikissecrets) & [Galya Chikiss](https://www.instagram.com/sveta.ben)
-* [Schisandra Who](https://instagram.com/schisandra.who) Belarusian queer activist Zmicier
-* [MKSM](https://www.instagram.com/mksm.music) Singer, songwriter, violinist, and activist
-* [Aloe Vera](https://www.instagram.com/aloeband/) Pop-Rock-Band
+**16:20–16:55** – [Moore](https://www.instagram.com/_itsmoore_/)
 
+**16:55–17:10** – Cansel Kızıltepe – сенаторка з питань праці, соціальної політики, рівності, інтеграції, різноманіття та боротьби з дискримінацією
 
-## Afterparty
-**[BUSCHE Club](https://maps.app.goo.gl/pyHfXjk4eZbBC8Gy7)**
+**17:10–17:50** – Гурт «МАКОМ» – [Костянтин Раковський (вокал)](https://www.instagram.com/kos.rakovskyi), [Марiя Шакула (гітара)](https://www.instagram.com/maria.shakula/)
 
-**1st Floor:**\
-**20.00-22.00** DJ Neo21 \
-**22.00-00.00** DJ Kirill Shapovalov\
-**00.00-02.00** DJ Séxstasy\
-**02.00-04.00** DJ Timon Richard\
-**04.00-06.00** DJ Lady Suka\
+**17:50–18:00** – Анастасія Судзіловська – BVRE
 
-**2nd Floor:**\
-**22.00-05.00** DJ MOLOKO
+**18:00–19:10** – Виступи
 
+**19:10–19:20** – Завершення фестивалю
