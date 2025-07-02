@@ -1,5 +1,5 @@
 function renderTimer() {
-  var countDownDate = new Date(2026, 6, 20, 12, 0, 0).getTime();
+  var countDownDate = new Date(2026, 5, 20, 12, 0, 0).getTime();
   var now = new Date().getTime();
   var days, hours, minutes, seconds;
 
