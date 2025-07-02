@@ -1,7 +1,7 @@
 ---
-title: ""
-date: 2025-01-09T19:31:52+01:00
-dataStart: ""
+title: "Marzahn Pride 2026"
+date: 2026-06-20T19:31:52+01:00
+dataStart: "20. Juni 2026"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Марцан Прайд 2026"
 date: 2025-01-09T19:31:52+01:00
-dataStart: ""
+dataStart: "20 Июня 2026"
 draft: false
 image:
 ---
