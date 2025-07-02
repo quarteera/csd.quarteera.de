@@ -1,13 +1,12 @@
 function renderTimer() {
-  //var countDownDate = new Date("Juni 18, 2022 12:00:00").getTime();
-  var countDownDate = new Date(2025, 5, 21, 13, 0, 0).getTime();
+  var countDownDate = new Date(2026, 6, 20, 12, 0, 0).getTime();
   var now = new Date().getTime();
   var days, hours, minutes, seconds;
 
   var daysTimer = document.getElementById("dayTimer");
   var hourTimer = document.getElementById("hourTimer");
   var minuteTimer = document.getElementById("minuteTimer");
-  var secondTimer = document.getElementById("secondTimer");
+  //var secondTimer = document.getElementById("secondTimer");
 
   var distance = countDownDate - now;
 
