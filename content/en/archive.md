@@ -110,7 +110,7 @@ and the only thing we should fight against is our stereotypes about each other. 
  \
 We want to talk about our identity. What it is like to be a migrant and at the same time gay, lesbian, bi/pan or
 trans-person* in Germany. We also want to talk about the dangers faced by the LGBT+ community in Eastern Europe
-and Central Asia \
+and Central Asia. \
  \
 The language of war and hatred plunges us all into an atmosphere of intolerance, anxiety and fear, no one needs it.
 We believe that at a celebration of openness and diversity, we will be able to get to know each other a little bit better
