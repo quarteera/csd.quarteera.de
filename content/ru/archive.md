@@ -16,29 +16,31 @@ https://www.youtube-nocookie.com/embed/6CzPvqaBEoE?si=e6guVdBYlLs-pBe_
 
 # Manifests
 
-{{< collapse title="**2025: Wir sind verschieden. Wir stehen zusammen.**" color="red">}}
-Vor sechs Jahren haben wir zum ersten Mal die Pride in Marzahn veranstaltet. Es war mutig. Es war ein bisschen
-beängstigend. Aber es war wirklich wichtig. Seitdem haben wir verschiedene Slogans herausgebracht - inspirierend
-und provokativ, persönlich und politisch. Aber immer aufrichtig. Wir haben uns geoutet, um offen über uns selbst
-zu sprechen: über unsere Rechte, über unsere Identität, über die Freiheit, wir selbst zu sein. Wir haben
-einen langen Weg hinter uns. Und das Wichtigste auf diesem Weg ist nicht nur der Kampf um Sichtbarkeit,
-sondern auch die Möglichkeit, mit anderen zusammen zu sein, zu hören und gehört zu werden. In sechs Jahren ist
-die Marzahn Pride zu einer Veranstaltung geworden, die sehr unterschiedliche Menschen auf der Grundlage einfacher
-und wichtiger Werte vereint: Akzeptanz, Solidarität, Respekt und das Recht, ohne Angst zu leben. Und wir sind
-stolz darauf, diesen Raum gemeinsam zu gestalten. \
-\
-Doch wir sehen auch die zunehmende Radikalisierung der Gesellschaften in der heutigen Welt, und wir fürchten,
-zu welchen Folgen dies führen kann. Die Radikalisierung wird immer deutlicher: Die Menschen hören einander
-nicht mehr zu, und Angst und Hass werden zum wichtigsten Instrument der Politiker. Viele von uns mussten vor
-autoritären Regimen, Kriegen und Diktaturen fliehen. Deshalb ist die Teilnahme an dieser Parade nicht nur ein Akt
-der Solidarität. Es ist eine Notwendigkeit. Wir stehen für einen offenen und aufrichtigen Dialog; dafür,
-die Gesellschaft zu vereinen, statt sie zu spalten. Wir glauben, dass wir in der Vielfalt und im gegenseitigen
-Respekt unsere gemeinsame Stärke und die Fähigkeit finden, einen positiven Wandel herbeizuführen.
-**Wir sagen: "Wir sind verschieden. Wir stehen zusammen."** \
-\
-Wir laden alle, die unsere Werte teilen und in einer Gesellschaft ohne Diskriminierung und Gewalt leben wollen,
-ein, sich uns anzuschließen und gemeinsam für die Menschenrechte, die Achtung des Einzelnen und die Gleichheit
-aller Menschen ohne Ausnahme einzutreten.
+{{< collapse title="**2025: Мы разные. Мы вместе.**" color="red">}}
+Шесть лет назад мы впервые провели Марцан прайд. Это было смело. Это было немного страшно. Но это было по-настоящему важно. \
+ \
+С тех пор мы выходили с разными лозунгами — вдохновляющими и провокационными, личными и политическими. 
+Но всегда — искренними. Мы выходили, чтобы открыто говорить о себе: о наших правах, о наших идентичностях, о свободе быть собой. \
+ \
+Мы прошли длинный путь. И главное на этом пути — не только борьба за видимость, но и возможность быть рядом с другими,
+слышать и быть услышанными. \
+ \
+За шесть лет Марцан-Прайд стал событием, которое объединяет очень разных людей вокруг простых и важных ценностей:
+принятия, солидарности, уважения и права на жизнь без страха. И мы гордимся тем, что строим это пространство вместе. \
+ \
+Но также мы видим, как в мире усиливается радикализация общества, и опасаемся того, к чему она может привести.
+Это становится всё заметнее: люди перестают слышать и слушать друг друга, а страх и ненависть используются
+как главный инструмент политиков. \
+ \
+Многим из нас пришлось бежать от авторитарных режимов, войн и диктатур. Поэтому выход на этот прайд —
+не просто акция солидарности. Это необходимость. \
+ \
+Мы выступаем за открытый и искренний диалог; за объединение, а не разделение общества. Мы верим, что именно в
+разнообразии и взаимном уважении кроется наша общая сила и возможность двигаться к позитивным изменениям.
+**Мы говорим: Мы разные. Мы вместе.** \
+ \
+Мы приглашаем всех, кто разделяет наши ценности, кто стремится жить в обществе, свободном от дискриминации и насилия,
+присоединиться к нам и идти вместе — ради прав человека, уважения к личности и равенства для всех людей без исключения.
 {{< /collapse >}}
 
 {{< collapse title="**2024: Queer как Свобода**" color="orange">}}
