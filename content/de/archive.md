@@ -8,15 +8,11 @@ draft: false
 
 # Videos
 
-{{< center >}}## 2025 {{< /center >}}
-{{< youtube "https://www.youtube-nocookie.com/embed/3Zee6X4SqO4?si=g2PRiVpx_f5d5ZEn" >}}
-
-{{< center >}}## 2024 {{< /center >}}
-{{< youtube "https://www.youtube-nocookie.com/embed/rnPg1tzvkR4?si=pK3RYVMDJ4Ok_J8_" >}}
-
-
-{{< center >}}## 2023 {{< /center >}}
-{{< youtube "https://www.youtube-nocookie.com/embed/6CzPvqaBEoE?si=e6guVdBYlLs-pBe_" >}}
+{{< youtube >}}
+https://www.youtube-nocookie.com/embed/3Zee6X4SqO4?si=g2PRiVpx_f5d5ZEn
+https://www.youtube-nocookie.com/embed/rnPg1tzvkR4?si=pK3RYVMDJ4Ok_J8_
+https://www.youtube-nocookie.com/embed/6CzPvqaBEoE?si=e6guVdBYlLs-pBe_
+{{< /youtube >}}
 
 # Manifests
 

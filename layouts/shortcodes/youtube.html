@@ -1,37 +1,36 @@
 {{/*
-Simplified YouTube shortcode
+YouTube shortcode without parameters that renders a grid of videos from its body.
 
-Usage (only link is accepted):
-  {{< youtube "https://www.youtube-nocookie.com/embed/VIDEO_ID?param=value" >}}
-  {{< youtube "https://www.youtube.com/watch?v=VIDEO_ID" >}}
-  {{< youtube "https://youtu.be/VIDEO_ID" >}}
+Usage:
+{{< youtube >}}
+https://www.youtube-nocookie.com/embed/VIDEO_ID_1
+https://www.youtube.com/watch?v=VIDEO_ID_2
+https://youtu.be/VIDEO_ID_3
+{{< /youtube >}}
 
-Notes:
-- The link you pass is used verbatim as the iframe src.
-- Sizes are fixed to 680x382 (desktop) and 400x300 (mobile) to match the current layout.
+- Each non-empty line inside the shortcode body is treated as a video URL.
+- The URL is used verbatim as iframe src (no parsing or rewriting).
+- Outputs the same grid markup as youtubegrid.
 */}}
 
-{{/* Simplified YouTube shortcode: accept only a full link and use it as-is. */}}
-{{ $link := .Get 0 }}
-{{ if not $link }}
-  {{ errorf "youtube shortcode requires a single positional parameter: the full video link" }}
+{{ $inner := trim .Inner " \t\r\n" }}
+{{ if not $inner }}
+{{ errorf "youtube shortcode requires body content: put one video URL per line inside the shortcode" }}
 {{ end }}
 
-{{/* Fixed sizes matching current layout */}}
-{{ $desktopWidth  := "680" }}
-{{ $desktopHeight := "382" }}
-{{ $mobileWidth   := "400" }}
-{{ $mobileHeight  := "300" }}
+{{ $lines := split $inner "\n" }}
 
-<div class="youtube-content-desktop">
-  <iframe width="{{ $desktopWidth }}" height="{{ $desktopHeight }}" src="{{ $link }}"
-          title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
-</div>
-<div class="youtube-content-mobile">
-  <iframe width="{{ $mobileWidth }}" height="{{ $mobileHeight }}" src="{{ $link }}"
-          title="YouTube video player" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
+<div class="youtube-grid">
+    {{ range $lines }}
+    {{ $url := trim . " \t\r\n" }}
+    {{ if $url }}
+    <div class="youtube-grid-item">
+        <div class="youtube-grid-aspect">
+            <iframe src="{{ $url }}" title="YouTube video" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    {{ end }}
+    {{ end }}
 </div>
