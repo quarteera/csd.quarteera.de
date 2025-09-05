@@ -1,0 +1,37 @@
+{{/*
+Simplified YouTube shortcode
+
+Usage (only link is accepted):
+  {{< youtube "https://www.youtube-nocookie.com/embed/VIDEO_ID?param=value" >}}
+  {{< youtube "https://www.youtube.com/watch?v=VIDEO_ID" >}}
+  {{< youtube "https://youtu.be/VIDEO_ID" >}}
+
+Notes:
+- The link you pass is used verbatim as the iframe src.
+- Sizes are fixed to 680x382 (desktop) and 400x300 (mobile) to match the current layout.
+*/}}
+
+{{/* Simplified YouTube shortcode: accept only a full link and use it as-is. */}}
+{{ $link := .Get 0 }}
+{{ if not $link }}
+  {{ errorf "youtube shortcode requires a single positional parameter: the full video link" }}
+{{ end }}
+
+{{/* Fixed sizes matching current layout */}}
+{{ $desktopWidth  := "680" }}
+{{ $desktopHeight := "382" }}
+{{ $mobileWidth   := "400" }}
+{{ $mobileHeight  := "300" }}
+
+<div class="youtube-content-desktop">
+  <iframe width="{{ $desktopWidth }}" height="{{ $desktopHeight }}" src="https://www.youtube-nocookie.com/embed/3Zee6X4SqO4?si=g2PRiVpx_f5d5ZEn"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+</div>
+<div class="youtube-content-mobile">
+  <iframe width="{{ $mobileWidth }}" height="{{ $mobileHeight }}" src="https://www.youtube-nocookie.com/embed/3Zee6X4SqO4?si=g2PRiVpx_f5d5ZEn"
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+</div>
