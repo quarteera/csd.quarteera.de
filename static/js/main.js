@@ -68,3 +68,24 @@ navSlide();
 selectLanguage();
 
 document.addEventListener("DOMContentLoaded", consentCookie);
+
+function initCollapsible() {
+    const coll = document.querySelectorAll(".collapsible");
+    //console.log("init collapse", coll)
+    coll.forEach(item => item.addEventListener("click", function () {
+        this.classList.toggle("collapsible-active");
+        const content = this.nextElementSibling;
+        //console.log("Click collapse", content.style.maxHeight, content.scrollHeight, content.offsetHeight)
+        if (content.style.maxHeight) {
+            content.style.maxHeight = null;
+        } else {
+            content.style.maxHeight = content.scrollHeight + 18 + "px";
+        }
+    }));
+}
+
+const init = () => {
+    initCollapsible();
+}
+
+window.onload = init;
