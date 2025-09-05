@@ -24,13 +24,13 @@ Notes:
 {{ $mobileHeight  := "300" }}
 
 <div class="youtube-content-desktop">
-  <iframe width="{{ $desktopWidth }}" height="{{ $desktopHeight }}" src="https://www.youtube-nocookie.com/embed/3Zee6X4SqO4?si=g2PRiVpx_f5d5ZEn"
+  <iframe width="{{ $desktopWidth }}" height="{{ $desktopHeight }}" src="{{ $link }}"
           title="YouTube video player" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen></iframe>
 </div>
 <div class="youtube-content-mobile">
-  <iframe width="{{ $mobileWidth }}" height="{{ $mobileHeight }}" src="https://www.youtube-nocookie.com/embed/3Zee6X4SqO4?si=g2PRiVpx_f5d5ZEn"
+  <iframe width="{{ $mobileWidth }}" height="{{ $mobileHeight }}" src="{{ $link }}"
           title="YouTube video player" frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen></iframe>
