@@ -63,13 +63,16 @@ der Menschlichkeit und Gemeinschaft. \
 \
 ● Wir kämpfen für volle Inklusion und den Schutz der Rechte jedes Mitglieds der LGBTQ+-Gemeinschaft.
 Unser Ziel ist die Gleichberechtigung für alle, unabhängig von sexueller Orientierung oder Geschlechtsidentität. \
+\
 ● Wir treten entschieden gegen den Aufstieg rechtsextremer Kräfte und Ideologien sowie gegen Gesetze ein,
 die die Freiheit von LGBTQ+-Menschen in der Welt unterdrücken. \
+\
 ● Wir verteidigen das Recht auf Individualität und rufen zur Anerkennung und Zelebrierung unserer einzigartigen Vielfalt auf. \
+\
 ● Wir verurteilen Krieg und Gewalt und setzen uns für den Schutz der Menschenrechte und die Unterstützung aller ein,
 die von Aggression und Ungerechtigkeit betroffen sind. \
 \
-In einer Welt voller Widersprüche und Auseinandersetzungen rufen wir dazu auf, sich um die Liebe zu versammeln
+● In einer Welt voller Widersprüche und Auseinandersetzungen rufen wir dazu auf, sich um die Liebe zu versammeln
 \- den wahren Wert des Lebens. \
 \
 Schließen Sie uns beim Pride in Marzahn an, um unsere Widerstandsfähigkeit gegen die Herausforderungen der Zeit gemeinsam
