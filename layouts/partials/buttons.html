@@ -6,9 +6,9 @@
     {{ with $strassenfestPage }}
     <a class="button-link green-button" href="{{ $strassenfestPage.RelPermalink }}">{{ $strassenfestPage.Title }}</a>
     {{ end }}
-    {{ $mitmachenPage := .Site.GetPage "/manifest"  }}
-    {{ with $mitmachenPage }}
-    <a class="button-link purple-button" href="{{ $mitmachenPage.RelPermalink }}">{{ $mitmachenPage.Title }}</a>
+    {{ $archivePage := .Site.GetPage "/archive"  }}
+    {{ with $archivePage }}
+    <a class="button-link purple-button" href="{{ $archivePage.RelPermalink }}">{{ $archivePage.Title }}</a>
     {{ end }}
     {{ $donatePage := .Site.GetPage "/spenden"  }}
     {{ with $donatePage }}
