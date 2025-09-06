@@ -701,10 +701,40 @@ body {
 
 .youtube-content-desktop {
   @include center;
+  margin: 1rem 0; /* add vertical gap around desktop YouTube block */
 }
 
 .youtube-content-mobile {
   display: none;
+  margin: 1rem 0; /* add vertical gap when mobile video is shown */
+}
+
+/* YouTube grid styles */
+.youtube-grid {
+  display: grid;
+  grid-template-columns: repeat( auto-fill, minmax(280px, 1fr) );
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.youtube-grid-item {
+  background: transparent;
+}
+
+/* Maintain 16:9 aspect ratio for iframes */
+.youtube-grid-aspect {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 */
+}
+
+.youtube-grid-aspect iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 
 .buttons-container-mobile {
@@ -813,4 +843,50 @@ body {
 #cookie-consent-decline {
   background-color: $primary-font-color;
   color: $grey;
+}
+
+.collapsible {
+  @include row;
+  @include reset-a-style;
+  background-color: white;
+
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  max-width: 100%;
+  text-align: left;
+  font-family: $regular-font;
+  font-size: 1rem;
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.collapsible:before {
+  content: '\02C3'; /* Unicode character for "plus" sign (+) */
+  font-size: 1rem;
+  margin-right: 5px;
+}
+
+.collapsible-active {
+  border-bottom: none;
+}
+
+.collapsible-active:before {
+  font-size: 1rem;
+  content: "\02C5"; /* Unicode character for "minus" sign (-) */
+}
+
+.collapsible-content {
+  @include row;
+  @include reset-a-style;
+
+  padding: 0 2.7rem;
+  width: 100%;
+  max-width: 100%;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  border-top: none;
+  background-color: white;
+  margin-bottom: 1rem;
 }
