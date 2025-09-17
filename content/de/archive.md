@@ -14,7 +14,7 @@ https://www.youtube-nocookie.com/embed/rnPg1tzvkR4?si=pK3RYVMDJ4Ok_J8_
 https://www.youtube-nocookie.com/embed/6CzPvqaBEoE?si=e6guVdBYlLs-pBe_
 {{< /youtube >}}
 
-# Manifests
+# Manifeste
 
 {{< collapse title="**2025: Wir sind verschieden. Wir stehen zusammen.**" color="red">}}
 Vor sechs Jahren haben wir zum ersten Mal die Pride in Marzahn veranstaltet. Es war mutig. Es war ein bisschen

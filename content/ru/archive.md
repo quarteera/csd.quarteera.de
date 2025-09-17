@@ -6,7 +6,7 @@ aliases: ["manifest"]
 draft: false
 ---
 
-# Videos
+# Видео
 
 {{< youtube >}}
 https://www.youtube-nocookie.com/embed/3Zee6X4SqO4?si=g2PRiVpx_f5d5ZEn
@@ -14,7 +14,7 @@ https://www.youtube-nocookie.com/embed/rnPg1tzvkR4?si=pK3RYVMDJ4Ok_J8_
 https://www.youtube-nocookie.com/embed/6CzPvqaBEoE?si=e6guVdBYlLs-pBe_
 {{< /youtube >}}
 
-# Manifests
+# Манифесты
 
 {{< collapse title="**2025: Мы разные. Мы вместе.**" color="red">}}
 Шесть лет назад мы впервые провели Марцан прайд. Это было смело. Это было немного страшно. Но это было по-настоящему важно. \
