@@ -1,37 +1,29 @@
 ---
-title: "Фестиваль" # Title of your project
+title: "Концерт" # Title of your project
 date: 2024-06-09T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 summary: "Програма Марцан Прайду та вуличного фестивалю"
 draft: true
 ---
 
-{{< center >}} # Фестиваль {{< /center >}}
+{{< center >}} # 🎤 Концерт {{< /center >}}
 
+**15:00** – [Slaystans](https://www.instagram.com/slaystans): [DJ BAKAI](https://www.instagram.com/bakai.x), [DJ P/KSTR](https://www.instagram.com/kanella36)
 
-З **14:30 до 19** на **Victor-Klemperer-Platz** ми проводимо вуличний фестиваль, де виступатимуть квір-артист_ки з PostOst-країн. 
-На фестивалі можна буде відпочивати, танцювати, зустрічатися з однодумцями та куштувати смачну їжу. Наступні організації презентують свої стенди та інтерактивні акції для гостей.
+**16:00** – Правління Quarteera; Alfonso Pantisano – «Квір-уповноважений»
 
-## Lineup
-* [SEVA](https://www.instagram.com/sevagramm)
-* [Кÿдесник ☾](https://www.instagram.com/kudesnikmusic/) Rostislav Mazurkevich, Ukrainian minstrel, singer-songwriter
-* [Folkloregruppe "Popuri"](https://www.facebook.com/share/wtyEmn7yB4ochgXq/)
-* [Sveta Ben](https://www.instagram.com/chikissecrets) & [Galya Chikiss](https://www.instagram.com/sveta.ben)
-* [Schisandra Who](https://instagram.com/schisandra.who) Belarusian queer activist Zmicier
-* [MKSM](https://www.instagram.com/mksm.music) Singer, songwriter, violinist, and activist
-* [Aloe Vera](https://www.instagram.com/aloeband/) Pop-Rock-Band
+**16:25** – [ZAVET](https://www.instagram.com/zavetmusic?igsh=enE1cDh3c3c3amps)
 
+**16:55** – Gordon Lemm – Районний радник з питань молоді, сім’ї та охорони здоров’я
 
-## Afterparty
-**[BUSCHE Club](https://maps.app.goo.gl/pyHfXjk4eZbBC8Gy7)**
+**17:05** – Ольга Афтеньєва – член правління Українського центру в Дрездені (UKZ)
 
-**1st Floor:**\
-**20.00-22.00** DJ Neo21 \
-**22.00-00.00** DJ Kirill Shapovalov\
-**00.00-02.00** DJ Séxstasy\
-**02.00-04.00** DJ Timon Richard\
-**04.00-06.00** DJ Lady Suka\
+**17:20** – Гурт «МАКОМ» – [Костянтин Раковський (вокал)](https://www.instagram.com/kos.rakovskyi), [Марiя Шакула (гітара)](https://www.instagram.com/maria.shakula/)
 
-**2nd Floor:**\
-**22.00-05.00** DJ MOLOKO
+**17:50** – Анастасія Судзіловська – BVRE
 
+**18:05** – Перфоманс
+
+**18:30** – [Moore](https://www.instagram.com/_itsmoore_/)
+
+**19:10** – Завершення фестивалю

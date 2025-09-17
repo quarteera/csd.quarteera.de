@@ -2,7 +2,7 @@
 title: "Route" # Title of your project
 date: 2024-05-27T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
-draft: false
+draft: true
 ---
 
 {{< center >}} # Route {{< /center >}}
@@ -13,7 +13,7 @@ Kickoff of the 6th Marzahn Pride with a manifesto reading.
 
 **13:00** — The Parade begins along the Allee der Kosmonauten towards Victor-Klemperer-Platz.
 
-{{< figure src="/images/marzahn-route-map.jpg" class="route-image" caption="Source: Google Maps">}}
+{{< figure src="/images/marzahn_pride_2025/marzahn-pride-route-en.png" class="route-image">}}
 
 **15:00** — The Parade ends at Victor-Klemperer-Platz.
 

@@ -2,7 +2,7 @@
 title: "Маршрут" # Title of your project
 date: 2024-05-27T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
-draft: false
+draft: true
 ---
 
 {{< center >}} # Маршрут {{< /center >}}
@@ -12,7 +12,7 @@ draft: false
 
 **13:00** — Начало шествия по Allee der Kosmonauten в сторону Victor-Klemperer-Platz.
 
-{{< figure src="/images/marzahn-route-map.jpg" class="route-image" caption="Источник: Google Maps">}}
+{{< figure src="/images/marzahn_pride_2025/marzahn-pride-route-ru.png" class="route-image">}}
 
 **15:00** — Завершение парада на Victor-Klemperer-Platz.
 
