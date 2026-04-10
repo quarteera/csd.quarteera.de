@@ -2,7 +2,7 @@ name: Deploy Hugo site to S3
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
 
 jobs:
   deploy:
