@@ -53,8 +53,8 @@
     <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
     {{ $scss := resources.Get "scss/main.scss" }}
-    {{ $style := $scss | resources.ToCSS }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+    {{ $style := $scss | css.Sass }}
+    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
     <link rel="stylesheet" type="text/css" src="https://github.com/necolas/normalize.css/blob/master/normalize.css">
     {{ $title := print .Site.Title " | " .Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}

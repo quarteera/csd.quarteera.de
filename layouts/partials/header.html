@@ -22,7 +22,7 @@
                 </div>
                 {{ end }}
                 <div class="language-selector">
-                    {{ if .Site.IsMultiLingual }}
+                    {{ if hugo.IsMultilingual }}
                     <div class="mobile-language-wrapper">
                         <div class="buttons-container-mobile">
                             {{- partial "buttons.html" . -}}
