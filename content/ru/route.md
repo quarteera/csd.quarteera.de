@@ -4,14 +4,24 @@ date: 2024-05-27T19:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
 draft: true
 ---
+
 {{< center >}} # Маршрут {{< /center >}}
 
-**15 июня 2024 года** ассоциация русскоязычных ЛГБТК\*-активисто_к Quarteera проведёт 5-ый Marzahn Pride в берлинском районе Марцан.
+**12:15** — Встречаем участни_ц парада на **[Allee der Kosmonauten](https://maps.app.goo.gl/tnmB28o4wRPHxsYC8)**, в 100
+метрах от станции S-Bahn Springpfuhl. Открытие 6-го Марцан Прайда и чтение манифеста.
 
-**Встречаемся в 11:30 на перекрестке улиц Poelchaustr. и Bruno-Baumstr. Начало шествия: 12:30\.**
+**13:00** — Начало шествия по Allee der Kosmonauten в сторону Victor-Klemperer-Platz.
 
-{{< figure src="/images/map-entry-point.jpg" class="route-image">}}
+{{< figure src="/images/marzahn_pride_2025/marzahn-pride-route-ru.png" class="route-image">}}
 
-После шествия традиционно c **14:30** до 19:00 пройдет уличный фестиваль на площади **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)**.
+**15:00** — Завершение парада на Victor-Klemperer-Platz.
 
-{{< figure src="/images/marzahn-route-map.png" class="route-image">}}
+**16:00** — Официальное открытие уличного фестиваля на **[Victor-Klemperer-Platz](https://maps.app.goo.gl/12PfkDRWKR8yqouCA)**.
+Выступления представитель_ниц округа
+Марцан-Хеллерсдорф, Консультативного совета по вопросам ЛГБТК+, представител_ниц политических партий и активист_ок ЛГБТК+
+сообщества.
+
+**16:00-19:30** — Концерт с артист_ками, диджеями, ведущими. Работа рынка и стрит-фуда.
+
+**19:30** — Завершение концертной программы. Приглашение участни_ц фестиваля на сцену, со словами благодарности и
+вручением подарков.

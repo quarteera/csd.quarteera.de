@@ -66,3 +66,6 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+/hugo_extended_0.127.0_Linux-amd64.tar.gz
+/LICENSE
+/README.md

@@ -1,16 +1,25 @@
 <!DOCTYPE html>
 <html>
-  {{- partial "head.html" . -}}
-  <!-- disable animation on page load:
-  https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only -->
-  <body class="preload">
-    <div class="body">
-      {{- partial "header.html" . -}}
-      <div id="content" class="content {{ .Params.color }}-background-decor">
-        {{- block "main" . }}{{- end }}
+{{- partial "head.html" . -}}
+<!-- disable animation on page load:
+https://stackoverflow.com/questions/22222810/disable-css-transitions-on-page-load-only -->
+<body class="preload">
+<div class="body">
+  {{- partial "header.html" . -}}
+  <div id="content" class="content {{ .Params.color }}-background-decor">
+    {{- block "main" . }}{{- end }}
+  </div>
+  <div id="cookie-consent-banner" style="display: none;">
+    <div class="cookie-consent-container">
+      <p>{{ i18n "cookie" }}</p>
+      <div class="cookie-buttons">
+        <button id="cookie-consent-decline">{{ i18n "decline" }}</button>
+        <button id="cookie-consent-accept">{{ i18n "accept" }}</button>
       </div>
-      {{- partial "footer.html" . -}}
-      {{- partial "script.html" . -}}
     </div>
-  </body>
+  </div>
+  {{- partial "footer.html" . -}}
+  {{- partial "script.html" . -}}
+</div>
+</body>
 </html>

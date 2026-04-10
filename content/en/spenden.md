@@ -11,18 +11,16 @@ Organizing Marzahn Pride involves significant expenses and relies on donations. 
 
 ### Donation Account:
 
-**Recipient**: Quarteera e. V.  
-**IBAN**: DE08 1203 0000 1020 0131 89  
-**BIC**: BYLADEM1001  
-**Bank**: Deutsche Kreditbank AG, Berlin  
+**Recipient**: Quarteera e. V.\
+**IBAN**: DE08 1203 0000 1020 0131 89\
+**BIC**: BYLADEM1001\
+**Bank**: Deutsche Kreditbank AG, Berlin\
 **Payment Reference**: Marzahn Pride
 
-Alternatively, donations can be made via PayPal.
+Alternatively, donations can be made via PayPal:
 [![paypal](https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PP3MPFQ5C5VGL)
 
-or
-
-{{< betterplace >}}
+or {{< betterplace >}}
 
 
 ### Tax Deduction:

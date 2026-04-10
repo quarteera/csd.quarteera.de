@@ -13,12 +13,12 @@
     <link rel="alternate" hreflang="en" href="https://www.marzahn-pride.de/en" />
     <link rel="alternate" hreflang="ru" href="https://www.marzahn-pride.de/" />
     <link rel="alternate" hreflang="uk" href="https://www.marzahn-pride.de/uk" />
-    <meta name="description" content="Marzahn Pride am 15. Juni 2024"/>
+    <meta name="description" content="Marzahn Pride am 20. Juni 2026 um 12 Uhr"/>
     <meta name="keywords" content="CSD Marzahn Pride Berlin LGBT LGBT+ LGBTIQ LGBT*IQ Menschenrechte Gleichberechtigung Quarteera russischsprachige Migranten Stolz Lesben Schwulen Bisexuelle Transgender Intersex Aktion Demo"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:site_name" content="Marzahn Pride 2024"/>
-    <meta property="og:description" content="Marzahn Pride am 15. Juni 2024 um 12:30 Uhr"/>
-    <meta property="og:title" content="Marzahn Pride 2024"/>
+    <meta property="og:site_name" content="Marzahn Pride 2026"/>
+    <meta property="og:description" content="Marzahn Pride am 20. Juni 2026 um 12 Uhr"/>
+    <meta property="og:title" content="Marzahn Pride 2026"/>
     <meta property="og:url" content="https://www.marzahn-pride.de/"/>
     <meta property="og:site_name" content="https://www.marzahn-pride.de/"/>
     {{ if eq .Site.Language.LanguageName "DE" }}
@@ -67,18 +67,18 @@
         "@graph": [
         {
             "@type": "Event",
-            "name": "Marzahn Pride 2024",
-            "description": "5. Marzahn Pride-Parade findet am 15. Juni 2024 um 12:30 Uhr statt",
-            "startDate": "2024-06-15",
-            "endDate": "2024-06-15",
+            "name": "Marzahn Pride 2026",
+            "description": "7. Marzahn Pride-Parade findet am 20. Juni 2026 um 12 Uhr statt",
+            "startDate": "2026-06-20",
+            "endDate": "2026-06-20",
             "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
             "eventStatus": "https://schema.org/EventScheduled",
             "location": {
                 "@type": "Place",
-                "name": "S-Bahnhof Poelchaustraße",
+                "name": "S-Bahnhof Springfuhl",
                 "address": {
                     "@type": "PostalAddress",
-                    "streetAddress": "Poelchaustraße 1",
+                    "streetAddress": "Allee der Kosmonauten 50",
                     "addressLocality": "Berlin",
                     "postalCode": "12681",
                     "addressRegion": "BE",
@@ -103,4 +103,17 @@
         ]
     }</script>
     {{ end }}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B6KFHWGB8C"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      if (localStorage.getItem("cookieConsent") === "accepted") {
+        gtag('js', new Date());
+        gtag('config', 'G-B6KFHWGB8C');
+      }
+    </script>
 </head>

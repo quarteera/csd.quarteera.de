@@ -1,0 +1,36 @@
+{{/*
+YouTube shortcode without parameters that renders a grid of videos from its body.
+
+Usage:
+{{< youtube >}}
+https://www.youtube-nocookie.com/embed/VIDEO_ID_1
+https://www.youtube.com/watch?v=VIDEO_ID_2
+https://youtu.be/VIDEO_ID_3
+{{< /youtube >}}
+
+- Each non-empty line inside the shortcode body is treated as a video URL.
+- The URL is used verbatim as iframe src (no parsing or rewriting).
+- Outputs the same grid markup as youtubegrid.
+*/}}
+
+{{ $inner := trim .Inner " \t\r\n" }}
+{{ if not $inner }}
+{{ errorf "youtube shortcode requires body content: put one video URL per line inside the shortcode" }}
+{{ end }}
+
+{{ $lines := split $inner "\n" }}
+
+<div class="youtube-grid">
+    {{ range $lines }}
+    {{ $url := trim . " \t\r\n" }}
+    {{ if $url }}
+    <div class="youtube-grid-item">
+        <div class="youtube-grid-aspect">
+            <iframe src="{{ $url }}" title="YouTube video" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    {{ end }}
+    {{ end }}
+</div>

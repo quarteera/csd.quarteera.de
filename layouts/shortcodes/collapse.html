@@ -1,0 +1,4 @@
+<button type="button" class="collapsible {{ .Get "color" }}-dashed-border">{{ .Get "title" | markdownify }}</button>
+<div class="collapsible-content {{ .Get "color" }}-dashed-border">
+<p>{{ .Inner | markdownify}}</p>
+</div>

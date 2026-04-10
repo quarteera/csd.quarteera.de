@@ -5,6 +5,9 @@
         <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
       {{ end }}
     </div>
+    <div class="footer-partners">
+      {{- partial "partners.html" . -}}
+    </div>
     <div class="footer-social">
       {{ $homePage := .Site.GetPage "/" }}
       <a class="q-svg-footer" href="http://www.quarteera.de">
