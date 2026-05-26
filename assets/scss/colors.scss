@@ -302,6 +302,15 @@
   background-color: $dark-blue;
 }
 
+.red-button {
+  @include button;
+  background-color: $red;
+}
+
+.red-button:hover {
+  background-color: $dark-red;
+}
+
 .purple-button {
   @include button;
   background-color: $purple;
@@ -332,6 +341,7 @@
 .orange-button,
 .green-button,
 .purple-button,
+.red-button,
 .blue-button {
   color: white !important; /* force override if black comes from somewhere else */
 }

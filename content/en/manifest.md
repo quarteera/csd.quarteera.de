@@ -2,32 +2,39 @@
 title: "Manifest" # Title of your project
 date: 2024-05-01T16:31:52+01:00
 weight: 10 # Order in which to show this project on the home page
-draft: true
+draft: false
 ---
 
-{{< center >}} # We are different. We are together. {{< /center >}}
+We are taking to the streets of Marzahn once again – a district too often reduced to stereotypes – to draw attention to something simple and essential.
 
-[//]: # ({{< banner src="/images/marzahn-banner-600-en.jpg">}})
+Visibility is the right to be part of society every day: in our families, in school, at work, at the doctor’s office, at the immigration office. It means being queer in every city, in every neighborhood, in every space and community.
 
-Six years ago, we marched in Marzahn for the very first time. It was bold. It was a little scary. But it was truly important.
+“Everything is fine in Berlin” – but not for those who cannot tell their families, loved ones, or friends who they are. Not for those whose loved ones remain in countries where being queer means facing criminal prosecution, public condemnation, or constant fear for one’s safety.
 
-Since then, we've marched with various slogans—inspiring and provocative, personal and political. But always sincere. We’ve come to speak openly — about our rights, about our identities, about the freedom to be ourselves.
+## Visibility does not mean “we have been noticed”
 
-And over these years, we’ve come a long way. And the most important part of this journey isn't just the fight for visibility, but the opportunity to stand alongside others, to hear and to be heard.
+Visibility means: **we matter.**
 
-Over six years, Marzahn Pride has become an event that unites very different people around simple yet crucial values: acceptance, solidarity, respect, and the right to live without fear.
+Many of us know all too well what it means to live in invisibility: not holding hands, not speaking about the people we love, not answering honestly, not being “too visible.”
 
-And we’re proud to be building this space together.
+For many, these are not abstract words. They are lived experience. They are decisions made every single day: what to say, to whom, and in what context. For those who have lived through migration, war, or authoritarian regimes, visibility is also a question of survival.
 
-But we also see how society is becoming increasingly radicalized worldwide, and we fear where this might lead. It's becoming more noticeable: people stop hearing and listening to each other, while fear and hatred are used as politicians' primary tools.
+## No one should have to disappear in order to survive
 
-Many of us know exactly what that looks like — because we’ve had to leave our homes, escaping authoritarian regimes, wars, and dictatorships.
+Real safety does not mean learning how to hide. Real safety means being able to be visible without becoming a target. It means that our right to dignity does not depend on how comfortable society feels accepting us.
 
-That's why participating in this pride isn't just an act of solidarity. It's a necessity.
+We cannot ignore what is happening around us: year after year, far-right attitudes are gaining ground; support for civic initiatives and independent NGOs is shrinking; more and more people are being denied protection and the right to asylum.
 
-We stand for open and honest conversation. We stand for bringing people together, not tearing them apart. We believe that our greatest strength lies in our diversity — in our ability to meet each other with respect, curiosity, and care. That’s how we move forward. That’s how we build a better future.
+We see the situation of queer people worsening across Eastern Europe, the Caucasus, and Central Asia – in Georgia, Belarus, Kazakhstan, Kyrgyzstan, Russia, and other countries where hatred has become part of state policy.
 
-We say: We are different. We are together.
+But we see something else as well: despite fear, people continue to come together and support one another.
 
-And we invite everyone who shares these values — everyone who believes in a world free from discrimination and violence — to join us. Walk with us. Stand with us. For human rights. For dignity. For equality. For all of us.
+## We call on everyone
 
+We call on everyone who shares our values – freedom, safety, and the right of every person to be themselves – to join us and march with us.
+
+**Sichtbarkeit ist Widerstand!**  
+
+**Visibility is resistance!**
+
+# Visible. Equal. Here.
