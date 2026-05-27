@@ -1,3 +1,7 @@
+    {{ $manifestPage := .Site.GetPage "/manifest" }}
+    {{ with $manifestPage }}
+    <a class="button-link red-button" href="{{ $manifestPage.RelPermalink }}">{{ $manifestPage.Title }}</a>
+    {{ end }}
     {{ $routePage := .Site.GetPage "/route"  }}
     {{ with $routePage }}
     <a class="button-link orange-button" href="{{ $routePage.RelPermalink }}">{{ $routePage.Title }}</a>

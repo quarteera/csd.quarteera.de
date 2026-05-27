@@ -21,25 +21,25 @@
     <meta property="og:title" content="Marzahn Pride 2026"/>
     <meta property="og:url" content="https://www.marzahn-pride.de/"/>
     <meta property="og:site_name" content="https://www.marzahn-pride.de/"/>
-    {{ if eq .Site.Language.LanguageName "DE" }}
+    {{ if eq .Site.Language.Label "DE" }}
     <meta property="og:locale" content="de_DE"/>
     <meta property="og:locale:alternate" content="ru_RU" />
     <meta property="og:locale:alternate" content="en_EN" />
     <meta property="og:locale:alternate" content="uk_UA" />
     {{ end }}
-    {{ if eq .Site.Language.LanguageName "RU" }}
+    {{ if eq .Site.Language.Label "RU" }}
     <meta property="og:locale" content="ru_RU"/>
     <meta property="og:locale:alternate" content="de_DE" />
     <meta property="og:locale:alternate" content="en_EN" />
     <meta property="og:locale:alternate" content="uk_UA" />
     {{ end }}
-    {{ if eq .Site.Language.LanguageName "EN" }}
+    {{ if eq .Site.Language.Label "EN" }}
     <meta property="og:locale" content="en_EN"/>
     <meta property="og:locale:alternate" content="ru_RU" />
     <meta property="og:locale:alternate" content="de_DE" />
     <meta property="og:locale:alternate" content="uk_UA" />
     {{ end }}
-    {{ if eq .Site.Language.LanguageName "UK" }}
+    {{ if eq .Site.Language.Label "UK" }}
     <meta property="og:locale" content="uk_UA"/>
     <meta property="og:locale:alternate" content="de_DE" />
     <meta property="og:locale:alternate" content="en_EN" />
@@ -53,15 +53,19 @@
     <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 
     {{ $scss := resources.Get "scss/main.scss" }}
-    {{ $style := $scss | css.Sass }}
-    <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}">
+    {{ if $scss }}
+        {{ $style := $scss | toCSS }}
+        <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+    {{ else }}
+        {{ printf "SCSS resource not found" | warnf }}
+    {{ end }}
     <link rel="stylesheet" type="text/css" src="https://github.com/necolas/normalize.css/blob/master/normalize.css">
     {{ $title := print .Site.Title " | " .Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
 
     {{ $isHome := .Page.IsHome }}
-    {{ if and $isHome (eq .Site.Language.LanguageName "DE")}}
+    {{ if and $isHome (eq .Site.Language.Label "DE")}}
     <script type="application/ld+json">{
         "@context": "https://schema.org",
         "@graph": [
