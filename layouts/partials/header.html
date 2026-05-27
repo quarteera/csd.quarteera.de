@@ -22,7 +22,7 @@
                 </div>
                 {{ end }}
                 <div class="language-selector">
-                    {{ if .Site.IsMultiLingual }}
+                    {{ if hugo.IsMultilingual }}
                     <div class="mobile-language-wrapper">
                         <div class="buttons-container-mobile">
                             {{- partial "buttons.html" . -}}
@@ -31,14 +31,14 @@
                             {{ range $.AllTranslations }}
                             <li class="mobile-language {{ if eq .Language $.Site.Language }}active-language{{ end }}">
                                 <a href="{{ .Permalink }}">
-                                    {{ .Language.LanguageName }}
+                                    {{ .Language.Label }}
                                 </a>
                             </li>
                             {{ end }}
                         </ul>
                     </div>
                     <ul class="desktop-language">
-                        <li><a>{{ $.Site.Language.LanguageName }}</a></li>
+                        <li><a>{{ $.Site.Language.Label }}</a></li>
                         <svg class="language-open" width="10" height="5" viewBox="0 0 21 11" fill="none"
                              xmlns="http://www.w3.org/2000/svg">
                             <path d="M0.666671 1L10.3333 9L20 1" stroke="#FAFAF9" stroke-width="2"/>
@@ -46,7 +46,7 @@
                         <div class="language-popup disable">
                             {{ range $.Translations }}
                             <li>
-                                <a href="{{ .Permalink }}">{{ .Language.LanguageName}}</a>
+                                <a href="{{ .Permalink }}">{{ .Language.Label }}</a>
                             </li>
                             {{ end }}
                         </div>
