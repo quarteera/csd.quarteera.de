@@ -1,81 +1,21 @@
 ---
 title: "Marzahn Pride 2026"
-date: 2025-06-20T19:31:52+01:00
+date: 2026-06-07T19:31:52+01:00
 dataStart: "20. Juni 2026"
 draft: false
 ---
+Wir freuen uns darauf, euch am 20. Juni 2026 beim 7. Marzahn Pride begrüßen zu dürfen!
 
-[//]: # (**📣 Feiern wir Marzahn Pride mit unserem neuen Telegram-Bot!**)
+**11:30 Uhr** – Treffpunkt für die Parade-Teilnehmer\*innen an der Allee der Kosmonauten, 100 Meter von der S-Bahn-Station Springpfuhl entfernt. Eröffnung der 7. Marzahn Pride und Verlesung des Manifests.
 
-[//]: # ()
-[//]: # (Der Pride ist schon bald — am 21. Juni — und wir haben einen praktischen Helfer für euch vorbereitet, damit das Fest bunt, sicher und gut organisiert abläuft!)
+{{< figure src="/images/marzahn_pride_2025/marzahn-pride-route-de.png" class="route-image">}}
 
-[//]: # ()
-[//]: # (**🤖 Unser Bot ist dein Guide für den Marzahn Pride:**)
+**12:00 Uhr** – Begrüßungsrede mit dem Bezirksstadtrat für Jugend, Familie und Gesundheit, Gordon Lemm, und der Queerbeauftragten in Marzahn-Hellersdorf Vanessa Krah. Beginn des Umzugs auf der Allee der Kosmonauten in Richtung Victor-Klemperer-Platz.
 
-[//]: # ()
-[//]: # (🔸 Zeigt dir die Route und das Veranstaltungsprogramm;  )
+**14:00 Uhr** – Ende der Parade am Victor-Klemperer-Platz.
 
-[//]: # (🔸 Informiert über aktuelle Updates;  )
+**14:05 Uhr** – Offizielle Eröffnung des Queeren Nachbarschaftsfests am Victor-Klemperer-Platz mit der Senatorin für Arbeit, Soziales, Gleichstellung, Integration, Vielfalt und Antidiskriminierung, Cansel Kiziltepe, und dem Queerbeauftragten Berlins, Alfonso Pantisano, sowie mit Aktivist\*innen der LSBTIQ\*-Community.
 
-[//]: # (🔸 Erstellt ein Pride-Profilbild — zeige deine Unterstützung!  )
+**14:30 – 17:30 Uhr** – Konzert mit Künstler\*innen und DJs. Festivalbetrieb und Streetfood.
 
-[//]: # ()
-[//]: # (🔗 Starte den Bot hier: [@marzahn_pride_bot]&#40;https://t.me/marzahn_pride_bot&#41;)
-
-[//]: # ({{< center >}} # Manifest {{< /center >}})
-
-[//]: # ()
-[//]: # ({{< figure src="/images/marzahn_pride_2025/MP_banner_de.png" width=100% alt="Marzahn Pride 2025 Banner" class="banner-gap" >}})
-
-[//]: # ()
-[//]: # (Vor sechs Jahren haben wir zum ersten Mal die Pride in Marzahn veranstaltet. Es war mutig. Es war ein bisschen)
-
-[//]: # (beängstigend. Aber es war wirklich wichtig.)
-
-[//]: # ()
-[//]: # (Seitdem haben wir verschiedene Slogans herausgebracht - inspirierend)
-
-[//]: # (und provokativ, persönlich und politisch. Aber immer aufrichtig. Wir haben uns geoutet, um offen über uns selbst)
-
-[//]: # (zu sprechen: über unsere Rechte, über unsere Identität, über die Freiheit, wir selbst zu sein.)
-
-[//]: # ()
-[//]: # (Wir haben einen langen Weg hinter uns. Und das Wichtigste auf diesem Weg ist nicht nur der Kampf um Sichtbarkeit,)
-
-[//]: # (sondern auch die Möglichkeit, mit anderen zusammen zu sein, zu hören und gehört zu werden.)
-
-[//]: # ()
-[//]: # (In sechs Jahren ist die Marzahn Pride zu einer Veranstaltung geworden, die sehr unterschiedliche Menschen auf der Grundlage einfacher)
-
-[//]: # (und wichtiger Werte vereint: Akzeptanz, Solidarität, Respekt und das Recht, ohne Angst zu leben. Und wir sind)
-
-[//]: # (stolz darauf, diesen Raum gemeinsam zu gestalten.)
-
-[//]: # ()
-[//]: # (Doch wir sehen auch die zunehmende Radikalisierung der Gesellschaften in der heutigen Welt, und wir fürchten,)
-
-[//]: # (zu welchen Folgen dies führen kann. Die Radikalisierung wird immer deutlicher: Die Menschen hören einander)
-
-[//]: # (nicht mehr zu, und Angst und Hass werden zum wichtigsten Instrument der Politiker.)
-
-[//]: # ()
-[//]: # (Viele von uns mussten vor autoritären Regimen, Kriegen und Diktaturen fliehen. Deshalb ist die Teilnahme an dieser Parade nicht nur ein Akt)
-
-[//]: # (der Solidarität. Es ist eine Notwendigkeit.)
-
-[//]: # ()
-[//]: # (Wir stehen für einen offenen und aufrichtigen Dialog; dafür, die Gesellschaft zu vereinen, statt sie zu spalten. )
-
-[//]: # (Wir glauben, dass wir in der Vielfalt und im gegenseitigen)
-
-[//]: # (Respekt unsere gemeinsame Stärke und die Fähigkeit finden, einen positiven Wandel herbeizuführen.)
-
-[//]: # (**Wir sagen: "Wir sind verschieden. Wir stehen zusammen."**)
-
-[//]: # ()
-[//]: # (Wir laden alle, die unsere Werte teilen und in einer Gesellschaft ohne Diskriminierung und Gewalt leben wollen,)
-
-[//]: # (ein, sich uns anzuschließen und gemeinsam für die Menschenrechte, die Achtung des Einzelnen und die Gleichheit)
-
-[//]: # (aller Menschen ohne Ausnahme einzutreten.)
+**17:30 – 18:00 Uhr** – Ende des Festivalprogramms.
