@@ -11,12 +11,24 @@ We look forward to welcoming you to the 7th Marzahn Pride on June 20, 2026!
 
 {{< figure src="/images/marzahn_pride_2025/marzahn-pride-route-en.png" class="route-image">}}
 
-**12:00 PM** – Welcome remarks with Gordon Lemm, District Councilor for Youth, Family, and Health, and Vanessa Krah, Queer Commissioner for Marzahn-Hellersdorf. The march begins along Allee der Kosmonauten toward Victor-Klemperer-Platz.
+**12:00 PM** – Welcome remarks with Gordon Lemm, District Councilor for Youth, Family, and Health, Alfonso Pantisano, Berlin’s Queer Commissioner; The march begins along Allee der Kosmonauten toward Victor-Klemperer-Platz.
 
 **2:00 PM** – The parade ends at Victor-Klemperer-Platz.
 
-**2:05 PM** – Official opening of the Queer Neighborhood Festival at Victor-Klemperer-Platz, with Cansel Kiziltepe, Senator for Labor, Social Affairs, Gender Equality, Integration, Diversity, and Anti-Discrimination; Alfonso Pantisano, Berlin’s Queer Commissioner; and activists from the LGBTQI+ community.
+**2:05 PM - 2:20 PM** – Cansel Kiziltepe, Senator for Labor, Social Affairs, Gender Equality, Integration, Diversity, and Anti-Discrimination, and Vanessa Krah, Queer Commissioner for Marzahn-Hellersdorf.
 
-**2:30–5:30 PM** – Concert with artists and DJs. Festival activities and street food.
+**2:20 PM - 2:50 PM** – Zarabudu
 
-**5:30–6:00 PM** – End of the festival program.
+**2:50 PM - 3:10 PM** – DRAG ARTISTS
+
+**3:10 PM - 3:40 PM** – Taz Chernill
+
+**3:40 PM - 4:00 PM** –  DRAG ARTISTS
+
+**4:00 PM -4:05 PM** – BVRE: Olga Groznaya and Mahkam Hamid
+
+**4:05 PM - 4:35 PM** – Стоптайм / Stoptime
+
+**4:35 PM - 5:05 PM** – MKSM
+
+**5:05 PM** – End of the festival program.
