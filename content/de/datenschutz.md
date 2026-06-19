@@ -3,7 +3,8 @@ title: "Datenschutzerklärung"
 date: 2023-04-26T11:53:49+01:00
 draft: false
 image:
-aliases: [/datenschutz, /uk/datenschutz, /en/datenschutz]
+url: /datenschutz/
+aliases: [../de/datenschutz, ../en/datenschutz, ../uk/datenschutz]
 ---
 
 Wir freuen uns sehr über Ihr Interesse an unserem Verein. Datenschutz hat einen besonders hohen Stellenwert für den Vorstand der Quarteera e. V.. Eine Nutzung der Internetseiten der Quarteera e. V. ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Vereins über unsere Internetseite oder in sonstiger Weise in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.
