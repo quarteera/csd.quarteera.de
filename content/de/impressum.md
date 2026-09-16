@@ -12,7 +12,7 @@ Arkonaplatz 5\
 10435 Berlin
 
 ## Verantwortlich für diese Seite und den Inhalt sind:
-Vorstandvorsitzenden: Galina Terekhova
+Vorstandvorsitzenden: Galina
 
 ### Kontakt:
 E-Mail: <info@quarteera.de>
